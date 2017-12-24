@@ -1,1 +1,1 @@
-![](data/Thu%E1%BA%ADt%20Ng%E1%BB%AF/Abi.jpg)
+![](../data/thuat_ngu/Abi.jpg)
