@@ -16,9 +16,10 @@ Ngoài ra một số tên khác có thể viết tắt bằng 3,4 chữ đầu n
 [Y](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#y) | [Z](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#z) | [# Khác](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#-kh%C3%A1c) | -- | -- | --
 
 ## A
-###### **ATM:** Automate, Trong Skill Tree của HU, tự động xài mate khi HP<50%
+##### **ATM:** Automate, Trong Skill Tree của HU, tự động xài mate khi HP<50%
 
-###### **AQ:** Adventure Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
+###### 
+**AQ:** Adventure Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
 
 ###### **Affix:** ~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các ability
 
