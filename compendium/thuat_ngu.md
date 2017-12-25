@@ -61,12 +61,14 @@ Class Braver, bên sea là Samurai
 #### **Bonus unit – Hiden Effect**
 (cá nhân hay gọi là bonus unit):  chỉ số cộng thêm của 1 unit, không xem được, muốn xem phải tự tính khi trang bị vào người
 Như trong hình thì cái Leg Saiki này có bonus unit là +50hp và 2 cái resis
+
 => khi trang bị cái leg này hp +50, không tính affix
 
 ![](../data/thuat_ngu/hiden-effect.jpg)
 
 #### **Bonus unit – Set Effect** 
 (cá nhân hay gọi là bonus set): chỉ số cộng thêm khi trang bị đủ unit/weap trong 1 bộ
+
 Như trong hình thì phải trang bị đủ Rear, Arm, Leg / Saiki thì mới được cộng 60 S/R/T atk, 80 Dex, 25 pp
 
 ![](../data/thuat_ngu/set-effect.jpg)
@@ -89,6 +91,8 @@ Buster Quest, Quest xuất hiện tại ep5, na ná TD
 * trong affix thì ám chỉ weap/unit mình affix để sử dụng
 * trong EQ TD thì nó chỉ mấy cái trụ mình cần bảo kê
 
+## C
+
 #### **Counter:**
 phản dmg (và boost dmg bản thân - nếu + tree) khi chặn đứng 1 đòn đánh từ đối phương, chỉ áp dụng với katana. (xài shift (2 button) hoặc weap actione (3 button) để counter) [Xem thêm](https://3ktan.wordpress.com/br/)
 
@@ -109,18 +113,99 @@ CQ | CQ | CQ
 -- | -- | --
 ![](../data/thuat_ngu/cm-1.jpg) | ![](../data/thuat_ngu/cm-2.jpg) | ![](../data/thuat_ngu/cm-3.jpg)
 
-## C
+#### **Cap:** 
+[Capsule a/b/c/d/e/f](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/#1), vé vào cửa để đi AQ
+
+#### **Cos:**
+costum, trang phục (tốn slot bag)
+
+#### **CF / Collect / File Collect:**
+ám chỉ việc đi kiếm weap 13*+ NT [Pso2- New Type Weapon – NT weapon](https://3ktan.wordpress.com/2016/06/27/pso2-new-type-weapon-nt-weapon-2/)
+
+#### **Compound:**
+Compound Technique. Techni đặc biệt của FO và TE, kết hợp giữa 2 ele. Tất nhiên dmg của nó cũng ảnh hưởng bởi việc build ele nào trong tree (và cả ele của weap nếu main FO). Có thể mua trong photon shop ở F2 shop area với 50 photon sphere / compound. Hoặc làm story ep3, gặp Claris để làm COs
+
+* **Zandion** ザンディオン   kết hợp giữa Wind và Lighting
+* **Fomelgion** (fomel) フォメルギオン , kết hợp giữa Fire và Dark (kame…hame…HAA!!!
+* **Barantsion** (baran) バーランツィオン , kết hợp giữa Ice và Light
+* Ảnh minh họa: (theo thứ tự trên xuống: Zandion, Fomelgion, Barantsion  )
+
+![](../data/thuat_ngu/compound.jpg)
 
 ## D
+#### **Dmg:**
+Damage, sát thương. Dmg mình gây ra màu trắng là dmg thường, còn màu xanh là crit. Tương tự khi bị boss/mob bem, màu đỏ bé là dmg thường, màu đỏ to là crit. Crit sẽ thấy nhiều khi ăn nguyên cái ulti của boss vào người
+
+#### **DOs:**
+Daily Orders: nhiệm vụ hàng ngày. Reset vào 22h hàng ngày (theo giờ VN, chứ bên Nhật là 00h rồi). DOs nhận từ hôm trước, nếu không hoàn thành kịp trong ngày thì để những hôm khác làm cũng được. Không bị mất. Nhưng nếu hôm sau có DO đó thì không cộng dồn, nó là 1
+
+#### **DD:**
+Darker Den, map đặc biệt. Có tỉ lệ “rớt máy bay” khi đi TA mode VH+. (EQ DD không tính là đặc biệt)
+
+#### **Dark Blast:**
+(DB) viết tắt dễ gây hiểu lầm với Duel Blade lắm. Hiểu đơn giản thì nó là AIS xài 1 lần / Quest. Để unlock thì clear ep5 tới đoạn có Dark Blast hoặc đi BuQ SH+ là có.
+DB nó ăn khoảng 10% so với exp mà mình nhận được khi chạy Quest. Exp này sẽ dùng để up skill cho nó. Esc > Dark Blast
+
+Dark Blast | Dark Blast 
+-- | -- 
+![](../data/thuat_ngu/dark-blast-1.jpg) | ![](../data/thuat_ngu/dark-blast-2.jpg)
+
+#### **Dragonkin:**
+Gọi chung cho mob/boss ở Planet Amdus (map Volca / Sanctum/ Skyscape)
 
 ## E
+#### **EQ:**
+Emergency Quests, coi như sự kiện nhỏ hàng này của game đi. Bên sea là UQ. Có 2 loại EQ, 1 là EQ theo lịch, xem ở [đây](https://calendar.google.com/calendar/embed?src=pso2emgquest@gmail.com&mode=agenda&ctz=Asia/Bangkok). 2 là eq random, cứ bừa phứa có mà không có lịch cụ thể nào, chỉ trước 15′ eq thì nó thông báo ở lobby.
+
+#### **EC:**
+Emergency Code, mấy nhiệm vụ nhỏ xuất hiện trong khi đi map
+
+![](../data/thuat_ngu/ec.jpg)
+
+#### **Ele:**
+Element: nguyên tố, có 6 loại: Fire / Ice / Light / Wind / Lighting / Dark. Rất quan trọng nếu chơi mấy class liên quan đến ele như FO, TE, BO ele stance
+
+#### **Ex block:**
+~~Expert Blocks: block chỉ những ai đã đạt đủ điều kiện mới được vô~~
+Giờ nó là [Expert Mode](https://3ktan.wordpress.com/2017/06/07/pso2-expert-block/)
+
+#### **Evo:**
+Evolve Pet Rarity. Dùng để tăng * , change per cho pet mình đang xài tại Pet Lab (shop area, bên cạnh Monica/Dudu)
+
+![](../data/thuat_ngu/evo.jpg)
+
 
 ## F
+#### **FO:**
+Class [Force](https://3ktan.wordpress.com/2017/01/20/pso2_class-fo/)
+
+#### **FI:**
+Class Fighter
+
+#### **FQ:**
+[Featured Quest](https://3ktan.wordpress.com/2016/07/05/pso2_co-ban-cho-nguoi-moi-ver-2/#1.3), Q để kiếm Key đi [Bonus Quest](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#bq). Reset vào 22h hàng ngày (là 0h theo giờ Nhật)
+
+#### **Fodder:**
+(trong affix) weap/unit nguyên liệu để mình affix cho weap/unit chính. Affix tối đa được 5 fodder cùng lúc (có thẻ xài 5 weap/unit nguyên liệu để affix cho weap/unit chính), gọi là fodder 1, fodder 2,… fodder 5. Có thể nghịch [web giả lập affix](http://pso2affix.seilent.net/#)
 
 ## G
+#### **Gear:** 
+cũng éo biết nói như thế nào, đại khái là cộng dmg khi xài weap, tùy weap sẽ có gear hoặc không
+
+![](../data/thuat_ngu/gear.jpg) *Gear là cái thanh màu vàng cam trong hình*
+
+#### **Gu:**
+Class [Gunner](https://3ktan.wordpress.com/2017/02/15/pso2_class-gu/)
+
+#### **Grind:**
+cường hóa vũ khí, tăng chỉ số tấn công (base atk). Qua shop area kiếm Dudu/Monica để tìm hiểu thêm
 
 ## H
+#### HU: Class Hunter
 
+#### H: Hard Mode: chế độ khó, mob/boss lvl 21+
+
+#### Hidden Pot / pot 2: potential ẩn của 1 số weap, cần items đặc biệt để unlock như Photon Booster, Battle Booster… chứ không phải Photon Sphere như bình thường. Pot cũng khá ngon, cơ mà không phải weap nào cũng có
 ## I
 
 ## J
