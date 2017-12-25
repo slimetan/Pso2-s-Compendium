@@ -1,5 +1,5 @@
 # PSO2_Thuật ngữ
-
+lick gốc [PSO2_Thuật ngữ](https://3ktan.wordpress.com/2016/12/18/pso2_thuat-ngu/)
 Thuật ngữ, viết tắt, cách gọi trong game……
 Cách tìm nhanh, ấn F3 hoặc Ctrl + F, sẽ xuất hiện thanh tìm kiếm (1), gõ thuật ngữ vào, nó sẽ nhảy đến vị trí thuật ngữ đó, VD eq (2), ấn mũi tên lên xuống bên cạnh để nhảy đến chỗ cần tìm trong trường hợp có nhiều kết quả quá.
 
