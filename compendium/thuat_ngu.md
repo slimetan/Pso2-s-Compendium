@@ -30,6 +30,27 @@ Ability, các soul, atk đặc biệt để affix vô weap/unit
 
 ![](../data/thuat_ngu/Abi.jpg)
 
+#### **AC:**
+ARKS Cash, 1 AC = 1 Yên Nhật, nạp tiền vô game thì đơn vị nó là AC đó
+
+#### **AQ:**
+[Adventure Quest](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/#1): Q để cày lvl hoặc đồ đem bán
+
+#### **A.I.S**
+AIS: Arks Interception Silhouette. Nguyên con robot mà mình có thể xài. Chức năng thì khá đơn giản nhưng dmg to thì khỏi bàn
+
+![](../data/thuat_ngu/ais.jpg)
+
+#### **Advence Classes:**
+Class nâng cao, bá từ khả năng sống sót tới dealt dmg (ep5 đổ đi): HR (Hero)
+
+Segay sẽ còn update thêm class dạng này trong tương lai. Broken game af
+
+#### **Abnormal:** 
+bao gồm mob/boss UQ, mobe boss Xh+ / lvl 80+ (chưa chắc lắm), boss Profound Darkness. 
+
+Abi Ultimate Buster (UB) tăng 10% dmg khi bem abnormal. Chỉ affix dược cho weap < 13* và rate = 60% với 5 fodder có UB
+
 ## B
 
 ## C
