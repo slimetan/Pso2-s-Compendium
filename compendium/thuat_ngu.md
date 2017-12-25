@@ -1,6 +1,8 @@
 # PSO2_Thuật ngữ
 lick gốc [PSO2_Thuật ngữ](https://3ktan.wordpress.com/2016/12/18/pso2_thuat-ngu/)
+
 Thuật ngữ, viết tắt, cách gọi trong game……
+
 Cách tìm nhanh, ấn F3 hoặc Ctrl + F, sẽ xuất hiện thanh tìm kiếm (1), gõ thuật ngữ vào, nó sẽ nhảy đến vị trí thuật ngữ đó, VD eq (2), ấn mũi tên lên xuống bên cạnh để nhảy đến chỗ cần tìm trong trường hợp có nhiều kết quả quá.
 
 ![](../data/thuat_ngu/thuat_ngu.png)
@@ -364,6 +366,9 @@ skill tree
 
 #### SAF: 
 special ability factor, xem thêm: [PSO2_Special abi](https://3ktan.wordpress.com/2017/01/02/pso2_special-abi/)
+
+#### SSA:
+Super Special Abilities: từ 20/12/2017 đánh dấu sự xuất hiện của SSA. Cũng như affix abi, cơ mà rate nó 100%
 
 #### SP: 
 skill point
