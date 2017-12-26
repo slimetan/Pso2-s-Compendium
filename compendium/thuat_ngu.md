@@ -25,7 +25,7 @@ Automate, Trong Skill Tree của HU, tự động xài mate khi HP<50%
 Adventure Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
 
 #### **Affix:** 
-~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các ability
+~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các [Ability](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#abi)
 
 #### **Abi:** 
 Ability, các soul, atk đặc biệt để affix vô weap/unit
@@ -64,7 +64,7 @@ Class Braver, bên sea là Samurai
 (cá nhân hay gọi là bonus unit):  chỉ số cộng thêm của 1 unit, không xem được, muốn xem phải tự tính khi trang bị vào người
 Như trong hình thì cái Leg Saiki này có bonus unit là +50hp và 2 cái resis
 
-=> khi trang bị cái leg này hp +50, không tính affix
+=> khi trang bị cái leg này hp +50 và 2 cái resis 4%, không tính affix
 
 ![](../data/thuat_ngu/hiden-effect.jpg)
 
