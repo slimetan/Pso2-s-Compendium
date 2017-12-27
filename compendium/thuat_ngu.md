@@ -277,6 +277,9 @@ Meseta, loại tiền cơ bản trong game. Drop khi đi Quest, có thể chọn
 #### Mech: 
 Gọi chung cho mob/boss ở Planet Lilipar (map Desert / Tunnel / Quarry )
 
+#### MB:
+Matter Board: [story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3) ep 1-3
+
 ## N
 #### NT: 
 New Type weap. Xem thêm [Pso2- New Type Weapon – NT weapon](https://3ktan.wordpress.com/2016/06/27/pso2-new-type-weapon-nt-weapon-2/)
