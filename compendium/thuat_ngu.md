@@ -371,7 +371,7 @@ skill tree
 special ability factor, xem thêm: [PSO2_Special abi](https://3ktan.wordpress.com/2017/01/02/pso2_special-abi/)
 
 #### SSA:
-Super Special Abilities: từ 20/12/2017 đánh dấu sự xuất hiện của SSA. Cũng như affix abi, cơ mà rate nó 100%
+[Super Special Abilities](https://3ktan.wordpress.com/2017/12/27/super-special-abilities-ssa-s-class-abilities/): từ 20/12/2017 đánh dấu sự xuất hiện của SSA. Cũng như affix abi, cơ mà rate nó 100%
 
 #### SP: 
 skill point
