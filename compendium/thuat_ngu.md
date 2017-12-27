@@ -202,6 +202,9 @@ Class [Gunner](https://3ktan.wordpress.com/2017/02/15/pso2_class-gu/)
 #### **Grind:**
 cường hóa vũ khí, tăng chỉ số tấn công (base atk). Qua shop area kiếm Dudu/Monica để tìm hiểu thêm
 
+#### Guard: 
+Giảm sát thương nhận vào bằng cách sử dụng Weap Action (WL, sword, pazi, ktn miss counter,…) cơ mà sẽ bị trừ pp
+
 ## H
 #### HU: 
 Class Hunter
@@ -224,8 +227,8 @@ Iron Will, skill tree của HU, có tỉ lệ sống sót với 1HP nếu dmg t�
 #### JA: 
 Jusst Attack, khi xài nor atk hay PA/Technique, sẽ xuất hiện vòng màu xanh rồi nhỏ lại thành màu đỏ, nếu nor atk hay PA/Techni đúng vòng màu đỏ sẽ được buff thêm dmg
 
-#### Guard: 
-Giảm sát thương nhận vào bằng cách sử dụng Weap Action (WL, sword, pazi, ktn miss counter,…) cơ mà sẽ bị trừ pp
+#### JG:
+Just Guard: (cách gọi cho mấy weap của HU) khi chặn đòn thành công từ mob/boss,miss JA thì nó thành [Guard](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#guard)
 
 ## K
 #### KC: 
