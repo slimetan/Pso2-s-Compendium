@@ -281,8 +281,8 @@ Gọi chung cho mob/boss ở Planet Lilipar (map Desert / Tunnel / Quarry )
 #### NT: 
 New Type weap. Xem thêm [Pso2- New Type Weapon – NT weapon](https://3ktan.wordpress.com/2016/06/27/pso2-new-type-weapon-nt-weapon-2/)
 
-##### 
-Nor atk: Normal Attack: đánh thường
+##### Nor atk: 
+Normal Attack: đánh thường
 
 ##### N: 
 Normal Mode: chế độ thường, mob/boss lvl 1+
