@@ -1,13 +1,18 @@
 # Story
+
+Mục Lục:
+1. [Note](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#note)
+2. [Ep1 ~ Ep3](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
+    * [rush story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story)
+3. [Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep4)
+   * [Note Ep4]()
+4. [Ep5](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep5)
+   * [Note Ep5]()
+
+#### Note:
 Có thể Chọn story Ep1-3 hoặc Ep4-5 ở màn hình chọn char
 
 ![](../../data/other/story/000.jpg)
-
-Mục Lục:
-1. [Ep1 ~ Ep3](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
-    * [rush story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story)
-2. [Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep4)
-3. [Ep5](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep5)
 
 #### Ep1 ~ Ep3
 3 Ep này story theo dạng Matter Board (MB)
@@ -73,6 +78,11 @@ Ep4 thì có tiến bộ hơn tí, giao diện khá đơn giản. MB ở dạng 
 
 ![](../../data/other/story/ep4-03.jpg)
 
+#### Note ep4:
+* Từ Ep4 trở đi khi chạy Story Quest, boost sẽ tự động pause
+* Story Ep4 hơi tù, phải vào Bridge mới có thể làm, không như Ep1-3
+* ơ mợ, định viết gì quên r.......
+
 #### Ep5
 Để chuyển qua mode Ep4, vô Bidge gặp Xiera > Change To Ep4 Mode
 
@@ -86,4 +96,18 @@ Có mấy cái Quest BUQ yêu cầu đi MPA, nhưng không có MPA nào đi thì
 
 ![](../../data/other/story/ep5-02.jpg)
 
+Ep5 đánh dấu sự xuất hiện của [Dark Blast](https://3ktan.wordpress.com/2017/10/16/pso2_dark-blast/)
 
+Muốn có DB thì clear Ep5 Chap 2 (The End Of The Conflict, hình như là cái này, hình dưới) hoặc clear BEQ: Endless Belligerence
+
+![](../../data/other/story/db.jpg)
+
+Ngoài ra Ep5 cập nhật thêm Omnibus Quest. Quest này tóm tắt lại và thêm 1 số cảnh của story ep 1 ~ 3
+
+![](../../data/other/story/ob.jpg)
+
+Nếu lười làm MB ep 1-3 thì có thể làm cái này thay.
+
+#### Note ep5:
+* Có thể làm story ngay ở lobby, đỡ tù hơn ep4
+* Nếu không đi BEQ được thì nên làm story ep5 để kiếm Dark Blast
