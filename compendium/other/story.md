@@ -1,4 +1,8 @@
 # Story
+Có thể Chọn story Ep1-3 hoặc Ep4-5 ở màn hình chọn char
+
+![](../../data/other/story/000.jpg)
+
 Mục Lục:
 1. [Ep1 ~ Ep3](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
     * [rush story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story)
@@ -56,6 +60,10 @@ Trung bình 1 MB sẽ chạy ít nhất 2 lần Story Quest. Lý do? Vì 1 Story
 `Công nhận ngày xưa mình chăm chạy story vl................`
 
 #### Ep4
+Để chuyển qua mode Ep4, vô Bidge gặp Xiera > Change To Ep4 Mode
+
+![](../../data/other/story/ep4-00.jpg)
+
 Ep4 thì có tiến bộ hơn tí, giao diện khá đơn giản. MB ở dạng cây, và phân nhánh ra.
 Đường màu đỏ là main story. Cứ theo nó mà làm, có cái gì rẽ nhánh khỏi đường này thì có thể bỏ qua.
 
@@ -66,6 +74,10 @@ Ep4 thì có tiến bộ hơn tí, giao diện khá đơn giản. MB ở dạng 
 ![](../../data/other/story/ep4-03.jpg)
 
 #### Ep5
+Để chuyển qua mode Ep4, vô Bidge gặp Xiera > Change To Ep4 Mode
+
+![](../../data/other/story/ep5-00.jpg)
+
 Lên ep5 thay đổi giao diện MB, lần này ở dạng Quest, cũng chả khác là bao, nó hiện ra cái gì thì chạy cái đó. 
 
 ![](../../data/other/story/ep5-01.jpg)
