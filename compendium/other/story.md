@@ -1,9 +1,9 @@
 # Story
 Mục Lục:
 1. [Ep1 ~ Ep3](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
-    * rush story
-2. Ep4
-3. Ep5
+    * [rush story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story)
+2. [Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep4)
+3. [Ep5](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep5)
 
 #### Ep1 ~ Ep3
 3 Ep này story theo dạng Matter Board (MB)
@@ -41,4 +41,37 @@ Map nào có xuất hiện mob/boss hay EF sẽ có ký hiệu như này, NPC c�
 #### Rush story
 MB nào cũng có title, cho việc hoàn thành mạch chính và hoàn thành toàn bộ (chạy story kiếm title để lấy unit 12* thì cũng nhanh đó)
 
-Nếu lười thì chạy hết node màu vàng (hình dưới) và bỏ qua các node còn lại (gạch chéo màu xanh). 
+Nếu lười thì chạy hết node màu vàng (đường màu đỏ) và bỏ qua các node còn lại (gạch chéo màu xanh). 
+
+![](../../data/other/story/ep1-3-0004.jpg)
+
+Sau khi hoàn thành lượng node màu vàng nhất định của MB, sẽ có thông báo mở Story Quest. Cứ thế mà chạy thôi rồi làm MB tiếp.
+
+Trung bình 1 MB sẽ chạy ít nhất 2 lần Story Quest. Lý do? Vì 1 Story Quest sẽ có nhiều hơn 1 lựa chọn (tưởng tượng gal game đi) Đi lần đầu để làm route 1, đi lần 2 làm route 2,..... 
+
+![](../../data/other/story/ep1-3-0005.jpg)
+
+![](../../data/other/story/ep1-3-0006.jpg)
+
+`Công nhận ngày xưa mình chăm chạy story vl................`
+
+#### Ep4
+Ep4 thì có tiến bộ hơn tí, giao diện khá đơn giản. MB ở dạng cây, và phân nhánh ra.
+Đường màu đỏ là main story. Cứ theo nó mà làm, có cái gì rẽ nhánh khỏi đường này thì có thể bỏ qua.
+
+![](../../data/other/story/ep4-01.jpg)
+
+![](../../data/other/story/ep4-02.jpg)
+
+![](../../data/other/story/ep4-03.jpg)
+
+#### Ep5
+Lên ep5 thay đổi giao diện MB, lần này ở dạng Quest, cũng chả khác là bao, nó hiện ra cái gì thì chạy cái đó. 
+
+![](../../data/other/story/ep5-01.jpg)
+
+Có mấy cái Quest BUQ yêu cầu đi MPA, nhưng không có MPA nào đi thì bỏ xó cho mốc meo cũng được. Tạm thời chưa thấy ảnh hưởng gì :thinking: 
+
+![](../../data/other/story/ep5-02.jpg)
+
+
