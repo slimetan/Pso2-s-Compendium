@@ -5,14 +5,17 @@ Mục Lục:
 2. [Ep1 ~ Ep3](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
     * [rush story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story)
 3. [Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep4)
-   * [Note Ep4]()
+   * [Note Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#note-ep4)
 4. [Ep5](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep5)
-   * [Note Ep5]()
+   * [Note Ep5](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#note-ep5)
 
 #### Note:
-Có thể Chọn story Ep1-3 hoặc Ep4-5 ở màn hình chọn char
+1. Có thể Chọn story Ep1-3 hoặc Ep4-5 ở màn hình chọn char
 
 ![](../../data/other/story/000.jpg)
+
+2. Nên clear story ở mode **Normal**, tuy oánh hơi mệt nhưng sẽ có reward xứng đáng sai khi clear, và cả title nữa.
+3. Nên clear toàn bộ các node của story, 1 phần vì reward, còn lại là title, hoặc nếu rảnh quá éo có gì làm =))))
 
 #### Ep1 ~ Ep3
 3 Ep này story theo dạng Matter Board (MB)
