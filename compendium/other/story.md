@@ -101,7 +101,7 @@ Có mấy cái Quest BUQ yêu cầu đi MPA, nhưng không có MPA nào đi thì
 
 Ep5 đánh dấu sự xuất hiện của [Dark Blast](https://3ktan.wordpress.com/2017/10/16/pso2_dark-blast/)
 
-Muốn có DB thì clear Ep5 Chap 2 (The End Of The Conflict, hình như là cái này, hình dưới) hoặc clear BEQ: Endless Belligerence
+Muốn có DB thì clear Ep5 Chap 2 (The End Of The Conflict, hình như là cái này, hình dưới) hoặc clear BEQ: Endless Belligerence SH+
 
 ![](../../data/other/story/db.jpg)
 
