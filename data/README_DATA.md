@@ -1,0 +1,1 @@
+Toàn ảnh thôi, chả có gì mà ngó đâu. Lượn qua **[đây](https://github.com/3ktan/Pso2-s-Compendium)** mà ngó mục lục đi.
