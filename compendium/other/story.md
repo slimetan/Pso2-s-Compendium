@@ -4,8 +4,8 @@
 
 Mục Lục:
 1. [Note](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#note)
-2. ~~ [Ep1 ~ Ep3](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
-    * [rush story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story) ~~
+2.  [~~Ep1 ~ Ep3~~](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3)
+    * [~~rush story~~](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#rush-story)  
     * Cuối tháng 3/2018 Segay sẽ bỏ Matter Board System, mọi thứ liên quan tới Mattle Board sẽ bị vô hiệu hóa: COs, item, title liên quan tới MB, [xem thêm](https://www.facebook.com/3ktan/photos/a.228810950857842.1073741828.228798484192422/361266440945625/?type=3&theater)
 3. [Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep4)
    * [Note Ep4](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#note-ep4)
