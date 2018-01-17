@@ -1,4 +1,7 @@
 # PSO2_Thuật ngữ
+
+[Trang chủ](https://github.com/3ktan/Pso2-s-Compendium)
+
 lick gốc [PSO2_Thuật ngữ](https://3ktan.wordpress.com/2016/12/18/pso2_thuat-ngu/)
 
 Thuật ngữ, viết tắt, cách gọi trong game……
