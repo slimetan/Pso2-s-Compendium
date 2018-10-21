@@ -1,4 +1,4 @@
-# PSO2_Thuật ngữ
+# PSO2_Thuật Ngữ
 
 [Trang chủ](https://github.com/3ktan/Pso2-s-Compendium)
 
