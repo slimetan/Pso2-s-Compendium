@@ -56,6 +56,13 @@ bao gồm mob/boss UQ, mobe boss Xh+ / lvl 80+ (chưa chắc lắm), boss Profou
 
 Abi Ultimate Buster (UB) tăng 10% dmg khi bem abnormal. Chỉ affix dược cho weap < 13* và rate = 100% với 5 fodder có UB: [Link affix](http://pso2affix.seilent.net/#!/s=VH01&1=VH01&2=VH01&3=VH01&4=VH01&5=&r=VH01&o=)
 
+#### **Arks Missions**
+Phím tắt: Esc > ấn phím Shift hoặc mở theo hình:
+
+![](../data/thuat_ngu/arks_mission.jpg)
+
+Đây sẽ là những nhiệm vụ kiếm meseta chính hàng tuần. Yêu cầu khá là đơn giản, càng nhiều char thì càng nhiều mes. Reset vào thứ 4 hàng tuần (ngày bảo trì)
+
 ## B
 #### **BO:** 
 Class Bouncher
@@ -411,7 +418,8 @@ xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/
 xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/01/pso2-npc-zieg-craft-items/), [PSO2_Craft Type 0](https://3ktan.wordpress.com/2016/11/05/pso2_craft-type-0/)
 
 #### TAXQ: 
-Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)
+~~Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)~~
+**Khi lên Ep6 Sega đã bỏ vụ TAXQ, thay vào đó sẽ là Arks Mission**. Các COs của Klotho bị thay thế và giảm reward.
 
 TAXQ | TAXQ 
 -- | --
