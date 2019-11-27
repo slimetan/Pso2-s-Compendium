@@ -59,7 +59,7 @@ Abi Ultimate Buster (UB) tăng 10% dmg khi bem abnormal. Chỉ affix dược cho
 #### **Arks Missions**
 Phím tắt: Esc > ấn phím Shift hoặc mở theo hình:
 
-![](../data/thuat_ngu/arks_mission.jpg)
+![](../data/thuat_ngu/arks_mission.png)
 
 Đây sẽ là những nhiệm vụ kiếm meseta chính hàng tuần. Yêu cầu khá là đơn giản, càng nhiều char thì càng nhiều mes. Reset vào thứ 4 hàng tuần (ngày bảo trì)
 
@@ -179,7 +179,7 @@ Element: nguyên tố, có 6 loại: Fire / Ice / Light / Wind / Lighting / Dark
 
 #### **Ex block:**
 ~~Expert Blocks: block chỉ những ai đã đạt đủ điều kiện mới được vô~~
-Giờ nó là [Expert Mode](https://3ktan.wordpress.com/2017/06/07/pso2-expert-block/)
+Giờ nó là [Expert Mode](https://pso2.jp.3ktan.site/post/9-expert-mode)
 
 #### **Evo:**
 Evolve Pet Rarity. Dùng để tăng * , change per cho pet mình đang xài tại Pet Lab (shop area, bên cạnh Monica/Dudu)
@@ -420,9 +420,9 @@ xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/
 #### TAXQ: 
 ~~Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)~~.
 
-Khi lên Ep6 Sega đã bỏ vụ TAXQ, thay vào đó sẽ là [Arks Missions](thuat_ngu.md#arks-missions). 
+Khi lên Ep6 Sega đã sửa lại TAXQ, thêm vào đó là [Arks Missions](thuat_ngu.md#arks-missions). 
 
-Các COs của Klotho bị thay thế và giảm reward.
+[Các COs của Klotho bị thay thế và giảm reward](http://www.bumped.org/psublog/countdown-to-pso2-starsepisode-6/).
 
 ## U
 #### Unit: 
@@ -448,7 +448,9 @@ Weak Point: điểm yếu, mỗi boss/mob đều có những điểm yếu riên
 Weak Element: nguyên tố yếu nhất, xài techni thuộc trùng với weak ele sẽ được tính thêm dmg. VD boss weak Fire thì xài techni Fire như: Foie, Safoie….. Trong game sẽ hiển thị weak ele nên sẽ không có gì khó khăn cả
 
 #### WB: 
-Weak Buillet, skill kich hoạt của RA, bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm (120% dmg thì phải)
+Weak Buillet, skill kich hoạt của RA, bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm.
+
+![](../data/thuat_ngu/wb.png)
 
 ## X
 #### XH: 
@@ -476,7 +478,10 @@ phải phân loại rõ vì game phân loại ra từng weap, cũng có skill tr
 #### 630: 
 Lỗi mất kết nối, gọi vui là 630-sama =)))
 
-**Đang cập nhật thêm
-Có gì không biết hay cần chỉnh sửa xin cmt ở dưới**
+=========================================================================
+
+**Đang cập nhật thêm.
+
+Có gì không biết hay cần chỉnh sửa xin liên hệ qua Discord: `_Atan_#0333` **
 
 
