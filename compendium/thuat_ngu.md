@@ -418,31 +418,11 @@ xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/
 xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/01/pso2-npc-zieg-craft-items/), [PSO2_Craft Type 0](https://3ktan.wordpress.com/2016/11/05/pso2_craft-type-0/)
 
 #### TAXQ: 
-~~Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)~~
-**Khi lên Ep6 Sega đã bỏ vụ TAXQ, thay vào đó sẽ là Arks Mission**. Các COs của Klotho bị thay thế và giảm reward.
+~~Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)~~.
 
-TAXQ | TAXQ 
--- | --
-![](../data/thuat_ngu/taxq-1.jpg) | ![](../data/thuat_ngu/taxq-2.jpg)
-mục đích chính là đi kiếm tiền! reset 1 tuần/lân với khoảng 2m mes sau khi hoàn thành. Tính theo char (3 char free/acc) thì khoảng 6 củ/tuần
+Khi lên Ep6 Sega đã bỏ vụ TAXQ, thay vào đó sẽ là [Arks Missions](thuat_ngu.md#arks-missions). 
 
-TA | TA | TA | TA 
--- | -- | -- | --
-![](../data/thuat_ngu/taxq-3.jpg) | ![](../data/thuat_ngu/taxq-4.jpg) | ![](../data/thuat_ngu/taxq-5.jpg) | ![](../data/thuat_ngu/taxq-6.jpg)
-
-TA có thê lên youtube seach cách đi, XQ cũng vậy. Nhưng khi đi XQ thì cần Extreme pass. Có thể nhận ở Pudding với 22h/pass khi có 1 class > lvl 55
-
-XQ | XQ 
--- | --
-![](../data/thuat_ngu/taxq-7.jpg) | ![](../data/thuat_ngu/taxq-8.jpg)
-
-TA chia làm 2 loại: rush TA: chỉ spam 5 lần Hatokan để làm 5 COs này,
-
-![](../data/thuat_ngu/taxq-9.jpg)
-
-mục đích chính là tiết kiếm thời gian. 1 turn Hatokan chỉ có 3′, 5 lần là 15, nhanh gọn
-
-Còn đi full là làm toàn bộ COs TA, tức là đi toàn bộ 7 map TA, thời gian trung bình khoang 1 tiếng. Hơn rush TA 6COs là 360k (Mấy COs N giá có 60k/CO thôi). 15′ với 1 tiếng thì nhiều người chọn Rush.
+Các COs của Klotho bị thay thế và giảm reward.
 
 ## U
 #### Unit: 
