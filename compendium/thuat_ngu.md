@@ -251,13 +251,20 @@ như phía trên thì **アワード連続受賞おめでとう** là keyword, g
 gọi chung cho mob/boss ở Planet Hatokan (Map Shironia/ Kuron)
 
 ## L
-#### LB: 
-Limit Break, con hàng ngon nhất của FI, giảm max HP nhưng buff dmg
-
 #### LA: 
 Lobby Action, các hành động có thể làm trong game, Tăng thêm nhiều hoạt động bằng cách xài ticket LA
 
 ![](../data/thuat_ngu/la.jpg)
+
+
+#### LB: 
+Limit Break, con hàng ngon nhất của FI, giảm max HP nhưng buff dmg
+
+#### LQ: 
+Limited Quest: Quest giới hạn, cái này tùy event sẽ có
+
+![](../data/thuat_ngu/LQ.jpg)
+
 
 #### Layer wear: 
 [Ou] Outer layer, [Ba] Base layer, [In] Inter layer. Lên ep4 segay update layer wear (Bản nâng cấp của cos). [Ou] cơ bản giống cos, không có gì đặc biệt,  [Ba] giống [Ou] nhưng lại không tốn slot bag, và nó nằm bên dưới cos với [Ou]. [In]: giống [Ba] nhưng nó là đồ lót, nằm bên dưới [Ba].
@@ -460,8 +467,10 @@ Weak Buillet, skill kich hoạt của RA, bắn ra đạn trúng chỗ nào củ
 Extra Hard, mob/boss lvl 70+
 
 #### XQ:
-Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới stage sau, mỗi stage sẽ có nhưng yêu cầu khác nhau đề nghị người chơi làm theo. Nếu k hoàn thanh yêu cầu thì stage sẽ sẽ gặp bất lợi như bị resis weap/element, ngược lại nếu hoàn thành sẽ được buff weap/element
+Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới stage sau, mỗi stage sẽ có nhưng yêu cầu khác nhau đề nghị người chơi làm theo. Nếu k hoàn thành yêu cầu thì stage sẽ sẽ gặp bất lợi như bị resis weap/element, ngược lại nếu hoàn thành sẽ được buff weap/element
+
 ![](../data/thuat_ngu/XQ.png)
+
 
 ## Y
 
