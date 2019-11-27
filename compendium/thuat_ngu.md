@@ -459,6 +459,10 @@ Weak Buillet, skill kich hoạt của RA, bắn ra đạn trúng chỗ nào củ
 #### XH: 
 Extra Hard, mob/boss lvl 70+
 
+#### XQ:
+Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới stage sau, mỗi stage sẽ có nhưng yêu cầu khác nhau đề nghị người chơi làm theo. Nếu k hoàn thanh yêu cầu thì stage sẽ sẽ gặp bất lợi như bị resis weap/element, ngược lại nếu hoàn thành sẽ được buff weap/element
+![](../data/thuat_ngu/XQ.png)
+
 ## Y
 
 ## Z
