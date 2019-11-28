@@ -14,21 +14,23 @@ Ngoài ra một số tên khác có thể viết tắt bằng 3,4 chữ đầu n
 
 1 | 2 | 3 | 4 | 5 | 6
 -- | -- | -- | -- | -- | --
-[A](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#a) | [B](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#b) | [C](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#c) | [D](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#d) | [E](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#e) | [F](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#f)
-[G](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#g) | [H](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#h) | [I](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#i) | [J](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#j) | [K](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#k) | [L](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#l)
-[M](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#m) | [N](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#n) | [O](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#o) | [P](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#p) | [Q](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#q) | [R](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#r)
-[S](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#s) | [T](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#t) | [U](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#u) | [V](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#v) | [W](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#w) | [X](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#x)
-[Y](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#y) | [Z](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#z) | [# Khác](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#-kh%C3%A1c) | -- | -- | --
+[A](thuat_ngu.md#a) | [B](thuat_ngu.md#b) | [C](thuat_ngu.md#c) | [D](thuat_ngu.md#d) | [E](thuat_ngu.md#e) | [F](thuat_ngu.md#f)
+[G](thuat_ngu.md#g) | [H](thuat_ngu.md#h) | [I](thuat_ngu.md#i) | [J](thuat_ngu.md#j) | [K](thuat_ngu.md#k) | [L](thuat_ngu.md#l)
+[M](thuat_ngu.md#m) | [N](thuat_ngu.md#n) | [O](thuat_ngu.md#o) | [P](thuat_ngu.md#p) | [Q](thuat_ngu.md#q) | [R](thuat_ngu.md#r)
+[S](thuat_ngu.md#s) | [T](thuat_ngu.md#t) | [U](thuat_ngu.md#u) | [V](thuat_ngu.md#v) | [W](thuat_ngu.md#w) | [X](thuat_ngu.md#x)
+[Y](thuat_ngu.md#y) | [Z](thuat_ngu.md#z) | [# Khác](thuat_ngu.md#-kh%C3%A1c) | -- | -- | --
 
 ## A
 #### **ATM:** 
 Automate, Trong Skill Tree của HU, tự động xài mate khi HP<50%
 
 #### **AQ:** 
-Adventure Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
+Advence Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
+
+![](../data/thuat_ngu/AQ.png)
 
 #### **Affix:** 
-~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các [Ability](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#abi)
+~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các [Ability](thuat_ngu.md#abi)
 
 #### **Abi:** 
 Ability, các soul, atk đặc biệt để affix vô weap/unit
@@ -195,7 +197,9 @@ Class [Force](https://3ktan.wordpress.com/2017/01/20/pso2_class-fo/)
 Class Fighter
 
 #### **FQ:**
-[Featured Quest](https://3ktan.wordpress.com/2016/07/05/pso2_co-ban-cho-nguoi-moi-ver-2/#1.3), Q để kiếm Key đi [Bonus Quest](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#bq). Reset vào 22h hàng ngày (là 0h theo giờ Nhật)
+[Featured Quest](https://3ktan.wordpress.com/2016/07/05/pso2_co-ban-cho-nguoi-moi-ver-2/#1.3), Quest để kiếm Key đi [Bonus Quest](thuat_ngu.md#bq). Reset vào 22h hàng ngày (là 0h theo giờ Nhật)
+
+![](../data/thuat_ngu/FQ.png)
 
 #### **Fodder:**
 (trong affix) weap/unit nguyên liệu để mình affix cho weap/unit chính. Affix tối đa được 5 fodder cùng lúc (có thẻ xài 5 weap/unit nguyên liệu để affix cho weap/unit chính), gọi là fodder 1, fodder 2,… fodder 5. Có thể nghịch [web giả lập affix](http://pso2affix.seilent.net/#)
@@ -238,7 +242,7 @@ Iron Will, skill tree của HU, có tỉ lệ sống sót với 1HP nếu dmg t�
 Jusst Attack, khi xài nor atk hay PA/Technique, sẽ xuất hiện vòng màu xanh rồi nhỏ lại thành màu đỏ, nếu nor atk hay PA/Techni đúng vòng màu đỏ sẽ được buff thêm dmg
 
 #### JG:
-Just Guard: (cách gọi cho mấy weap của HU) khi chặn đòn thành công từ mob/boss,miss JA thì nó thành [Guard](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md#guard)
+Just Guard: (cách gọi cho mấy weap của HU) khi chặn đòn thành công từ mob/boss,miss JA thì nó thành [Guard](thuat_ngu.md#guard)
 
 ## K
 #### KC: 
@@ -295,7 +299,7 @@ Meseta, loại tiền cơ bản trong game. Drop khi đi Quest, có thể chọn
 Gọi chung cho mob/boss ở Planet Lilipar (map Desert / Tunnel / Quarry )
 
 #### MB:
-Matter Board: [story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md#ep1--ep3) ep 1-3
+Matter Board: [story](other/story.md#ep1--ep3) ep 1-3
 
 ## N
 #### NT: 
