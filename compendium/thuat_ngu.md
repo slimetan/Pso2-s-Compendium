@@ -1,9 +1,5 @@
 # PSO2_Thuật Ngữ
 
-[Trang chủ](https://github.com/3ktan/Pso2-s-Compendium)
-
-lick gốc [PSO2_Thuật ngữ](https://3ktan.wordpress.com/2016/12/18/pso2_thuat-ngu/)
-
 Thuật ngữ, viết tắt, cách gọi trong game……
 
 Cách tìm nhanh, ấn F3 hoặc Ctrl + F, sẽ xuất hiện thanh tìm kiếm (1), gõ thuật ngữ vào, nó sẽ nhảy đến vị trí thuật ngữ đó, VD eq (2), ấn mũi tên lên xuống bên cạnh để nhảy đến chỗ cần tìm trong trường hợp có nhiều kết quả quá.
@@ -18,11 +14,13 @@ Ngoài ra một số tên khác có thể viết tắt bằng 3,4 chữ đầu n
 [G](thuat_ngu.md#g) | [H](thuat_ngu.md#h) | [I](thuat_ngu.md#i) | [J](thuat_ngu.md#j) | [K](thuat_ngu.md#k) | [L](thuat_ngu.md#l)
 [M](thuat_ngu.md#m) | [N](thuat_ngu.md#n) | [O](thuat_ngu.md#o) | [P](thuat_ngu.md#p) | [Q](thuat_ngu.md#q) | [R](thuat_ngu.md#r)
 [S](thuat_ngu.md#s) | [T](thuat_ngu.md#t) | [U](thuat_ngu.md#u) | [V](thuat_ngu.md#v) | [W](thuat_ngu.md#w) | [X](thuat_ngu.md#x)
-[Y](thuat_ngu.md#y) | [Z](thuat_ngu.md#z) | [# Khác](thuat_ngu.md#-kh%C3%A1c) | -- | -- | --
+[Y](thuat_ngu.md#y) | [Z](thuat_ngu.md#z) | [#](thuat_ngu.md#-kh%C3%A1c) | -- | -- | --
 
 ## A
 #### **ATM:** 
 Automate, Trong Skill Tree của HU, tự động xài mate khi HP<50%
+
+![](../data/thuat_ngu/ATM.png)
 
 #### **AQ:** 
 Advence Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
@@ -237,6 +235,8 @@ Hidden Pot | Hidden Pot
 #### IW: 
 Iron Will, skill tree của HU, có tỉ lệ sống sót với 1HP nếu dmg từ mob/boss gây lớn hơn số HP hiện tại
 
+![](../data/thuat_ngu/IW.png)
+
 ## J
 #### JA: 
 Jusst Attack, khi xài nor atk hay PA/Technique, sẽ xuất hiện vòng màu xanh rồi nhỏ lại thành màu đỏ, nếu nor atk hay PA/Techni đúng vòng màu đỏ sẽ được buff thêm dmg
@@ -288,7 +288,7 @@ Cái hay ở đây là có thẻ kết hợp [In], [Ba], Cos, [Ou] từ nhiều 
 monomate / dimate / trimate, items hồi máu trong game
 
 #### Mag: 
-[PSO2- Mag](https://3ktan.wordpress.com/2016/08/12/pso2-mag/)
+[PSO2- Mag](https://pso2.jp.3ktan.site/post/10-mag)
 
 #### Mes: 
 Meseta, loại tiền cơ bản trong game. Drop khi đi Quest, có thể chọn tự động nhặt mes trong option > basic setting > basic setting, chọn enable
@@ -318,12 +318,16 @@ Normal Mode: chế độ thường, mob/boss lvl 1+
 Động vật hoang dã =))) 
 Gọi chung cho mob/boss ở Planet Naber (map Forest, Tundra. Ruin là map đặc biệt, mặc dù ở Naber nhưng nó là cái ổ Darker nên không tính)
 
+#### NGU
+Never Give Up: skill trong tree của Hunter. khi IW được kích hoạt sẽ tăng S atk trong 1 khoảng thời gian.
+
+![](../data/thuat_ngu/NGU.png)
+
 ## O
 #### OT: 
-Old Type, weap loại vũ, không có thanh exp, ngược với [NT](thuat-ngu.md#nt).
-![](../data/thuat_ngu/weap_ot.png)
+Old Type, weap loại vũ, không có thanh exp, ngược với [NT](thuat-ngu.md#nt)
 
-![](../data/thuat_ngu/ot.jpg)
+![](../data/thuat_ngu/weap_nt.png)
 
 #### Ocean: 
 gọi chung cho mob/boss ở Planet Vopar (Map Coast / Seabed / Facly)
@@ -457,7 +461,9 @@ Weak Point: điểm yếu, mỗi boss/mob đều có những điểm yếu riên
 Weak Element: nguyên tố yếu nhất, xài techni thuộc trùng với weak ele sẽ được tính thêm dmg. VD boss weak Fire thì xài techni Fire như: Foie, Safoie….. Trong game sẽ hiển thị weak ele nên sẽ không có gì khó khăn cả
 
 #### WB: 
-Weak Buillet, skill kich hoạt của RA, bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm.
+Weak Buillet: skill kich hoạt trong tree của Ranger ![](../data/thuat_ngu/wb_tree.png)
+
+Bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm.
 
 ![](../data/thuat_ngu/wb.png)
 
