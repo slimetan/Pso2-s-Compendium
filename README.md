@@ -1,6 +1,9 @@
 # Pso2's Compendium
 ## Mục Lục
-Xem Thêm: [3ktan wordpress](https://3ktan.wordpress.com/phantasy-star-online-2-jp/)
-1. [Thuật ngữ](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/thuat_ngu.md)
+Xem Thêm: [PSO2 3ktan](https://pso2.jp.3ktan.site/)
+1. [Thuật ngữ](compendium/thuat_ngu.md)
 2. Khác:
-    * [Story](https://github.com/3ktan/Pso2-s-Compendium/blob/master/compendium/other/story.md)
+    * [Story](compendium/other/story.md)
+3. Discord Bot: phụ trợ search item, weap, unit, giá cả .... cho game trên discord
+    * [Invite link](https://discordapp.com/oauth2/authorize?client_id=409256908684263426&scope=bot&permissions=305523830)
+    * [Support Server](https://discord.gg/76HeWzE)

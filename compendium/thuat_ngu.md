@@ -304,6 +304,9 @@ Matter Board: [story](other/story.md#ep1--ep3) ep 1-3
 ## N
 #### NT: 
 New Type weap. Xem thêm [Pso2- New Type Weapon – NT weapon](https://3ktan.wordpress.com/2016/06/27/pso2-new-type-weapon-nt-weapon-2/)
+Có thêm thanh Grind EXP, cách thức grind cũng khác so với [OT](thuat-ngu.md#ot)
+
+![](../data/thuat_ngu/weap_nt.png)
 
 ##### Nor atk: 
 Normal Attack: đánh thường
@@ -312,11 +315,13 @@ Normal Attack: đánh thường
 Normal Mode: chế độ thường, mob/boss lvl 1+
 
 #### Native: 
-Động vật hoang dã =))) Gọi chung cho mob/boss ở Planet Naber (map Forest, Tundra. Ruin là map đặc biệt, mặc dù ở Naber nhưng nó là cái ổ Darker nên không tính)
+Động vật hoang dã =))) 
+Gọi chung cho mob/boss ở Planet Naber (map Forest, Tundra. Ruin là map đặc biệt, mặc dù ở Naber nhưng nó là cái ổ Darker nên không tính)
 
 ## O
 #### OT: 
-Old Type, weap loại vũ, không có thanh exp, ngược với NT
+Old Type, weap loại vũ, không có thanh exp, ngược với [NT](thuat-ngu.md#nt).
+![](../data/thuat_ngu/weap_ot.png)
 
 ![](../data/thuat_ngu/ot.jpg)
 
