@@ -413,7 +413,7 @@ những con quái hiếm, khác so với những con cùng loại. Drop disc hi�
 item để reset lại toàn bộ tree của mọi class. Có thể mua bằng 500AC. Hoặc lâu lâu segay cho. 1 char sẽ có 1 pass, vậy nên mới chơi cứ tạo 3 char để đó, segay sẽ cho 3 reset pass về xài.
 
 #### **Regular Classes:**
-class thường: FI, FO, TE, BO, BR, GU, RA, HU, SU (mấy class từ ep 4 đổ lại)
+Class thường: [FI](thuat_ngu.md#fi), [FO](thuat_ngu.md#fo), [TE](thuat_ngu.md#te), [BO](thuat_ngu.md#bo), [BR](thuat_ngu.md#br), [GU](thuat_ngu.md#gu), [RA](thuat_ngu.md#ra), [HU](thuat_ngu.md#hu), [SU](thuat_ngu.md#su) (mấy class từ ep 4 đổ lại)
 
 ## S
 #### **Su:**
@@ -428,16 +428,16 @@ Symbol Art, mấy cái hình người chơi có thể đưa vào game, câu lệ
 Super Hard Mode: mob/boss lvl 61+
 
 #### **SG:**
-Star Gem: đơn vị tiền chỉ kiếm được qua title, [Arks Leagen](https://3ktan.wordpress.com/2016/12/04/pso2_arks-league-riding-quest/), Bingo
+Star Gem: đơn vị tiền chỉ kiếm được qua title, [Arks Leagen](https://3ktan.wordpress.com/2016/12/04/pso2_arks-league-riding-quest/), Bingo hoặc cà thẻ
 
 #### **Sk tree:**
 Skill tree
 
 #### **SAF:**
-Special ability factor, xem thêm: [PSO2_Special abi](https://3ktan.wordpress.com/2017/01/02/pso2_special-abi/)
+Special Ability Factor, xem thêm: [PSO2_Special abi](https://pso2.jp.3ktan.site/post/5-special-ability-factor-saf-)
 
 #### **SSA:**
-[Super Special Abilities](https://3ktan.wordpress.com/2017/12/27/super-special-abilities-ssa-s-class-abilities/): từ 20/12/2017 đánh dấu sự xuất hiện của SSA. Cũng như affix abi, cơ mà rate nó 100%
+[Super Special Abilities](https://pso2.jp.3ktan.site/post/6-super-special-abilities-ssa-s-class-abilities): từ 20/12/2017 đánh dấu sự xuất hiện của SSA. Cũng như affix abi, cơ mà rate nó 100%
 
 #### **SP:**
 Skill point
@@ -456,9 +456,9 @@ Cốt truyện game
 Class Techer ![](../data/thuat_ngu/te.png)
 
 #### **Techni:**
-Technique: kĩ năng đa dạng, có 6 loại ele chủ yếu. Mỗi ele có 7 techni
+Technique: nói nôm na là phép thuật ấy, chia thành 6 nhóm, mỗi nhóm ele có 7 technique
 
-![](../data/thuat_ngu/techni.jpg) |![](../data/thuat_ngu/techni.jpg)
+![](../data/thuat_ngu/techni.jpg)
 
 #### **TAJAB:**
 Techs Arts Just Attack Bonus: skill tree của [FI](thuat_ngu.md#fi), tăng dmg khi JA liên tục bằng những technique/PA khác nhau
@@ -483,12 +483,14 @@ Khi lên Ep6 Sega đã sửa lại TAXQ, thêm vào đó là [Arks Missions](thu
 
 ## U
 #### **Unit:**
-trang bị. Game có 4 loại trang bị ứng vs 3 chỗ trên cơ thẻ: Rear (lưng), Arm (tay), Leg (chân), Sub (lắp vô lưng, tay hay chân cũng được)
+Trang bị. Game có 4 loại trang bị ứng vs 3 chỗ trên cơ thẻ: Rear (lưng), Arm (tay), Leg (chân), Sub (lắp vô lưng, tay hay chân cũng được)
 
 ![](../data/thuat_ngu/unit.jpg)
 
 #### **UQ:**
 Ultimate Quest: Q với lvl mob/boss 80, tốc độ thì nhanh, khôn lỏi mà dmg lại đau hơn nữa còn xồn xồn lao đến nữa. ~~Không nhầm lẫn với UQ bên sea~~
+
+![](../data/thuat_ngu/UQ.png)
 
 ## V
 #### **VH:**
@@ -496,13 +498,17 @@ Very Hard Mode: mob/boss lvl 41+
 
 ## W
 #### **Weap:**
-Weapon, vũ khí, trong game vũ khí khá đang dạng. Không gọi là wp tránh nhầm lẫn với weak point
+Weapon: vũ khí, trong game vũ khí khá đang dạng. Không gọi là wp tránh nhầm lẫn với [Weak Point](thuat_ngu.md#wp)
 
-#### **wp:**
+#### **WP:**
 Weak Point: điểm yếu, mỗi boss/mob đều có những điểm yếu riêng. Đánh trúng chỗ thì dmg sẽ tăng thêm
 
 #### **Weak Ele:**
-Weak Element: nguyên tố yếu nhất, xài techni thuộc trùng với weak ele sẽ được tính thêm dmg. VD boss weak Fire thì xài techni Fire như: Foie, Safoie….. Trong game sẽ hiển thị weak ele nên sẽ không có gì khó khăn cả
+Weak Element: nguyên tố yếu nhất, xài [Technique](thuat_ngu.md#techni) trùng với weak ele sẽ được tính thêm dmg. 
+
+VD quái weak Fire/Wind thì xài techni Fire như: Foie, Safoie… hoặc techni Wind: Razan, Zan,...
+
+![](../data/thuat_ngu/weak_ele.png)
 
 #### **WB:**
 Weak Buillet: skill kich hoạt trong tree của [RA](thuat_ngu.md#ra) ![](../data/thuat_ngu/wb_tree.png)
@@ -525,7 +531,7 @@ Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới st
 
 ## Z
 #### **Z mode:**
-góc nhìn từ vai của nhân vật (phím Z)
+Đổi góc nhìn từ vai của nhân vật (phím Z)
 
 ## # Khác
 #### Vấn đề Dash trong game:  
