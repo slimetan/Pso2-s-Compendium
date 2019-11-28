@@ -23,7 +23,9 @@ Automate, Trong Skill Tree của HU, tự động xài mate khi HP<50%
 ![](../data/thuat_ngu/ATM.png)
 
 #### **AQ:** 
-Advence Quest: [PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
+[Advence Quest](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/#1): Q để cày lvl hoặc đồ đem bán
+
+[PSO2 – AQ, Red / Blue Weap](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/)
 
 ![](../data/thuat_ngu/AQ.png)
 
@@ -38,16 +40,14 @@ Ability, các soul, atk đặc biệt để affix vô weap/unit
 #### **AC:**
 ARKS Cash, 1 AC = 1 Yên Nhật, nạp tiền vô game thì đơn vị nó là AC đó
 
-#### **AQ:**
-[Adventure Quest](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/#1): Q để cày lvl hoặc đồ đem bán
-
 #### **A.I.S**
 AIS: Arks Interception Silhouette. Nguyên con robot mà mình có thể xài. Chức năng thì khá đơn giản nhưng dmg to thì khỏi bàn
 
 ![](../data/thuat_ngu/ais.jpg)
 
-#### **Advence Classes:**
-Class nâng cao, bá từ khả năng sống sót tới dealt dmg (ep5 đổ đi): HR (Hero)
+#### **Successor Class**
+~~Advence Classes~~
+Class nâng cao, bá từ khả năng sống sót tới dealt dmg (ep5 đổ đi): [HR](thuat_ngu.md#hr)
 
 Segay sẽ còn update thêm class dạng này trong tương lai. Broken game af
 
@@ -65,10 +65,10 @@ Phím tắt: Esc > ấn phím Shift hoặc mở theo hình:
 
 ## B
 #### **BO:** 
-Class Bouncher
+Class Bouncher ![](../data/thuat_ngu/bo.png) 
 
 #### **BR:** 
-Class Braver, bên sea là Samurai
+Class Braver, bên sea là Samurai ![](../data/thuat_ngu/br.png)
 
 #### **Bonus unit – Hiden Effect**
 (cá nhân hay gọi là bonus unit):  chỉ số cộng thêm của 1 unit, không xem được, muốn xem phải tự tính khi trang bị vào người
@@ -189,10 +189,10 @@ Evolve Pet Rarity. Dùng để tăng * , change per cho pet mình đang xài t�
 
 ## F
 #### **FO:**
-Class [Force](https://3ktan.wordpress.com/2017/01/20/pso2_class-fo/)
+Class [Force](https://3ktan.wordpress.com/2017/01/20/pso2_class-fo/) ![](../data/thuat_ngu/fo.png)
 
 #### **FI:**
-Class Fighter
+Class Fighter ![](../data/thuat_ngu/fi.png)
 
 #### **FQ:**
 [Featured Quest](https://3ktan.wordpress.com/2016/07/05/pso2_co-ban-cho-nguoi-moi-ver-2/#1.3), Quest để kiếm Key đi [Bonus Quest](thuat_ngu.md#bq). Reset vào 22h hàng ngày (là 0h theo giờ Nhật)
@@ -209,46 +209,50 @@ cũng éo biết nói như thế nào, đại khái là cộng dmg khi xài weap
 ![](../data/thuat_ngu/gear.jpg) *Gear là cái thanh màu vàng cam trong hình*
 
 #### **Gu:**
-Class [Gunner](https://3ktan.wordpress.com/2017/02/15/pso2_class-gu/)
+Class [Gunner](https://3ktan.wordpress.com/2017/02/15/pso2_class-gu/) ![](../data/thuat_ngu/gu.png)
 
 #### **Grind:**
 cường hóa vũ khí, tăng chỉ số tấn công (base atk). Qua shop area kiếm Dudu/Monica để tìm hiểu thêm
 
-#### Guard: 
+#### **Guard: **
 Giảm sát thương nhận vào bằng cách sử dụng Weap Action (WL, sword, pazi, ktn miss counter,…) cơ mà sẽ bị trừ pp
 
 ## H
-#### HU: 
-Class Hunter
+#### **HU: **
+Class Hunter ![](../data/thuat_ngu/hu.png)
 
-#### H: 
+#### **H: **
 Hard Mode: chế độ khó, mob/boss lvl 21+
 
-#### Hidden Pot / pot 2: 
+#### **Hidden Pot / pot 2: **
 potential ẩn của 1 số weap, cần items đặc biệt để unlock như Photon Booster, Battle Booster… chứ không phải Photon Sphere như bình thường. Pot cũng khá ngon, cơ mà không phải weap nào cũng có
 
 Hidden Pot | Hidden Pot
 -- | --
 ![](../data/thuat_ngu/hidden-pot-1.jpg) | ![](../data/thuat_ngu/hidden-pot-2.jpg)
 
+#### **HR**
+Class Hero ![](../data/thuat_ngu/hr.png)
+[Successor Class](thuat_ngu.md#successor-class) đầu tiên, chỉ có thể đặt làm Main class, không thể làm sub class hoặc để class khác làm sub class cho HR
+
 ## I
-#### IW: 
+#### **IW: **
 Iron Will, skill tree của HU, có tỉ lệ sống sót với 1HP nếu dmg từ mob/boss gây lớn hơn số HP hiện tại
 
 ![](../data/thuat_ngu/IW.png)
 
 ## J
-#### JA: 
-Jusst Attack, khi xài nor atk hay PA/Technique, sẽ xuất hiện vòng màu xanh rồi nhỏ lại thành màu đỏ, nếu nor atk hay PA/Techni đúng vòng màu đỏ sẽ được buff thêm dmg
+#### **JA: **
+Just Attack, khi xài nor atk hay PA/Technique, sẽ xuất hiện vòng màu xanh rồi nhỏ lại thành màu đỏ, nếu nor atk hay PA/Techni đúng vòng màu đỏ sẽ được buff thêm dmg
 
-#### JG:
+#### **JG:**
 Just Guard: (cách gọi cho mấy weap của HU) khi chặn đòn thành công từ mob/boss,miss JA thì nó thành [Guard](thuat_ngu.md#guard)
 
 ## K
-#### KC: 
+#### **KC: **
 Katana Combat: skill kích hoạt của BR, trong 20s dựa trên số hit và lượng dmg gây ra, sẽ gây dmg diện rộng có bán kính khoảng 2,3 step tính từ char khi finish
 
-#### Keyword - Secret Phase: 
+#### **Keyword - Secret Phase: **
 1 đoạn chữ để lấy quà, bằng cách chat nó trong game
 >Say the phrase **アワード連続受賞おめでとう** in chat to receive:
 > * 100 SG Ticket (x1)
@@ -258,183 +262,188 @@ như phía trên thì **アワード連続受賞おめでとう** là keyword, g
 
 ![](../data/thuat_ngu/keyword.jpg)
 
-#### Kuronite: 
+#### **Kuronite: **
 gọi chung cho mob/boss ở Planet Hatokan (Map Shironia/ Kuron)
 
 ## L
-#### LA: 
+#### **LA: **
 Lobby Action, các hành động có thể làm trong game, Tăng thêm nhiều hoạt động bằng cách xài ticket LA
 
 ![](../data/thuat_ngu/la.jpg)
 
 
-#### LB: 
+#### **LB: **
 Limit Break, con hàng ngon nhất của FI, giảm max HP nhưng buff dmg
 
-#### LQ: 
+#### **LQ: **
 Limited Quest: Quest giới hạn, cái này tùy event sẽ có
 
 ![](../data/thuat_ngu/LQ.jpg)
 
-
-#### Layer wear: 
+#### **Layer wear: **
 [Ou] Outer layer, [Ba] Base layer, [In] Inter layer. Lên ep4 segay update layer wear (Bản nâng cấp của cos). [Ou] cơ bản giống cos, không có gì đặc biệt,  [Ba] giống [Ou] nhưng lại không tốn slot bag, và nó nằm bên dưới cos với [Ou]. [In]: giống [Ba] nhưng nó là đồ lót, nằm bên dưới [Ba].
 Tưởng tượng trang phục của char có 3 lớp. Tính từ ngoài vào trong Cos và [Ou] > [Ba] > [In]
 Nếu xài cos thì không xài được [Ou], 2 cái này không xài chung được với nhau vì cùng 1 lớp. [In] với [Ba] thì thoải mái xài
 Cái hay ở đây là có thẻ kết hợp [In], [Ba], Cos, [Ou] từ nhiều bộ khác nhau để ra trang phục mình mong muốn. Cứ theo cơ chế lớp ngoài hở thì lộ ra lớp dưới! VD như  [Ascendant Flame [In]](http://bumped.org/psublog/wp-content/uploads/2016/12/Ascendant-Flame-In-Colors.jpg) +  [Avent Lace [Ba]](http://bumped.org/psublog/wp-content/uploads/2016/12/Avent-Lace-Ba-Colors.jpg) +  [Melty Christmas [Ou]](http://bumped.org/psublog/wp-content/uploads/2016/12/Melty-Christmas-Ou-Colors.jpg).
 
 ## M
-#### Mate: 
+#### **Mate: **
 monomate / dimate / trimate, items hồi máu trong game
 
-#### Mag: 
+#### **Mag: **
 [PSO2- Mag](https://pso2.jp.3ktan.site/post/10-mag)
 
-#### Mes: 
+#### **Mes: **
 Meseta, loại tiền cơ bản trong game. Drop khi đi Quest, có thể chọn tự động nhặt mes trong option > basic setting > basic setting, chọn enable
 
 ![](../data/thuat_ngu/mes.jpg)
 
-#### Mech: 
+#### **Mech: **
 Gọi chung cho mob/boss ở Planet Lilipar (map Desert / Tunnel / Quarry )
 
-#### MB:
-Matter Board: [story](other/story.md#ep1--ep3) ep 1-3
+#### ~~**MB:**~~
+~~Matter Board: [story](other/story.md#ep1--ep3) ep 1-3~~
+Đã bị loại bỏ khi game lên Ep5, thay vào đó là Story Quest
 
 ## N
-#### NT: 
+#### **NT: **
 New Type weap. Xem thêm [Pso2- New Type Weapon – NT weapon](https://3ktan.wordpress.com/2016/06/27/pso2-new-type-weapon-nt-weapon-2/)
 Có thêm thanh Grind EXP, cách thức grind cũng khác so với [OT](thuat-ngu.md#ot)
 
 ![](../data/thuat_ngu/weap_nt.png)
 
-##### Nor atk: 
+##### **Nor atk: **
 Normal Attack: đánh thường
 
-##### N: 
+##### **N: **
 Normal Mode: chế độ thường, mob/boss lvl 1+
 
-#### Native: 
+#### **Native: **
 Động vật hoang dã =))) 
 Gọi chung cho mob/boss ở Planet Naber (map Forest, Tundra. Ruin là map đặc biệt, mặc dù ở Naber nhưng nó là cái ổ Darker nên không tính)
 
-#### NGU
+#### **NGU**
 Never Give Up: skill trong tree của Hunter. khi IW được kích hoạt sẽ tăng S atk trong 1 khoảng thời gian.
 
 ![](../data/thuat_ngu/NGU.png)
 
 ## O
-#### OT: 
+#### **OT: **
 Old Type, weap loại vũ, không có thanh exp, ngược với [NT](thuat-ngu.md#nt)
 
 ![](../data/thuat_ngu/weap_nt.png)
 
-#### Ocean: 
+#### **Ocean: **
 gọi chung cho mob/boss ở Planet Vopar (Map Coast / Seabed / Facly)
 
 ## P
-#### PA: 
+#### **PA: **
 Photon Art: kĩ năng: Khá đang dạng, và nó theo từng loại weap
 
 ![](../data/thuat_ngu/pa.jpg)
 
-#### PB: 
+#### **PB: **
 Photon Blast, skill dặc biệt của mag, có thể xài sau khi char gây đủ dmg hoặc ăn đủ dmg [PSO2- Mag](https://3ktan.wordpress.com/2016/08/12/pso2-mag/)
 
-#### Pot: 
+#### **Pot: **
 Potential, khả năng đặc biệt của weap sau khi grind đến 1 lvl nhất định
 
 ![](../data/thuat_ngu/pot.jpg)
 
 Tương tự ta có **unpot:** mở Potential của weap
 
-#### Pts: 
+#### **Pts: **
 point, nhiều Q sẽ có pts, Kiếm pts để clear Q hoặc boost cho char
 
 ![](../data/thuat_ngu/pts.jpg)
 
-#### Phantom: 
-gọi chung cho mob/boss ở Planet Earth (map Tokyo / Las Vegas)
+#### **PH**
+Class Phantom ![](../data/thuat_ngu/ph.png)
+
+#### **Phantom: **
+Gọi chung cho mob/boss ở Planet Earth (map Tokyo / Las Vegas)
 
 ## Q
-#### Quest: 
+#### **Quest: **
 chỉ mấy bản đồ để mình đi.
 
 ## R
-#### RA
-Class Ranger
+#### **RA**
+Class Ranger ![](../data/thuat_ngu/ra.png)
 
-#### Req
+#### **Req**
 Require: chỉ số yêu cầu. Chỉ số hiện tại (curently) phải lớn hơn hoặc bằng req thì mới có thể sử dụng được unit/weap.
 
 ![](../data/thuat_ngu/req.jpg)
 
-#### Ring: 
+#### **Ring: **
 [PSO2 JP_Ring & Gathering](https://3ktan.wordpress.com/2016/06/24/pso2-jp_ring-gathering/)
 
-#### Rare: 
+#### **Rare: **
 những items 7* trở lên
 
-#### Rare boss, Rare mob: 
+#### **Rare boss, Rare mob:** 
 những con quái hiếm, khác so với những con cùng loại. Drop disc hiếm, nhiều hp và exp hơn. Ảnh dưới là Rare Bal Robos: Bal Dominus
 
 ![](../data/thuat_ngu/bal.jpg)
 
-#### RS skill pass: reset all skill tree pass: 
+#### **RS skill pass: reset all skill tree pass: **
 item để reset lại toàn bộ tree của mọi class. Có thể mua bằng 500AC. Hoặc lâu lâu segay cho. 1 char sẽ có 1 pass, vậy nên mới chơi cứ tạo 3 char để đó, segay sẽ cho 3 reset pass về xài.
 
-#### Regular Classes: 
+#### **Regular Classes: **
 class thường: FI, FO, TE, BO, BR, GU, RA, HU, SU (mấy class từ ep 4 đổ lại)
 
 ## S
-#### Su: 
-Class Summoner (bọn bạo hành động vật :v )
+#### **Su: **
+Class Summoner ![](../data/thuat_ngu/su.png) (bọn bạo hành động vật :v ) 
 
-#### SA: 
+#### **SA: **
 Symbol Art, mấy cái hình người chơi có thể đưa vào game, câu lệnh: /symbol [số slot]. VD: /symbol4
 
 ![](../data/thuat_ngu/sa.jpg)
 
-#### SH: 
+#### **SH: **
 Super Hard Mode: mob/boss lvl 61+
 
-#### SG: 
+#### **SG: **
 Star Gem: đơn vị tiền chỉ kiếm được qua title, [Arks Leagen](https://3ktan.wordpress.com/2016/12/04/pso2_arks-league-riding-quest/), Bingo
 
-#### Sk tree: 
+#### **Sk tree: **
 skill tree
 
-#### SAF: 
+#### **SAF: **
 special ability factor, xem thêm: [PSO2_Special abi](https://3ktan.wordpress.com/2017/01/02/pso2_special-abi/)
 
-#### SSA:
+#### **SSA:**
 [Super Special Abilities](https://3ktan.wordpress.com/2017/12/27/super-special-abilities-ssa-s-class-abilities/): từ 20/12/2017 đánh dấu sự xuất hiện của SSA. Cũng như affix abi, cơ mà rate nó 100%
 
-#### SP: 
+#### **SP: **
 skill point
 
 ## T
-#### TE: 
-Class  Techer
+#### **TE: **
+Class Techer ![](../data/thuat_ngu/te.png)
 
-#### Techni: 
+#### **Techni: **
 Technique: kĩ năng đa dạng, có 6 loại ele chủ yếu. Mỗi ele có 7 techni
 
 ![](../data/thuat_ngu/techni.jpg) |![](../data/thuat_ngu/techni.jpg)
 
-#### TAJAB: 
+#### **TAJAB: **
 Techs Arts Just Attack Bonus: skill tree của FI, tăng dmg khi JA liên tục bằng những technique/PA khác nhau
 
-#### TEQ: 
+![](../data/thuat_ngu/TAJAB.png)
+
+#### **TEQ: **
 Team EQ, mọi người trong team đi EQ cùng với nhau thôi, không có người ngoài. Mục đích vui + tryhard :v :v
 
-#### Time Abi: 
+#### **Time Abi: **
 xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/01/pso2-npc-zieg-craft-items/)
 
-#### Type 0: 
+#### **Type 0: **
 xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/01/pso2-npc-zieg-craft-items/), [PSO2_Craft Type 0](https://3ktan.wordpress.com/2016/11/05/pso2_craft-type-0/)
 
-#### TAXQ: 
+#### ~~**TAXQ: **~~
 ~~Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)~~.
 
 Khi lên Ep6 Sega đã sửa lại TAXQ, thêm vào đó là [Arks Missions](thuat_ngu.md#arks-missions). 
@@ -442,29 +451,29 @@ Khi lên Ep6 Sega đã sửa lại TAXQ, thêm vào đó là [Arks Missions](thu
 [Các COs của Klotho bị thay thế và giảm reward](http://www.bumped.org/psublog/countdown-to-pso2-starsepisode-6/).
 
 ## U
-#### Unit: 
+#### **Unit: **
 trang bị. Game có 4 loại trang bị ứng vs 3 chỗ trên cơ thẻ: Rear (lưng), Arm (tay), Leg (chân), Sub (lắp vô lưng, tay hay chân cũng được)
 
 ![](../data/thuat_ngu/unit.jpg)
 
-#### UQ: 
+#### **UQ: **
 Ultimate Quest: Q với lvl mob/boss 80, tốc độ thì nhanh, khôn lỏi mà dmg lại đau hơn nữa còn xồn xồn lao đến nữa. ~~Không nhầm lẫn với UQ bên sea~~
 
 ## V
-#### VH: 
+#### **VH: **
 Very Hard Mode: mob/boss lvl 41+
 
 ## W
-#### Weap: 
-weapon, vũ khí, trong game vũ khí khá đang dạng. Không gọi là wp tránh nhầm lẫn với weak point
+#### **Weap: **
+Weapon, vũ khí, trong game vũ khí khá đang dạng. Không gọi là wp tránh nhầm lẫn với weak point
 
-#### wp: 
+#### **wp: **
 Weak Point: điểm yếu, mỗi boss/mob đều có những điểm yếu riêng. Đánh trúng chỗ thì dmg sẽ tăng thêm
 
-#### Weak Ele: 
+#### **Weak Ele: **
 Weak Element: nguyên tố yếu nhất, xài techni thuộc trùng với weak ele sẽ được tính thêm dmg. VD boss weak Fire thì xài techni Fire như: Foie, Safoie….. Trong game sẽ hiển thị weak ele nên sẽ không có gì khó khăn cả
 
-#### WB: 
+#### **WB: **
 Weak Buillet: skill kich hoạt trong tree của [RA](thuat_ngu.md#ra) ![](../data/thuat_ngu/wb_tree.png)
 
 Bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm.
@@ -472,10 +481,10 @@ Bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đ
 ![](../data/thuat_ngu/wb.png)
 
 ## X
-#### XH: 
+#### **XH: **
 Extra Hard, mob/boss lvl 70+
 
-#### XQ:
+#### **XQ:**
 Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới stage sau, mỗi stage sẽ có nhưng yêu cầu khác nhau đề nghị người chơi làm theo. Nếu k hoàn thành yêu cầu thì stage sẽ sẽ gặp bất lợi như bị resis weap/element, ngược lại nếu hoàn thành sẽ được buff weap/element
 
 ![](../data/thuat_ngu/XQ.png)
@@ -484,7 +493,7 @@ Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới st
 ## Y
 
 ## Z
-#### Z mode: 
+#### **Z mode: **
 góc nhìn từ vai của nhân vật (phím Z)
 
 ## # Khác
