@@ -542,11 +542,6 @@ di chuyển với khoảng cách ngắn: mục đích là né skill boss/mobs, r
 phải phân loại rõ vì game phân loại ra từng weap, cũng có skill tree + thêm với ring cho từng loại nữa. VD như ring slow roll thì chỉ xài được cho roll (chỉ xài cho tmg , rif, launcher) mirage escape với step sẽ khoogn xài được.
 #### 630: 
 Lỗi mất kết nối, gọi vui là 630-sama =)))
-
-=========================================================================
-
-**Đang cập nhật thêm.
-
-Có gì không biết hay cần chỉnh sửa xin liên hệ qua Discord: `_Atan_#0333` **
+ 
 
 
