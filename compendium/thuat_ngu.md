@@ -361,7 +361,11 @@ gọi chung cho mob/boss ở Planet Earth (map Tokyo / Las Vegas)
 chỉ mấy bản đồ để mình đi.
 
 ## R
-Req: chỉ số yêu cầu. Chỉ số hiện tại (curently) phải lớn hơn hoặc bằng req thì mới có thể sử dụng được unit/weap.
+#### RA
+Class Ranger
+
+#### Req
+Require: chỉ số yêu cầu. Chỉ số hiện tại (curently) phải lớn hơn hoặc bằng req thì mới có thể sử dụng được unit/weap.
 
 ![](../data/thuat_ngu/req.jpg)
 
@@ -461,7 +465,7 @@ Weak Point: điểm yếu, mỗi boss/mob đều có những điểm yếu riên
 Weak Element: nguyên tố yếu nhất, xài techni thuộc trùng với weak ele sẽ được tính thêm dmg. VD boss weak Fire thì xài techni Fire như: Foie, Safoie….. Trong game sẽ hiển thị weak ele nên sẽ không có gì khó khăn cả
 
 #### WB: 
-Weak Buillet: skill kich hoạt trong tree của Ranger ![](../data/thuat_ngu/wb_tree.png)
+Weak Buillet: skill kich hoạt trong tree của [RA](thuat_ngu.md#ra) ![](../data/thuat_ngu/wb_tree.png)
 
 Bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm.
 
