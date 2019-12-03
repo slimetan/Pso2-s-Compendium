@@ -156,7 +156,7 @@ Complex Photon Arts: cũng là PA cơ mà hơi khác 1 tẹo, chỉ có thể d�
 
 ![](../data/thuat_ngu/CPA.png)
 
-Clear [CO](thuat_ngu.md#cos) của Koffie để unlock CPA.   ![](../data/thuat_ngu/CPA_CO.png) 
+Clear [CO](thuat_ngu.md#cos) của Koffie để unlock CPA.  ![](../data/thuat_ngu/CPA_CO.png) 
 
 Có thể đặt vô weapon pallet hoặc sub pallet. Gause cơ bản có 3 vạch, mỗi lần tiêu hao 2,3 vạch tùy CPA. Có thể nâng max vạch này lên 4,5 vạch bằng cách làm thêm các [CO](thuat_ngu.md#cos) của Koffie.
 
