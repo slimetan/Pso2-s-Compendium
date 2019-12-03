@@ -151,6 +151,15 @@ Compound Technique. Techni đặc biệt của FO và TE, kết hợp giữa 2 e
 
 ![](../data/thuat_ngu/compound.jpg)
 
+#### **CPA:**
+Complex Photon Arts: cũng là PA cơ mà hơi khác 1 tẹo, chỉ có thể dùng với main class. Cách dùng tương tự [PB](thuat_ngu.md#pb). Gây [dmg](thuat_ngu.md#dmg) lên quái để tích gause, không tiêu tốn PP khi dùng.
+
+![](../data/thuat_ngu/CPA.png)
+
+Clear [CO](thuat_ngu.md#cos) của Koffie để unlock CPA.   ![](../data/thuat_ngu/CPA_CO.png) 
+
+Có thể đặt vô weapon pallet hoặc sub pallet. Gause cơ bản có 3 vạch, mỗi lần tiêu hao 2,3 vạch tùy CPA. Có thể nâng max vạch này lên 4,5 vạch bằng cách làm thêm các [CO](thuat_ngu.md#cos) của Koffie.
+
 ## D
 #### **Dmg:**
 Damage, sát thương. Dmg mình gây ra màu trắng là dmg thường, còn màu xanh là crit. Tương tự khi bị boss/mob bem, màu đỏ bé là dmg thường, màu đỏ to là crit. Crit sẽ thấy nhiều khi ăn nguyên cái ulti của boss vào người
@@ -491,6 +500,9 @@ Trang bị. Game có 4 loại trang bị ứng vs 3 chỗ trên cơ thẻ: Rear 
 Ultimate Quest: Q với lvl mob/boss 80, tốc độ thì nhanh, khôn lỏi mà dmg lại đau hơn nữa còn xồn xồn lao đến nữa. ~~Không nhầm lẫn với UQ bên sea~~
 
 ![](../data/thuat_ngu/UQ.png)
+
+#### **UH:**
+Ultra Hard: quái level 91+
 
 ## V
 #### **VH:**
