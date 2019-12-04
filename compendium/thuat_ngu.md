@@ -160,9 +160,18 @@ Clear [CO](thuat_ngu.md#cos) của Koffie để unlock CPA.  ![](../data/thuat_n
 
 Có thể đặt vô weapon pallet hoặc sub pallet. Gause cơ bản có 3 vạch, mỗi lần tiêu hao 2,3 vạch tùy CPA. Có thể nâng max vạch này lên 4,5 vạch bằng cách làm thêm các [CO](thuat_ngu.md#cos) của Koffie.
 
+#### **crit:**
+Critical: trí mạng, có 3 mục
+
+* Critical Hit - crit hit: Các đòn đánh gây sát thương trí mạng 
+* Critical Rate - crit rate: Tỉ lệ gây sát thương trí mạng. Dựa vào từng class, có thể tăng tỉ lệ bằng việc dùng [SSA](thuat_ngu.md#ssa) hay ring
+* Critical Damage - crit dmg: Sát thương trí mạng (Trong game crit dmg sẽ có màu xanh, dmg thường sẽ là màu trắng)
+
+Lưu ý là không gọi chung crit, sẽ dễ hiểu nhầm.
+
 ## D
 #### **Dmg:**
-Damage, sát thương. Dmg mình gây ra màu trắng là dmg thường, còn màu xanh là crit. Tương tự khi bị boss/mob bem, màu đỏ bé là dmg thường, màu đỏ to là crit. Crit sẽ thấy nhiều khi ăn nguyên cái ulti của boss vào người
+Damage: sát thương.
 
 #### **DOs:**
 Daily Orders: nhiệm vụ hàng ngày. Reset vào 22h hàng ngày (theo giờ VN, chứ bên Nhật là 00h rồi). DOs nhận từ hôm trước, nếu không hoàn thành kịp trong ngày thì để những hôm khác làm cũng được. Không bị mất. Nhưng nếu hôm sau có DO đó thì không cộng dồn, nó là 1
@@ -534,7 +543,7 @@ Bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đ
 Extra Hard, mob/boss lvl 70+
 
 #### **XQ:**
-Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới stage sau, mỗi stage sẽ có nhưng yêu cầu khác nhau đề nghị người chơi làm theo. Nếu k hoàn thành yêu cầu thì stage sẽ sẽ gặp bất lợi như bị resis weap/element, ngược lại nếu hoàn thành sẽ được buff weap/element
+Extreme Quest: 1 Quest dạng 5 stage, vượt qua stage trước để tới stage sau, mỗi stage sẽ có những yêu cầu khác nhau đề nghị người chơi làm theo. Nếu không hoàn thành yêu cầu thì stage sau sẽ gặp bất lợi như bị resis weap/element, ngược lại nếu hoàn thành sẽ được buff weap/element
 
 ![](../data/thuat_ngu/XQ.png)
 
