@@ -43,14 +43,14 @@ Có thể dùng nhiều lệnh màu trong câu. Copy đoạn sau vô game: `chu 
 
 - `/toge` : biểu thị mấy thoại cần hét lớn 
 
-![](![](../data/chat_commands/toge.png)
+![](../data/chat_commands/toge.png)
 
 - `/moya` : biểu thị suy nghĩ thoại
 
-![](![](../data/chat_commands/moya.png)
+![](../data/chat_commands/moya.png)
 
 - `/mn#` : # là số từ 1~39. Bong bóng thoại cảm xúc.
 
 VD: `/mn1`, `/mn2`, ..., `/mn39`
 
-![](![](../data/chat_commands/mn8.png)
+![](../data/chat_commands/mn8.png)
