@@ -24,18 +24,18 @@ Thay đổi màu chữ bằng việc thêm `{màu}` vào trước đó
 `{màu}` có dạng `{3 chữ cái đầu tiên của màu đó trong t.anh}`. VD: `{red}` : màu đỏ, `{blu}` : xanh nước biển,...
 
 Command | Màu
--- | -- 
-{red} | red - đỏ
-{ora} | orange - cam
-{yel} | yellow - vàng
-{gre} | green - xanh lá 
-{blu} | blue - xanh nước biển
-{pur} | purple - tím
-{vio} | pink - hồng
-{bei} | beige - xám tro 
-{whi} | white - trắng
-{blk} | black - đen
-{def} | bỏ màu trước đó
+------- | --------------------- 
+{red}   | red - đỏ
+{ora}   | orange - cam
+{yel}   | yellow - vàng
+{gre}   | green - xanh lá 
+{blu}   | blue - xanh nước biển
+{pur}   | purple - tím
+{vio}   | pink - hồng
+{bei}   | beige - xám tro 
+{whi}   | white - trắng
+{blk}   | black - đen
+{def}   | bỏ màu trước đó
 
 Có thể dùng nhiều lệnh màu trong câu: `chu binh thương {red} qua mau do {vio} chuyen mau hong {def} ve mau mac dinh` .
 
