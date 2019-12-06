@@ -24,6 +24,7 @@ Thay đổi màu chữ bằng việc thêm `{màu}` vào trước đó
 `{màu}` có dạng `{3 chữ cái đầu tiên của màu đó trong t.anh}`. VD: `{red}` : màu đỏ, `{blu}` : xanh nước biển,...
 
 Command | Màu
+-- | -- 
 {red} | red - đỏ
 {ora} | orange - cam
 {yel} | yellow - vàng
