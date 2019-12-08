@@ -220,6 +220,8 @@ Thay đổi trang bị | Short Command | Nội Dung
 
 <br>
 =====================================================
+
 Source: 
+
 - http://ohpso2.wikia.com/wiki/Chat_Commands
 - http://pso2.swiki.jp
