@@ -7,8 +7,8 @@
 5. [Cut-in Display](chat_commands.md#5-cut-in-display)
 6. [Symbol Art](chat_commands.md#6-symbol-art)
 7. [Voice](chat_commands.md#7-voice)
-8. [Fashion / Selfie]()
-9. [Trạng Thái](chat_commands.md#8-hệ-thống-game)
+8. [Fashion / Selfie](/hat_commands.md#8-fashion--selfie)
+9. [Trạng Thái](chat_commands.md#9-trạng-thái)
 10. [Khác](chat_commands.md#10-khác)
 11. [Lưu ý](chat_commands.md#11-lưu-ý)
 
@@ -16,13 +16,11 @@
 - Ấn Enter để mở cửa sổ chat
 - Giữ `Ctrl và ấn phím mũi tên trái/phải` để thay đổi mục hiển thị tin nhắn.
 - Giữ `Ctrl và ấn phím mũi tên lên/xuống` để dùng lại các câu đã chat trước đó.
-- Giữ `Alt và ấn phím mũi tên trái/phải` để thay đổi kiểu gửi tin nhắn.
-
+- Giữ `Alt và ấn phím mũi tên trái/phải` để thay đổi kiểu gửi tin nhắn.<br>
     Hoặc chat nhanh bằng việc đặt command sau lên trước câu:
     - `/a` : Public Chat
     - `/p` : Party Chat
     - `/t` : Team Chat
-    - Whisper và Group Chat không có command, và khi để
 - Phím `Scroll Lock` để bật chat mode, gõ phím bất kì sẽ bắt đầu chat luôn, thích hợp dùng khi AFK tại Lobby.
 
 
@@ -81,7 +79,7 @@ với `<command>` là tên command của LA
 
 
 ## 5: Cut-in Display
-Bạn có thể hiển thị mặt của char cho mọi ngườI xem kèm các câu thoại.
+Bạn có thể hiển thị mặt của char cho mọi người xem kèm các câu thoại.
 
 ![](../data/chat_commands/cut-in.png)
 
@@ -89,9 +87,9 @@ Bạn có thể hiển thị mặt của char cho mọi ngườI xem kèm các c
 
 - Trong đó:
 
-Kiểu biểU cảm khuôn mặt| Hướng quay camera | Tuỳ chọn
+Kiểu biểu cảm khuôn mặt| Hướng quay camera | Tuỳ chọn
 -- | -- | --
-`1` : biểu cảm bình thường | `1`: phía trước | `nw` : không hiểN thị khung cut-in (như chat bình thường )
+`1` : biểu cảm bình thường | `1`: phía trước | `nw` : không hiển thị khung cut-in (như chat bình thường )
 `2` : vui | `2` : chéo | `s??` : Thời gian hiện cut-in. `??` thay bằng số giây. VD: `s15`, `s30`.
 `3` : tức giận | `3` : chéo trên | `t?` : độ sáng, thay `?` bằng số từ 1~5. VD `t1`, `t2`, ..., `t5`.
 `4` : buồn | `4` : chéo dướI | 	
@@ -102,6 +100,7 @@ Kiểu biểU cảm khuôn mặt| Hướng quay camera | Tuỳ chọn
 `9` : nháy mắt |  | 
 
 VD: 
+
 `/ci3 3 test` | `/ci9 1 t4 test`
 --- | ---
 ![](../data/chat_commands/ci33.png) | ![](../data/chat_commands/ci91t4.png)
@@ -118,7 +117,7 @@ VD: `/symbol6`
 ![](../data/chat_commands/symbol6.png) 
 
 ## 7: Voice
-Dùng command `/vo<số>` để nghe các thoại của voice đÓ. 
+Dùng command `/vo<số>` để nghe các thoại của voice đó. 
 
 Lưu ý: mở loa lên.
 
@@ -142,9 +141,9 @@ Command | Thoại
 ## 8: Fashion / Selfie 
 Fashion / Selfie Command | Short Command | Nội Dung
 -- | -- | --
-`/costume <costume>` | `/cs <costume>` | Thay đổi costume/[OU] có sẵn trong túi. <br>Lưu ý tên costume phải viết liền. VD: costume `Off Shoulder Knit Mysterious [Ou]` thì dùng `/cs OffShoulderKnitMysterious[Ou]`
-`/camouflage <camo>` | `/cmf <camo>` | Thay đổi camo có sẵn trong túi. <br>Lưu ý tên camo phải viết liền. VD: costume `Off Shoulder Knit Mysterious [Ou]` thì dùng `/cs OffShoulderKnitMysterious[Ou]`
-`/myfashion#` | `/mf#` | `#` là số từ 1 ~ 10, nếu bạn là Pre User thi `#` chạy từ 1 ~ 30. <br>Sau khi lưu lại điều chỉnh về thời trang của char (cos, access,...) trong mục Esc > Fashion / Catalog > Fashion Editing > My Fashion thì chỉ việc gõ `/ms#` để dùng lại fashion đó. <br> ![](../data/chat_commands/myfashion.png)
+`/costume <costume>` | `/cs <costume>` | Thay đổi costume/[OU] có sẵn trong túi. <br>Lưu ý tên costume phải viết liền. <br> VD: costume `Off Shoulder Knit Mysterious [Ou]` thì dùng `/cs OffShoulderKnitMysterious[Ou]`
+`/camouflage <camo>` | `/cmf <camo>` | Thay đổi camo có sẵn trong túi. <br>Lưu ý tên camo phải viết liền.  <br>  VD: costume `Off Shoulder Knit Mysterious [Ou]` thì dùng `/cs OffShoulderKnitMysterious[Ou]`
+`/myfashion#` | `/mf#` | `#` là số từ 1 ~ 10, nếu bạn là Pre User thi `#` chạy từ 1 ~ 30. <br>Sau khi lưu lại điều chỉnh về thời trang của char (cos, access,...) trong  *Esc > Fashion / Catalog > Fashion Editing > My Fashion* thì chỉ việc gõ `/ms#` để dùng lại fashion đó. <br> ![](../data/chat_commands/myfashion.png)
 `/ce on` <br> hoặc <br>  `/ce off` | | Lệnh char nhìn/không nhìn thẳng vào camera 
 `/ce# on` <br> hoặc <br> `/ce# off` | | Lệnh char nhìn thẳng vào camera với biểu cảm. <br> `#` là số từ 1~9, xem mục [Cut-in Display](chat_commands.md#5-cut-in-display)
 `/ceall` | | Tất cả char sẽ nhìn vào camera trong 10s
@@ -152,12 +151,13 @@ Fashion / Selfie Command | Short Command | Nội Dung
 `/ce#` | | Lệnh char nhìn thẳng vào camera với biểu cảm trong 10s. `#` là số từ 1~9
 `/ce# stop` | | Đóng băng biếu cảm nhân vật. `#` là số từ 1~9. <br> VD: dùng `/ce3` chờ chạy tới biểu cảm ưng ý thì `/ce3 stop`
 `/la <name> s#` | | Đóng băng LA. Yêu cầu Pre User. <br>`<name>` là LA, `#` là giây. <br> VD: `/la trance s3.9`
+`/uioff #` | | Ẩn UI game. `#` nếu bỏ trống thì mặc định là 10s, tối đa là 600s. Bật lại UI bằng cách ấn Esc
 
 ## 9: Trạng Thái
 Command | Short Command | Nội Dung
 -- | -- | --
-`<hp>` | | HP hiện tại)/(max HP
-`<pp>` | | PP hiện tại/(max PP
+`<hp>` | | HP hiện tại / max HP
+`<pp>` | | PP hiện tại / max PP
 `<photonarts>`| `<pa>` | Tên của PA sử dụng lần cuối
 `<technic>`| `<tc>` | Tên của Techni sử dụng lần cuối
 `<skill>` | `<sk>` | Tên của Skill sử dụng lần cuối
@@ -167,8 +167,8 @@ Command | Short Command | Nội Dung
 `<area>` | `<ar>` | Tên của area hiện tại
 `<me>` | | Tên char của bạn
 `<class>` | `<cl>` | (Mainclass) Lv.(Mainclass level) / (Subclass) Lv.(Subclass level)
-`<weapon>` | `<wp>` | (Tên của weap đang dùng) + (grind level)
-`<basecolor>` | `<bc>` | (Màu của base gần nhất, trong EQ TD
+`<weapon>` | `<wp>` | Tên của weap đang dùng + grind level
+`<basecolor>` | `<bc>` | Màu của base gần nhất, trong EQ TD
 `<putitem>` | `<pi>` | tên của item rớt cuối cùng
 `<getitem>` | `<gi>` | Tên của item nhặt lên cuối cùng
 `<pet>` | | Tên của Pet đang dùng
@@ -212,3 +212,9 @@ Thay đổi trang bị | Short Command | Nội Dung
 
 - Những command yêu cầu tên của item phải viết liền, có thể thay " " bằng "-". 
 <br>VD: `L/Slow Fi Action` thành `L/SlowFiAction` hoặc `L/Slow-Fi-Action`
+
+<br>
+=====================================================
+Source: 
+- http://ohpso2.wikia.com/wiki/Chat_Commands
+- http://pso2.swiki.jp
