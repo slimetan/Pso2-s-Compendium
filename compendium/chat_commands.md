@@ -7,7 +7,7 @@
 5. [Cut-in Display](chat_commands.md#5-cut-in-display)
 6. [Symbol Art](chat_commands.md#6-symbol-art)
 7. [Voice](chat_commands.md#7-voice)
-8. [Fashion / Selfie](/hat_commands.md#8-fashion--selfie)
+8. [Fashion / Selfie](chat_commands.md#8-fashion--selfie)
 9. [Trạng Thái](chat_commands.md#9-trạng-thái)
 10. [Khác](chat_commands.md#10-khác)
 11. [Lưu ý](chat_commands.md#11-lưu-ý)
