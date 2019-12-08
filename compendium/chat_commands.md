@@ -45,7 +45,9 @@ Command | Màu
 {blk}   | black - đen
 {def}   | bỏ màu trước đó
 
-Có thể dùng nhiều lệnh màu trong câu. Copy đoạn sau vô game: `chu binh thương {red} qua mau do {vio} chuyen mau hong {def} ve mau mac dinh` .
+Có thể dùng nhiều lệnh màu trong câu. <br>VD:  `chu binh thương {red} qua mau do {vio} chuyen mau hong {def} ve mau mac dinh` . <br>
+
+![](../data/chat_commands/color.png)
 
 ## 3: Bóng Bóng Thoại
 
@@ -209,7 +211,7 @@ Thay đổi trang bị | Short Command | Nội Dung
 
 - Có thể để command vào Shortcut Words
 
-![](../data/chat_commands/shortcut_word.png) 
+![](../data/chat_commands/shortcut_word_1.png) 
 
 - Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands.md#6-symbol-art)) cũng vậy.
 
