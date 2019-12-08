@@ -2,7 +2,7 @@
 
 1. [Phím Tắt](chat_commands.md#1-phím-tắt)
 2. [Màu Chữ](chat_commands.md#2-màu-chữ)
-3. [Bóng Bóng Thoại](chat_commands.md#3-bóng-bóng-thoại)
+3. [Bong Bóng Thoại](chat_commands.md#3-bong-bóng-thoại)
 4. [Lobby Actions](chat_commands.md#4-lobby-actions)
 5. [Cut-in Display](chat_commands.md#5-cut-in-display)
 6. [Symbol Art](chat_commands.md#6-symbol-art)
@@ -49,7 +49,7 @@ Có thể dùng nhiều lệnh màu trong câu. <br>VD:  `chu binh thương {red
 
 ![](../data/chat_commands/color.png)
 
-## 3: Bóng Bóng Thoại
+## 3: Bong Bóng Thoại
 
 - `/toge` : biểu thị mấy thoại cần hét lớn 
 
@@ -179,7 +179,7 @@ Command | Short Command | Nội Dung
 `<pet>` | | Tên của Pet đang dùng
 `<darkblast>` | `<db>` | Darkblast đang dùng
 
-Có thể kết hợp với [Bóng Bóng Thoại](chat_commands.md#3-bóng-bóng-thoại) và [Cut-in Display](chat_commands.md#5-cut-in-display) để kêu gọi những người khác trong cùng area.
+Có thể kết hợp với [Bong Bóng Thoại](chat_commands.md#3-bong-bóng-thoại) và [Cut-in Display](chat_commands.md#5-cut-in-display) để kêu gọi những người khác trong cùng area.
 VD: 
 - `/a /toge /ci1 2 <et1> at <pos>` khi gặp EC
 
