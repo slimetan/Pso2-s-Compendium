@@ -2,13 +2,13 @@
 
 1. [Phím Tắt](chat_commands.md#1-phím-tắt)
 2. [Màu Chữ](chat_commands.md#2-màu-chữ)
-3. [Bóng Bóng Thoại]()
-4. [Lobby Actions]()
-5. [Cut-in Display]()
-6. [Symbol Art]()
-7. [Voice]()
-8. [Misc Stuff]()
-9. [Hệ Thống Game]()
+3. [Bóng Bóng Thoại](chat_commands.md#3-bóng-bóng-thoại)
+4. [Lobby Actions](chat_commands.md#4-lobby-actions)
+5. [Cut-in Display](chat_commands.md#5-cut-in-display)
+6. [Symbol Art](chat_commands.md#6-symbol-art)
+7. [Voice](chat_commands.md#7-voice)
+8. [Hệ Thống Game](chat_commands.md#8-hệ-thống-game)
+9. [Khác và lưu ý](chat_commands.md#9-khác-và-lưu-ý)
 
 ## 1: Phím Tắt
 - Ấn Enter để mở cửa sổ chat
@@ -100,7 +100,6 @@ Kiểu biểU cảm khuôn mặt| Hướng quay camera | Tuỳ chọn
 `9` : nháy mắt |  | 
 
 VD: 
-
 `/ci3 3 test` | `/ci9 1 t4 test`
 --- | ---
 ![](../data/chat_commands/ci33.png) | ![](../data/chat_commands/ci91t4.png)
@@ -139,8 +138,23 @@ Command | Thoại
 
 ## 8: Hệ Thống Game
 
-Command | --
+Command | Nội Dung
 -- | --
- 
+`<hp>` | HP hiện tại)/(max HP
+`<pp>` | PP hiện tại/(max PP
+`<pa>` | Tên của PA sử dụng lần cuối
+`<tc>` | Tên của Techni sử dụng lần cuối
+`<sk>` | Tên của Skill sử dụng lần cuối
+`<t>` | Tên của mục tiêu lần cuối nhắm tới
+`<et1>`, `<et2>`, `<et3>` | Tên của các [EC] hiện tại đang gặp
+`<pos>` | Toạ độ hiện tại của char
+`<ar>` | Tên của area hiện tại
+`<me>` | Tên char của bạn
+`<cl>` | (Mainclass) Lv.(Mainclass level) / (Subclass) Lv.(Subclass level)
+`<wp>` | (Tên của weap đang dùng) + (grind level)
+`<bc>` | (Màu của base gần nhất, trong EQ TD
+`<pi>` | tên của item rớt cuối cùng
+`<gi>` | Tên của item nhặt lên cuối cùng
+`<pet>` | Tên của Pet đang dùng
 
 ## 9: Khác và Lưu ý
