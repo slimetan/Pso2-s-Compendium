@@ -100,8 +100,9 @@ Kiểu biểU cảm khuôn mặt| Hướng quay camera | Tuỳ chọn
 `9` : nháy mắt |  | 
 
 VD: 
+
 `/ci3 3 test` | `/ci9 1 t4 test`
--- | --
+--- | ---
 ![](../data/chat_commands/ci33.png) | ![](../data/chat_commands/ci91t4.png)
 
 
