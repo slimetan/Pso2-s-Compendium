@@ -14,9 +14,12 @@
 
 ## 1: Phím Tắt
 - Ấn Enter để mở cửa sổ chat
-- Giữ `Ctrl và ấn phím mũi tên trái/phải` để thay đổi mục hiển thị tin nhắn.
-- Giữ `Ctrl và ấn phím mũi tên lên/xuống` để dùng lại các câu đã chat trước đó.
-- Giữ `Alt và ấn phím mũi tên trái/phải` để thay đổi kiểu gửi tin nhắn.<br>
+- Giữ `Ctrl và ấn phím mũi tên trái/phải` để thay đổi mục hiển thị tin nhắn.<br><br>
+![](../data/chat_commands/phim-tat-1.gif)
+- Giữ `Ctrl và ấn phím mũi tên lên/xuống` để dùng lại các câu đã chat trước đó.<br><br>
+![](../data/chat_commands/phim-tat-3.gif)
+- Giữ `Alt và ấn phím mũi tên trái/phải` để thay đổi kiểu gửi tin nhắn.<br><br>
+![](../data/chat_commands/phim-tat-2.gif)<br>
     Hoặc chat nhanh bằng việc đặt command sau lên trước câu:
     - `/a` : Public Chat
     - `/p` : Party Chat
