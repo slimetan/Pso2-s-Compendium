@@ -95,8 +95,8 @@ Bạn có thể hiển thị mặt của char cho mọi người xem kèm các c
 Kiểu biểu cảm khuôn mặt| Hướng quay camera | Tuỳ chọn
 -- | -- | --
 `1` : biểu cảm bình thường | `1`: phía trước | `nw` : không hiển thị khung cut-in (như chat bình thường )
-`2` : vui | `2` : chéo | `s??` : Thời gian hiện cut-in. `??` thay bằng số giây. VD: `s15`, `s30`.
-`3` : tức giận | `3` : chéo trên | `t?` : độ sáng, thay `?` bằng số từ 1~5. VD `t1`, `t2`, ..., `t5`.
+`2` : vui | `2` : chéo | `s#` : Thời gian hiện cut-in. <br> `#` thay bằng số giây. VD: `s15`, `s30`.
+`3` : tức giận | `3` : chéo trên | `t#` : độ sáng, thay <br> `#` bằng số từ 1~5. VD `t1`, `t2`, ..., `t5`.
 `4` : buồn | `4` : chéo dướI | 	
 `5` : ngạc nhiên | `5` : cạnh bên | 
 `6` : nhắm mắt |  | 
@@ -201,6 +201,12 @@ Thay đổi trang bị | Short Command | Nội Dung
 ## 10: Khác
 
 ## 11: Lưu ý
+- **Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands.md#6-symbol-art)) cũng vậy.**
+
+VD như này, thêm ng nữa cut-in là khỏi nhìn
+
+![](../data/chat_commands/spam_ci.jpg)
+
 - Có thể để command vào Autoword để tự xài khi gặp các điềU kiện nhất đỊnh
 
 ![](../data/chat_commands/autoword.png) 
@@ -212,8 +218,6 @@ Thay đổi trang bị | Short Command | Nội Dung
 - Có thể để command vào Shortcut Words
 
 ![](../data/chat_commands/shortcut_word_1.png) 
-
-- Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands.md#6-symbol-art)) cũng vậy.
 
 - Những command yêu cầu tên của item phải viết liền, có thể thay " " bằng "-". 
 <br>VD: `L/Slow Fi Action` thành `L/SlowFiAction` hoặc `L/Slow-Fi-Action`
