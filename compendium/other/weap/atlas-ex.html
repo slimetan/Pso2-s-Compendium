@@ -80,32 +80,10 @@
     </style>
 </head>
 <body>
-<div class="container-fuild">
-    <div class="row"> 
+<div class="container-fluid"> 
+    <div class="row">
         <div class="col-md-2">
-            <div class="menu">
-                <ol>
-                    <li><a href="compendium/thuat_ngu.md">Thuật ngữ</a></li>
-                    <li>Khác
-                        <ul>
-                            <li><a href="Story">Story</a></li>
-                            <li>Weap
-                                <ul>
-                                    <li><a href="atlas-ex.html">Atlas EX</a></li>
-                                    <li><a href="lightstream.html">Lightstream (on going)</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a href="https://tantanyan.3ktan.site/">Tantanyan Discord Bot</a>: phụ trợ search item, weap, unit, giá cả .... cho game trên discord
-                        <ul>
-                            <li><a href="https://discordapp.com/oauth2/authorize?client_id=409256908684263426&scope=bot&permissions=305523830">Invite Link</a> </li>  
-                            <li><a href="https://discord.gg/76HeWzE">Support Server</a></li>
-                        </ul>
-                    </li>
-                    
-                </ol>
-            </div>
+            <div data-include="_layout/_menu.html"></div>
         </div>
         <div class="col-md-10">  
             <div class="select-weap col-md-6" >
@@ -246,18 +224,39 @@
                     </li> 
                 </ul> 
             </div>
+            <div class="comment col-md-12"> 
+                <div id="disqus_thread"></div>
+                <script> 
+                var url = window.location.href;
+                var inden = 'atlas-ex';
+            
+                var disqus_config = function () {
+                this.page.url = url; 
+                this.page.identifier = inden; 
+                };
+                
+                (function() {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://pso2jp-3ktan.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>  
         </div>
     </div>
-</div>
+</div> 
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="_layout/js/js.js"></script>
 <script>
     $(document).ready(function(){
         $('[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});   
-    }); 
-    $('select').selectpicker();
-    </script>
+    });  
+</script>
 </body>
 </html>
