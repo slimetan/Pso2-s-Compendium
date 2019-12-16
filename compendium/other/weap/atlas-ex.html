@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"> -->
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <title>Atlas Ex</title>
@@ -11,120 +11,253 @@
             background-color: rgb(34, 34, 34);
             color: #fafafa;
             margin-top: 15px;
+        } 
+        img {
+            max-width: 250px;
+        }
+        .add {
+            padding: 0 15px;
+        }
+        .add {
+            font-size: 30px;
+        }
+        .tooltip-inner {
+            text-align: left;
+        }
+
+        .tree,
+        .tree ul {
+            margin:0 0 0 1.7em; /* indentation */
+            padding:0;
+            list-style:none; 
+            position:relative;
+        } 
+
+        .tree:before,
+        .tree ul:before {
+            content:"";
+            display:block;
+            width:0;
+            position:absolute;
+            top:0;
+            bottom:0;
+            left:0;
+            border-left:1px solid;
+        }
+
+        .tree li {
+            margin:0;
+            padding: 1.5em 1.5em 0 1.5em;
+            line-height:2em;  
+            font-weight:bold;
+            position:relative;
+        }
+
+        .tree li:before {
+            content:"";
+            display:block;
+            width:10px; 
+            height:0;
+            border-top:1px solid;
+            margin-top: 40px; 
+            position:absolute;
+            top:1em; /* (line-height/2) */
+            left:0;
+        }
+
+        .tree li:last-child:before {
+            background:  rgb(34, 34, 34);  
+            height:auto;
+            top:1em; /* (line-height/2) */
+            bottom:0;
+        } 
+        .tree ul.special {
+            margin: 0 0 0 36em;
+        }
+        .select-weap{
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
-    <div class="col-md-3">
-        <div class="menu">
-            <ol>
-                <li><a href="compendium/thuat_ngu.md">Thuật ngữ</a></li>
-                <li>Khác
-                    <ul>
-                        <li><a href="Story"></a></li>
-                        <li>Weap
-                            <ul>
-                                <li><a href="">Atlas EX</a></li>
-                                <li><a href="">Lightstream</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="https://tantanyan.3ktan.site/">Tantanyan Discord Bot</a>: phụ trợ search item, weap, unit, giá cả .... cho game trên discord
-                    <ul>
-                        <li><a href="https://discordapp.com/oauth2/authorize?client_id=409256908684263426&scope=bot&permissions=305523830">Invite Link</a> </li>  
-                        <li><a href="https://discord.gg/76HeWzE">Support Server</a></li>
-                    </ul>
-                </li>
-                
-            </ol>
+<div class="container-fuild">
+    <div class="row"> 
+        <div class="col-md-2">
+            <div class="menu">
+                <ol>
+                    <li><a href="compendium/thuat_ngu.md">Thuật ngữ</a></li>
+                    <li>Khác
+                        <ul>
+                            <li><a href="Story">Story</a></li>
+                            <li>Weap
+                                <ul>
+                                    <li><a href="atlas-ex.html">Atlas EX</a></li>
+                                    <li><a href="lightstream.html">Lightstream (on going)</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="https://tantanyan.3ktan.site/">Tantanyan Discord Bot</a>: phụ trợ search item, weap, unit, giá cả .... cho game trên discord
+                        <ul>
+                            <li><a href="https://discordapp.com/oauth2/authorize?client_id=409256908684263426&scope=bot&permissions=305523830">Invite Link</a> </li>  
+                            <li><a href="https://discord.gg/76HeWzE">Support Server</a></li>
+                        </ul>
+                    </li>
+                    
+                </ol>
+            </div>
+        </div>
+        <div class="col-md-10">  
+            <div class="select-weap col-md-6" >
+                <select class="form-control" id="select-weap-id">
+                    <option value="1">Atlas Ars Ex (Gunslash)</option>
+                </select>
+            </div>
+            <div class="weap col-md-12">
+                <p>
+                    <a  data-placement="bottom" data-toggle="tooltip" title="- Rarity: 15* - Qua gặp NPC Zieg để đổi qua loại weap Khác">
+                        <img src="../../../data/other/weap/atlas-ex/atlas-ars-ex.png" alt="atlas-ars-ex"> Atlas Ars Ex +35 (x1)
+                    </a>
+                </p>
+                <ul class="tree">
+                    <li>
+                        <table>
+                            <tr> 
+                                <td>
+                                    <a  data-placement="bottom" data-toggle="tooltip" title="- Rarity: 14*<br> - Có SAF S4: Vampiric Strike">
+                                        <img src="../../../data/other/weap/atlas-ex/atlas-ars.png" alt="atlas-ars"> Atlas Ars +35 (x1)
+                                    </a>   
+                                </td>  
+                                <td><div class="add">&#61;</div></td>
+                                <td>
+                                    <a  data-toggle="tooltip" title="- Rarity: 13* <br> - Có tỉ lệ rớt <br> - Nhanh nhất mua trên Visiphone">
+                                        <img src="../../../data/other/weap/atlas-ex/val-ars.png" alt="val-ars"> Val Ars +35 (x1)
+                                    </a> 
+                                </td>
+                                <td><div class="add" >&#43;</div></td>
+                                <td>
+                                    <a  data-toggle="tooltip" title="- Có tỉ lệ rớt (và cái tỉ lệ cao như tỉ lệ thắng của Team Avengers trong Endgame) <br> - Phần thưởng của Title: thu thập 1100 Title khác nhau <br>- Grind 1 weap Val bất kì lên +35 <br>- Phần thưởng trong Story Ep5">
+                                        <img src="../../../data/other/weap/atlas-ex/time-stone.png" alt="time-stone"> Time Reversal Stone Chronos +35 (x1)
+                                    </a>  
+                                </td> 
+                                <td width="50px"><div class="add" >&#43;</div></td>
+                                <td>
+                                    <a  data-placement="bottom" data-toggle="tooltip" title="- Mua trên visiphone<br> - Rã weap 13 +<br>  - Trade ở Recycle Shop">
+                                        <img src="../../../data/other/weap/atlas-ex/goldnia.png" alt="goldnia"> Goldnia x 999
+                                    </a>    
+                                </td>
+                                <td width="50px"><div class="add" >&#43;</div></td>
+                                <td> 
+                                    <a  data-placement="bottom" data-toggle="tooltip" title="- Mua trên visiphone<br> - Rã weap 13 +<br> - Trade ở Recycle Shop">
+                                        <img src="../../../data/other/weap/atlas-ex/saphard.png" alt="saphard"> Saphard x 999
+                                    </a>   
+                                </td> 
+                            </tr>
+                        </table>
+                    </li>
+                    <li> 
+                        <a  data-toggle="tooltip" title="-  Có tỉ lệ rớt <br> - Trade Shop Zieg">
+                            <img src="../../../data/other/weap/atlas-ex/lumiere-stich.png" alt="lumiere-stich"> Lumiere Stich +35 (x1)
+                        </a>  
+                        <ul>
+                            <li>
+                                <a  data-toggle="tooltip" title="-  Có tỉ lệ rớt">
+                                    <img src="../../../data/other/weap/atlas-ex/jutusStich.png" alt="jutusStich"> Jutus Stich +35 (x1)
+                                </a>
+                            </li>
+                            <li>
+                                <table>
+                                    <tr> 
+                                        <td>
+                                            <a  data-toggle="tooltip" title="- Rarity: 13* <br>-  Có tỉ lệ rớt">
+                                                <img src="../../../data/other/weap/atlas-ex/regaloyakut-skull.png" alt="regaloyakut-skull"> Regaloyakut Skull +35 (x1)
+                                            </a>  
+                                        </td>
+                                        <td><div class="add">&#61;</div></td>
+                                        <td>
+                                            <a  data-toggle="tooltip" title="- Rarity: 13* <br> -  Có tỉ lệ rớt <br> - Có thể mua trên Visiphone ">
+                                                <img src="../../../data/other/weap/atlas-ex/skuzirath-skull.png" alt="Skuzirath Skull"> Skuzirath Skull +35 (x1)
+                                            </a>  
+                                        </td>  
+                                        <td width="50px"><div class="add" >&#43;</div></td>
+                                        <td>
+                                            <a  data-toggle="tooltip" title="- Có tỉ lệ rớt <br> - Trade Shop">
+                                                <img src="../../../data/other/weap/atlas-ex/demon-fossil-chaos.png" alt="demon-fossil-chaos"> Demon Fossil Chaos x 50
+                                            </a>  
+                                        </td> 
+                                    </tr> 
+                                </table>
+                            </li>
+                            <li>
+                                <table>
+                                    <tr> 
+                                        <td>
+                                            <a  data-placement="bottom" data-toggle="tooltip" title="- Rarity: 13*<br> - Có tỉ lệ rớt ">
+                                                <img src="../../../data/other/weap/atlas-ex/schvelle-buechse.png" alt="schvelle-buechse"> Schvelle Buechse +35 (x1)
+                                            </a>   
+                                        </td>  
+                                        <td><div class="add">&#61;</div></td>
+                                        <td>
+                                            <a  data-toggle="tooltip" title="- Rarity: 13* <br> -  Có tỉ lệ rớt <br> - Trade Shop">
+                                                <img src="../../../data/other/weap/atlas-ex/cleasis-buechse.png" alt="cleasis-buechse"> Cleasis Buechse +35 (x1)
+                                            </a>  
+                                        </td>  
+                                        <td><div class="add" >&#43;</div></td>
+                                        <td>
+                                            <a  data-toggle="tooltip" title="- Có tỉ lệ rớt <br> - Trade Shop">
+                                                <img src="../../../data/other/weap/atlas-ex/demon-fossil-chaos.png" alt="Schvelle Booster"> Schvelle Booster x 60
+                                            </a> 
+                                        </td>
+                                    </tr>
+                                    <tr> 
+                                        <td></td>
+                                        <td></td> 
+                                        <td colspan="6">
+                                            <ul class=" ">
+                                                <li>
+                                                    <table>
+                                                        <tr> 
+                                                            <td>
+                                                                <a  data-toggle="tooltip" title="- Rarity: 13* <br>-  Có tỉ lệ rớt">
+                                                                    <img src="../../../data/other/weap/atlas-ex/evleda-buechse.png" alt="evleda-buechse"> Evleda Buechse +35 (x1)
+                                                                </a>  
+                                                            </td>
+                                                            <td width="50px"><div class="add" >&#43;</div></td>
+                                                            <td>
+                                                                <a  data-toggle="tooltip" title="-  Có tỉ lệ rớt <br> - Trade Shop">
+                                                                    <img src="../../../data/other/weap/atlas-ex/demon-fossil-chaos.png" alt="Cleasis Booster"> Cleasis Booster x 60
+                                                                </a>  
+                                                            </td>   
+                                                        </tr> 
+                                                    </table>
+                                                </li>
+                                            </ul>
+                                        </td>  
+                                    </tr>
+                                </table>
+                                
+                            </li>
+                        </ul>
+                    </li> 
+                    <li>
+                        <a  data-toggle="tooltip" title="- Có tỉ lệ rớt <br>- Trade Recycle Shop">
+                            <img src="../../../data/other/weap/atlas-ex/excube.png" alt="excube"> Excube x 400
+                        </a>  
+                    </li> 
+                </ul> 
+            </div>
         </div>
     </div>
-    <div class="col-md-9">
-        <table> 
-            <tr>
-              <td><img src="../../data/other/weap/atlas-ex/val-ars.png" alt=""></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </table>
-    </div>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});   
+    }); 
+    $('select').selectpicker();
+    </script>
 </body>
 </html>
