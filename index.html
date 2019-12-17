@@ -23,12 +23,11 @@
 
                 
             </div>
-            <div class="comment col-md-12"> 
+            <div class="comment col-md-12">  
                 <div id="disqus_thread"></div>
                 <script> 
                 var url = window.location.href;
-                var inden = 'atlas-ex';
-            
+                var inden = window.location.pathname; 
                 var disqus_config = function () {
                 this.page.url = url; 
                 this.page.identifier = inden; 

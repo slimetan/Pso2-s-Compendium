@@ -79,3 +79,12 @@ li.collap:before {
     transition: all 0.5s;
     margin-left: -15px;
 }
+
+/* select with CSS weap icons */
+option.icon {
+    background-repeat: no-repeat !important;
+    padding-left: 20px;
+  }
+.icon .ui-icon {
+background-position: left top;
+} 

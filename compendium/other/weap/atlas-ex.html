@@ -8,158 +8,44 @@
     <title>Atlas Ex</title>
     <script src="../../../skin/js/js.js"></script>
     <link rel="stylesheet" href="../../../skin/css/style.css"> 
+    <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet"/>
 </head>
-<body>
+<body>  
 <div class="container-fluid"> 
     <div class="row">
         <div class="col-md-2">
             <div data-include="../../../skin/layout/menu.html"></div>
-        </div>
+        </div> 
         <div class="col-md-10">  
-            <div class="select-weap col-md-6" >
+            <div class="select-weap col-md-6" >  
                 <select class="form-control" id="select-weap-id">
-                    <option value="1">Atlas Ars Ex (Gunslash)</option>
-                </select>
+                    <option selected value="1" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/gs.png);">Atlas Ars Ex (Gunslash)</option selected>
+                    <option value="2" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/sw.png);">Atlas Farder Ex (Swords)</option> 
+                    <option disabled value="3" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wl.png);">(Wired Lances)  </option>
+                    <option disabled value="4" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/parti.png);">(Partizan)  </option>
+                    <option disabled value="5" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/td.png);">(Twin Daggers)  </option>
+                    <option disabled value="6" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/ds.png);">(Double Saber)  </option>
+                    <option disabled value="7" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/knuck.png);">(Knuckles)  </option>
+                    <option disabled value="8" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/ktn.png);">(Katanas)  </option>
+                    <option disabled value="9" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/db.png);">(Dual Blades)  </option>
+                    <option disabled value="10" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rif.png);">(Assault Rifles)  </option>
+                    <option disabled value="11" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/launcher.png);">(Launchers)  </option>
+                    <option disabled value="12" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/tmg.png);">(Twin Machine Guns)  </option>
+                    <option disabled value="13" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/bow.png);">(Bullet Bow)  </option>
+                    <option disabled value="14" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rod.png);">(Rods)  </option>
+                    <option disabled value="15" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/talis.png);">(Talises)  </option>
+                    <option disabled value="16" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wand.png);">(Wands)  </option>
+                    <option disabled value="17" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/jb.png);">(Jet Boots)  </option>
+                    <option disabled value="18" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/takt.png);">(Takts)  </option>  
+                </select>   
             </div>
-            <div class="weap col-md-12">
-                <p>
-                    <a  data-placement="bottom" data-toggle="tooltip" title="- Rarity: 15* - Qua gặp NPC Zieg để đổi qua loại weap Khác">
-                        <img src="../../../data/other/weap/atlas-ex/atlas-ars-ex.png" alt="atlas-ars-ex"> Atlas Ars Ex +35 (x1)
-                    </a>
-                </p>
-                <ul class="tree">
-                    <li>
-                        <table>
-                            <tr> 
-                                <td>
-                                    <a  data-placement="bottom" data-toggle="tooltip" title="- Rarity: 14*<br> - Có SAF S4: Vampiric Strike">
-                                        <img src="../../../data/other/weap/atlas-ex/atlas-ars.png" alt="atlas-ars"> Atlas Ars +35 (x1)
-                                    </a>   
-                                </td>  
-                                <td><div class="add">&#61;</div></td>
-                                <td>
-                                    <a  data-toggle="tooltip" title="- Rarity: 13* <br> - Có tỉ lệ rớt <br> - Nhanh nhất mua trên Visiphone">
-                                        <img src="../../../data/other/weap/atlas-ex/val-ars.png" alt="val-ars"> Val Ars +35 (x1)
-                                    </a> 
-                                </td>
-                                <td><div class="add" >&#43;</div></td>
-                                <td>
-                                    <a  data-toggle="tooltip" title="- Có tỉ lệ rớt (và cái tỉ lệ cao như tỉ lệ thắng của Team Avengers trong Endgame) <br> - Phần thưởng của Title: thu thập 1100 Title khác nhau <br>- Grind 1 weap Val bất kì lên +35 <br>- Phần thưởng trong Story Ep5">
-                                        <img src="../../../data/other/weap/atlas-ex/time-stone.png" alt="time-stone"> Time Reversal Stone Chronos (x1)
-                                    </a>  
-                                </td> 
-                                <td width="50px"><div class="add" >&#43;</div></td>
-                                <td>
-                                    <a  data-placement="bottom" data-toggle="tooltip" title="- Mua trên visiphone<br> - Rã weap 13 +<br>  - Trade ở Recycle Shop">
-                                        <img src="../../../data/other/weap/atlas-ex/goldnia.png" alt="goldnia"> Goldnia x 999
-                                    </a>    
-                                </td>
-                                <td width="50px"><div class="add" >&#43;</div></td>
-                                <td> 
-                                    <a  data-placement="bottom" data-toggle="tooltip" title="- Mua trên visiphone<br> - Rã weap 13 +<br> - Trade ở Recycle Shop">
-                                        <img src="../../../data/other/weap/atlas-ex/saphard.png" alt="saphard"> Saphard x 999
-                                    </a>   
-                                </td> 
-                            </tr>
-                        </table>
-                    </li>
-                    <li> 
-                        <a  data-toggle="tooltip" title="-  Có tỉ lệ rớt <br> - Trade Shop Zieg">
-                            <img src="../../../data/other/weap/atlas-ex/lumiere-stich.png" alt="lumiere-stich"> Lumiere Stich +35 (x1)
-                        </a>  
-                        <ul>
-                            <li>
-                                <a  data-toggle="tooltip" title="-  Có tỉ lệ rớt">
-                                    <img src="../../../data/other/weap/atlas-ex/jutusStich.png" alt="jutusStich"> Jutus Stich +35 (x1)
-                                </a>
-                            </li>
-                            <li>
-                                <table>
-                                    <tr> 
-                                        <td>
-                                            <a  data-toggle="tooltip" title="- Rarity: 13* <br>-  Có tỉ lệ rớt">
-                                                <img src="../../../data/other/weap/atlas-ex/regaloyakut-skull.png" alt="regaloyakut-skull"> Regaloyakut Skull +35 (x1)
-                                            </a>  
-                                        </td>
-                                        <td><div class="add">&#61;</div></td>
-                                        <td>
-                                            <a  data-toggle="tooltip" title="- Rarity: 13* <br> -  Có tỉ lệ rớt <br> - Có thể mua trên Visiphone ">
-                                                <img src="../../../data/other/weap/atlas-ex/skuzirath-skull.png" alt="Skuzirath Skull"> Skuzirath Skull +35 (x1)
-                                            </a>  
-                                        </td>  
-                                        <td width="50px"><div class="add" >&#43;</div></td>
-                                        <td>
-                                            <a  data-toggle="tooltip" title="- Có tỉ lệ rớt <br> - Trade Shop">
-                                                <img src="../../../data/other/weap/atlas-ex/demon-fossil-chaos.png" alt="demon-fossil-chaos"> Demon Fossil Chaos x 50
-                                            </a>  
-                                        </td> 
-                                    </tr> 
-                                </table>
-                            </li>
-                            <li>
-                                <table>
-                                    <tr> 
-                                        <td>
-                                            <a  data-placement="bottom" data-toggle="tooltip" title="- Rarity: 13*<br> - Có tỉ lệ rớt ">
-                                                <img src="../../../data/other/weap/atlas-ex/schvelle-buechse.png" alt="schvelle-buechse"> Schvelle Buechse +35 (x1)
-                                            </a>   
-                                        </td>  
-                                        <td><div class="add">&#61;</div></td>
-                                        <td>
-                                            <a  data-toggle="tooltip" title="- Rarity: 13* <br> -  Có tỉ lệ rớt <br> - Trade Shop">
-                                                <img src="../../../data/other/weap/atlas-ex/cleasis-buechse.png" alt="cleasis-buechse"> Cleasis Buechse +35 (x1)
-                                            </a>  
-                                        </td>  
-                                        <td><div class="add" >&#43;</div></td>
-                                        <td>
-                                            <a  data-toggle="tooltip" title="- Có tỉ lệ rớt <br> - Trade Shop">
-                                                <img src="../../../data/other/weap/atlas-ex/demon-fossil-chaos.png" alt="Schvelle Booster"> Schvelle Booster x 60
-                                            </a> 
-                                        </td>
-                                    </tr>
-                                    <tr> 
-                                        <td></td>
-                                        <td></td> 
-                                        <td colspan="6">
-                                            <ul class=" ">
-                                                <li>
-                                                    <table>
-                                                        <tr> 
-                                                            <td>
-                                                                <a  data-toggle="tooltip" title="- Rarity: 13* <br>-  Có tỉ lệ rớt">
-                                                                    <img src="../../../data/other/weap/atlas-ex/evleda-buechse.png" alt="evleda-buechse"> Evleda Buechse +35 (x1)
-                                                                </a>  
-                                                            </td>
-                                                            <td width="50px"><div class="add" >&#43;</div></td>
-                                                            <td>
-                                                                <a  data-toggle="tooltip" title="-  Có tỉ lệ rớt <br> - Trade Shop">
-                                                                    <img src="../../../data/other/weap/atlas-ex/demon-fossil-chaos.png" alt="Cleasis Booster"> Cleasis Booster x 60
-                                                                </a>  
-                                                            </td>   
-                                                        </tr> 
-                                                    </table>
-                                                </li>
-                                            </ul>
-                                        </td>  
-                                    </tr>
-                                </table>
-                                
-                            </li>
-                        </ul>
-                    </li> 
-                    <li>
-                        <a  data-toggle="tooltip" title="- Có tỉ lệ rớt <br>- Trade Recycle Shop">
-                            <img src="../../../data/other/weap/atlas-ex/excube.png" alt="excube"> Excube x 400
-                        </a>  
-                    </li> 
-                </ul> 
+            <div class="weap col-md-12"> 
             </div>
-            <div class="comment col-md-12"> 
+            <!-- <div class="comment col-md-12"> 
                 <div id="disqus_thread"></div>
                 <script> 
                 var url = window.location.href;
-                var inden = 'atlas-ex';
-            
+                var inden = window.location.pathname; 
                 var disqus_config = function () {
                 this.page.url = url; 
                 this.page.identifier = inden; 
@@ -173,20 +59,68 @@
                 })();
                 </script>
                 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            </div>  
+            </div>   -->
         </div>
     </div>
-</div> 
+</div>  
 
-<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script>
     $(document).ready(function(){
-        $('[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});   
-    });  
-</script>
+        $('[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});    
+        $('.weap').load('atlas-ex/ars.html'); 
+        $('#select-weap-id').change(function(){ 
+            var select_weap = $( "#select-weap-id" ).val();
+            // console.log(select_weap); 
+            switch (select_weap){
+                default:
+                    $('.weap').load('atlas-ex/ars.html'); 
+                    break;
+                case "1": 
+                    $('.weap').load('atlas-ex/ars.html');
+                    break;
+                case "2":
+                    $('.weap').load('atlas-ex/farder.html');
+                    break;
+                // case "3": 
+                //     $('.weap').load('atlas-ex/ars.html');
+                //     break;
+                // case "4": 
+                //     break;
+                // case "5": 
+                //     break;
+                // case "6": 
+                //     break;
+                // case "7": 
+                //     break;
+            } 
+        });
+        
+    });     
+    // $( function() {
+    //     $.widget( "custom.iconselectmenu", $.ui.selectmenu, {
+    //         _renderItem: function( ul, item ) {
+    //         var li = $( "<li>" ),
+    //             wrapper = $( "<div>", { text: item.label } ); 
+    //         if ( item.disabled ) {
+    //             li.addClass( "ui-state-disabled" );
+    //         } 
+    //         $( "<span>", {
+    //             style: item.element.attr( "data-style" ),
+    //             "class": "ui-icon " + item.element.attr( "data-class" )
+    //         })
+    //         .appendTo( wrapper ); 
+    //         return li.append( wrapper ).appendTo( ul );
+    //         }
+    //     }); 
+    //     $( "#select-weap-id" )
+    //         .iconselectmenu()
+    //         .iconselectmenu( "menuWidget")
+    //         .addClass( "ui-menu-icons icon" );
+    //     } );
+</script> 
 </body>
 </html>

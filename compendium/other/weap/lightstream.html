@@ -1,1 +1,126 @@
-ds
+ds<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Atlas Ex</title>
+    <script src="../../../skin/js/js.js"></script>
+    <link rel="stylesheet" href="../../../skin/css/style.css"> 
+    <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet"/>
+</head>
+<body>  
+<div class="container-fluid"> 
+    <div class="row">
+        <div class="col-md-2">
+            <div data-include="../../../skin/layout/menu.html"></div>
+        </div> 
+        <div class="col-md-10">  
+            <div class="select-weap col-md-6" >  
+                <select class="form-control" id="select-weap-id">
+                    <option selected value="1" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/gs.png);">Atlas Ars Ex (Gunslash)</option selected>
+                    <option value="2" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/sw.png);">Atlas Farder Ex (Swords)</option> 
+                    <option value="3" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wl.png);">(Wired Lances)  </option>
+                    <option value="4" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/parti.png);">(Partizan)  </option>
+                    <option value="5" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/td.png);">(Twin Daggers)  </option>
+                    <option value="6" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/ds.png);">(Double Saber)  </option>
+                    <option value="7" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/knuck.png);">(Knuckles)  </option>
+                    <option value="8" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/ktn.png);">(Katanas)  </option>
+                    <option value="9" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/db.png);">(Dual Blades)  </option>
+                    <option value="10" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rif.png);">(Assault Rifles)  </option>
+                    <option value="11" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/launcher.png);">(Launchers)  </option>
+                    <option value="12" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/tmg.png);">(Twin Machine Guns)  </option>
+                    <option value="13" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/bow.png);">(Bullet Bow)  </option>
+                    <option value="14" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rod.png);">(Rods)  </option>
+                    <option value="15" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/talis.png);">(Talises)  </option>
+                    <option value="16" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wand.png);">(Wands)  </option>
+                    <option value="17" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/jb.png);">(Jet Boots)  </option>
+                    <option value="18" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/takt.png);">(Takts)  </option>  
+                </select>   
+            </div>
+            <div class="weap col-md-12"> 
+            </div>
+            <!-- <div class="comment col-md-12"> 
+                <div id="disqus_thread"></div>
+                <script> 
+                var url = window.location.href;
+                var inden = window.location.pathname; 
+                var disqus_config = function () {
+                this.page.url = url; 
+                this.page.identifier = inden; 
+                };
+                
+                (function() {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://pso2jp-3ktan.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>   -->
+        </div>
+    </div>
+</div>  
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});    
+        $('.weap').load('atlas-ex/ars.html'); 
+        $('#select-weap-id').change(function(){ 
+            var select_weap = $( "#select-weap-id" ).val();
+            console.log(select_weap); 
+            switch (select_weap){
+                default:
+                    $('.weap').load('atlas-ex/ars.html'); 
+                    break;
+                case "1": 
+                    $('.weap').load('atlas-ex/ars.html');
+                    break;
+                case "2":
+                    $('.weap').load('atlas-ex/farder.html');
+                    break;
+                case "3": 
+                    $('.weap').load('atlas-ex/ars.html');
+                    break;
+                case "4": 
+                    break;
+                case "5": 
+                    break;
+                case "6": 
+                    break;
+                case "7": 
+                    break;
+            } 
+        });
+        
+    });     
+    // $( function() {
+    //     $.widget( "custom.iconselectmenu", $.ui.selectmenu, {
+    //         _renderItem: function( ul, item ) {
+    //         var li = $( "<li>" ),
+    //             wrapper = $( "<div>", { text: item.label } ); 
+    //         if ( item.disabled ) {
+    //             li.addClass( "ui-state-disabled" );
+    //         } 
+    //         $( "<span>", {
+    //             style: item.element.attr( "data-style" ),
+    //             "class": "ui-icon " + item.element.attr( "data-class" )
+    //         })
+    //         .appendTo( wrapper ); 
+    //         return li.append( wrapper ).appendTo( ul );
+    //         }
+    //     }); 
+    //     $( "#select-weap-id" )
+    //         .iconselectmenu()
+    //         .iconselectmenu( "menuWidget")
+    //         .addClass( "ui-menu-icons icon" );
+    //     } );
+</script> 
+</body>
+</html>
