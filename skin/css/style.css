@@ -6,21 +6,25 @@ body {
 img {
     max-width: 250px;
 }
+
+.comment{
+    margin-top: 15px;
+}
 .add {
     padding: 0 15px;
-}
-.add {
     font-size: 30px;
-}
+} 
 .tooltip-inner {
     text-align: left;
 }
-
+ul {
+    list-style: none;
+}
+/* tree ul */
 .tree,
 .tree ul {
     margin:0 0 0 1.7em; 
-    padding:0;
-    list-style:none; 
+    padding:0; 
     position:relative;
 } 
 
@@ -67,4 +71,11 @@ img {
 }
 .select-weap{
     margin-bottom: 20px;
+}
+
+/* menu */
+li.collap:before { 
+    content: "+ ";
+    transition: all 0.5s;
+    margin-left: -15px;
 }
