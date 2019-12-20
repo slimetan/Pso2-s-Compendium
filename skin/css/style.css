@@ -80,11 +80,7 @@ li.collap:before {
     margin-left: -15px;
 }
 
-/* select with CSS weap icons */
-option.icon {
-    background-repeat: no-repeat !important;
-    padding-left: 20px;
-  }
-.icon .ui-icon {
-background-position: left top;
-} 
+.weap,
+.unit{
+    margin: 20px 0;
+}

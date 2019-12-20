@@ -43,7 +43,16 @@
                     <option disabled value="18" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/takt.png);">(Takts)  </option>  
                 </select>   
             </div>
-            <div class="weap col-md-12"> 
+            <div class="weap col-md-12">
+            </div> 
+            <div class="select-unit col-md-6" > 
+                <select class="form-control" id="select-unit-id">
+                    <option selected value="1" data-class="icon">Rear</option>
+                    <option value="2" data-class="icon">Arm</option> 
+                    <option value="3" data-class="icon">Leg</option>  
+                </select>   
+            </div>
+            <div class="unit col-md-12">  
             </div>
             <div class="comment col-md-12"> 
                 <div id="disqus_thread"></div>
@@ -65,7 +74,7 @@
                 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
             </div>  
         </div>
-    </div>
+    </div> 
 </div>  
 
 
@@ -90,7 +99,25 @@
                     break; 
             } 
         });
-        
+        $('.unit').load('rear.html'); 
+        $('#select-unit-id').change(function(){ 
+            var select_weap = $( "#select-unit-id" ).val();
+            // console.log(select_weap); 
+            switch (select_weap){
+                default:
+                    $('.unit').load('rear.html'); 
+                    break;
+                case "1": 
+                    $('.unit').load('rear.html');
+                    break;
+                case "2":
+                    $('.unit').load('arm.html');
+                    break;   
+                case "3":
+                    $('.unit').load('leg.html');
+                    break; 
+            } 
+        });
     });      
 </script> 
 </body>
