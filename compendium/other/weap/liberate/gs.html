@@ -1,7 +1,9 @@
+
 <p>
-    <a  data-placement="bottom" data-toggle="tooltip" title="">
-        <img src="data//liberate-slash.png" alt="Liberate Slash">Liberate Slash +35 (x1)
-    </a>
+    
+    <div class="custom-tooltip"><img src="data/liberate-slash.png" alt="Liberate Slash"> Liberate Slash +35 (x1)
+        <span class="tooltiptext"><img src='data/liberate-slash-info.png'></span>
+    </div>
 </p>
 <ul class="tree"> 
     <li> 
@@ -39,9 +41,10 @@
             <img src="data/ultimate-booster.png" alt="Ultimate Booster "> Ultimate Booster (x50)
         </a>  
     </li>   
-</ul> 
+</ul>  
 <script>
-
-$(document).ready(function(){
-        $('[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});   
-});</script>
+    $('[data-toggle="tooltip"]').tooltip({
+        html: true, 
+        placement: "bottom",  
+    });   
+</script> 
