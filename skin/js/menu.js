@@ -50,5 +50,12 @@ $(document).ready(function(){
             $('.l-site').addClass('is-open');
         }
     });
+    
+    $('section').on('click', function(){
+        if ($('.l-site').hasClass('is-open')) {
+            $('.menu').removeClass('is-active');
+            $('.l-site').removeClass('is-open');
+        }
+    });
 });      
- 
+
