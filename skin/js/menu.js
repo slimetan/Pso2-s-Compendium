@@ -5,7 +5,7 @@ $(document).ready(function(){
     // var h = $(window).height();
     $(".l-site").width(w);
 
-    $('.weap').load('wl.html'); 
+    $('.weap').load('gs.html'); 
     $('#select-weap-id').change(function(){ 
         var select_weap = $( "#select-weap-id" ).val(); 
         switch (select_weap){
