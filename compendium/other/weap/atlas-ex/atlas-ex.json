@@ -1,0 +1,71 @@
+{
+    "name" : "atlas-ex",
+    "data" : 
+    [
+        {
+            "type" : "gs 1",
+            "atlas_ex":"<img src='data/atlas-ars-ex.png' alt='Atlas Ars Ex +35'> Atlas Ars Ex +35 (x1)<span class='tooltiptext'><img src='data/atlas-ars-ex-info.png'></span>",
+            "atlas": "<img src='data/atlas-ars.png' alt='atlas-ars'> Atlas Ars +35 (x1)",
+            "val" : "<img src='data/val-ars.png' alt='val-ars'> Val Ars +35 (x1)",
+            "lumi" : "<img src='data/lumiere-stich.png' alt='lumiere-stich'> Lumiere Stich +35 (x1)",
+            "jutus" :"<img src='data/jutusStich.png' alt='jutusStich'> Jutus Stich +35 (x1)",
+            "skull_up" :"<img src='data/regaloyakut-skull.png' alt='regaloyakut-skull'> Regaloyakut Skull +35 (x1)",
+            "skull" :"<img src='data/skuzirath-skull.png' alt='Skuzirath Skull'> Skuzirath Skull +35 (x1)",
+            "schvelle" :"<img src='data/schvelle-buechse.png' alt='schvelle-buechse'> Schvelle Buechse +35 (x1)",
+            "cleasis" :"<img src='data/cleasis-buechse.png' alt='cleasis-buechse'> Cleasis Buechse +35 (x1)",
+            "evleda" :"<img src='data/evleda-buechse.png' alt='evleda-buechse'> Evleda Buechse +35 (x1)"
+        },
+        {
+            "type" : "sw 2",
+            "atlas_ex":"<img src='data/atlas-farder-ex.png' alt='Atlas Farder Ex +35'> Atlas Farder Ex +35 (x1) <span class='tooltiptext'><img src='data/atlas-farder-ex-info.png'></span>",
+            "atlas": "<img src='data/atlas-farder.png' alt='atlas-farder'> Atlas Farder +35 (x1)",
+            "val" : "<img src='data/val-farder.png' alt='val-farder'> Val Farder +35 (x1)", 
+            "lumi" : "<img src='data/lumiere-lamina.png' alt='lumiere-lamina '> Lumiere Lamina +35 (x1)",
+            "jutus" :"<img src='data/jutus-lamina.png' alt='jutus Lamina '> Jutus Lamina +35 (x1)",
+            "skull_up" :"<img src='data/GolemGraphol.png' alt='GolemGraphol'> Golem Graphol +35 (x1)",
+            "skull" :"<img src='data/GolemBluffs.png' alt='Golem Bluffs'> Golem Bluffs +35 (x1)",
+            "schvelle" :"<img src='data/SchvelleHander.png' alt='Schvelle Hander'> Schvelle Hander +35 (x1)",
+            "cleasis" :"<img src='data/CleasisHander.png' alt='CleasisHander'> Cleasis Hander +35 (x1)",
+            "evleda" :"<img src='data/EvledaHander.png' alt='EvledaHander'> EvledaHander +35 (x1)"
+        },
+        {
+            "type" : "wl 3",
+            "atlas_ex":"<img src='data/64px-UIItemAtlasWeissEx.png' alt='Atlas Weiss Ex +35'> Atlas Weiss Ex +35 (x1) <span class='tooltiptext'><img src='data/atlas-weiss-ex-info.png'></span>",
+            "atlas": "<img src='data/64px-UIItemAtlasWeiss.png' alt='atlas-farder'> Atlas Weiss +35 (x1)",
+            "val" : "<img src='data/64px-UIItemValWeiss.png' alt='64px-UIItemValWeiss.png'> Val Weiss +35 (x1)", 
+            "lumi" : "<img src='data/64px-UIItemLumiereCrys.png' alt='64px-UIItemLumiereCrys.png'> Lumiere Crys +35 (x1)",
+            "jutus" :"<img src='data/64px-UIItemJutusCrys.png' alt='64px-UIItemJutusCrys.png'> Jutus Crys +35 (x1)",
+            "skull_up" :"<img src='data/64px-UIItemBomberGolemStead.png' alt='64px-UIItemBomberGolemStead.png'> Bomber Golem Stead +35 (x1)",
+            "skull" :"<img src='data/64px-UIItemBomberGolemBarn.png' alt='64px-UIItemBomberGolemBarn'>Bomber Golem Barn  +35 (x1)",
+            "schvelle" :"<img src='data/64px-UIItemSchvelleHaddat.png' alt='64px-UIItemSchvelleHaddat.png'> Schvelle Haddat +35 (x1)",
+            "cleasis" :"<img src='data/64px-UIItemCleasisHaddat.png' alt='64px-UIItemCleasisHaddat.png'> Cleasis Haddat +35 (x1)",
+            "evleda" :"<img src='data/64px-UIItemEvledaHaddat.png' alt='64px-UIItemEvledaHaddat.png'> Evleda Haddat +35 (x1)"
+        },
+        {
+            "type" : "",
+            "atlas_ex":"<img src='data/' alt=''>  +35 (x1) <span class='tooltiptext'><img src='data/'></span>",
+            "atlas": "<img src='data/' alt=''>  +35 (x1)",
+            "val" : "<img src='data/' alt=''> +35 (x1)", 
+            "lumi" : "<img src='data/' alt=''>  +35 (x1)",
+            "jutus" :"<img src='data/' alt=''>  +35 (x1)",
+            "skull_up" :"<img src='data/' alt=''>  +35 (x1)",
+            "skull" :"<img src='data/' alt=''>  +35 (x1)",
+            "schvelle" :"<img src='data/' alt=''>  +35 (x1)",
+            "cleasis" :"<img src='data/' alt=''>  +35 (x1)",
+            "evleda" :"<img src='data/' alt=''> +35 (x1)"
+        },
+        {
+            "type" : "",
+            "atlas_ex":"<img src='data/' alt=''>  +35 (x1) <span class='tooltiptext'><img src='data/'></span>",
+            "atlas": "<img src='data/' alt=''>  +35 (x1)",
+            "val" : "<img src='data/' alt=''> +35 (x1)", 
+            "lumi" : "<img src='data/' alt=''>  +35 (x1)",
+            "jutus" :"<img src='data/' alt=''>  +35 (x1)",
+            "skull_up" :"<img src='data/' alt=''>  +35 (x1)",
+            "skull" :"<img src='data/' alt=''>  +35 (x1)",
+            "schvelle" :"<img src='data/' alt=''>  +35 (x1)",
+            "cleasis" :"<img src='data/' alt=''>  +35 (x1)",
+            "evleda" :"<img src='data/' alt=''> +35 (x1)"
+        }
+    ]     
+}

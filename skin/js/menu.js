@@ -5,24 +5,24 @@ $(document).ready(function(){
     // var h = $(window).height();
     $(".l-site").width(w);
 
-    $('.weap').load('gs.html'); 
-    $('#select-weap-id').change(function(){ 
-        var select_weap = $( "#select-weap-id" ).val(); 
-        switch (select_weap){
-            default:
-                $('.weap').load('gs.html'); 
-                break;
-            case "1": 
-                $('.weap').load('gs.html');
-                break;
-            case "2":
-                $('.weap').load('sw.html');
-                break; 
-            case "3":
-                $('.weap').load('wl.html');
-                break; 
-        } 
-    });
+    // $('.weap').load('gs.html'); 
+    // $('#select-weap-id').change(function(){ 
+    //     var select_weap = $( "#select-weap-id" ).val(); 
+    //     switch (select_weap){
+    //         default:
+    //             $('.weap').load('gs.html'); 
+    //             break;
+    //         case "1": 
+    //             $('.weap').load('gs.html');
+    //             break;
+    //         case "2":
+    //             $('.weap').load('sw.html');
+    //             break; 
+    //         case "3":
+    //             $('.weap').load('wl.html');
+    //             break; 
+    //     } 
+    // });
     $('.unit').load('rear.html'); 
     $('#select-unit-id').change(function(){ 
         var select_weap = $( "#select-unit-id" ).val();
