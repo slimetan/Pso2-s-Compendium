@@ -3,6 +3,9 @@
     "data" : 
     [
         {
+            "rear": "rear"
+        },
+        {
             "type" : "gs 1",
             "atlas_ex":"<img src='data/atlas-ars-ex.png' alt='Atlas Ars Ex +35'> Atlas Ars Ex +35 (x1)<span class='tooltiptext'><img src='data/atlas-ars-ex-info.png'></span>",
             "atlas": "<img src='data/atlas-ars.png' alt='atlas-ars'> Atlas Ars +35 (x1)",

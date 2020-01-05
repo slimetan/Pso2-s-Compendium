@@ -23,24 +23,24 @@ $(document).ready(function(){
     //             break; 
     //     } 
     // });
-    $('.unit').load('rear.html'); 
-    $('#select-unit-id').change(function(){ 
-        var select_weap = $( "#select-unit-id" ).val();
-        switch (select_weap){
-            default:
-                $('.unit').load('rear.html'); 
-                break;
-            case "1": 
-                $('.unit').load('rear.html');
-                break;
-            case "2":
-                $('.unit').load('arm.html');
-                break;   
-            case "3":
-                $('.unit').load('leg.html');
-                break; 
-        } 
-    });
+    // $('.unit').load('rear.html'); 
+    // $('#select-unit-id').change(function(){ 
+    //     var select_weap = $( "#select-unit-id" ).val();
+    //     switch (select_weap){
+    //         default:
+    //             $('.unit').load('rear.html'); 
+    //             break;
+    //         case "1": 
+    //             $('.unit').load('rear.html');
+    //             break;
+    //         case "2":
+    //             $('.unit').load('arm.html');
+    //             break;   
+    //         case "3":
+    //             $('.unit').load('leg.html');
+    //             break; 
+    //     } 
+    // });
     $('.menu').on('click', function(){
         if ($('.l-site').hasClass('is-open')) {
             $('.menu').removeClass('is-active');
