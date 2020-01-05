@@ -1,0 +1,19 @@
+{
+    "name" : "liberate",
+    "data" : 
+    [
+        { 
+            "rear_lib" :"<img src='data/rear-liberate.png' alt='Rear/Liberate Full'> Rear / Liberate Full (x1)",
+            "rear" :"<img src='data/rear-novel.png' alt='Rear / Novel Full'> Rear / Novel Full (x1)",
+            "arm_lib" :"<img src='data/arm-lightstream.png' alt='Arm / Lightstream Luxion'> Arm / Lightstream Luxion (x1)",
+            "arm" :"<img src='data/arm-celestial.png' alt='Arm / Celestial Luxion '> Arm / Celestial Luxion (x1)",
+            "leg_lib" :"<img src='data/leg-lightstream.png' alt='Leg / Lightstream Dixion'> Leg / Lightstream Dixion (x1)",
+            "leg" :" <img src='data/leg-celestial.png' alt='Leg / Celestial Dixion '> Leg / Celestial Dixion (x1)"
+        },
+        {
+            "type" : "gs 1",
+            "liberate":"<img src='data/liberate-slash.png' alt='Liberate Slash'> Liberate Slash +35 (x1) <span class='tooltiptext'><img src='data/liberate-slash-info.png'></span>",
+            "novel": "<img src='data/novel-slash.png' alt='Novel Slash'> Novel Slash +35 (x1)"
+        }
+    ]     
+}

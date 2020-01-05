@@ -1,0 +1,24 @@
+{
+    "name" : "lightstream",
+    "data" : 
+    [
+        {
+            "rear_ls" :"<img src='data/rear-lightstream.png' alt='Rear/Lightstream Mixion'> Rear / Lightstream Mixion (x1)",
+            "rear" :"<img src='data/rear-celestial.png' alt='Rear / Celestial Mixion '> Rear / Celestial Mixion (x1)",
+            "arm_ls" :"<img src='data/arm-lightstream.png' alt='Arm / Lightstream Luxion'> Arm / Lightstream Luxion (x1)",
+            "arm" :"<img src='data/arm-celestial.png' alt='Arm / Celestial Luxion '> Arm / Celestial Luxion (x1)",
+            "leg_ls" :"<img src='data/leg-lightstream.png' alt='Leg / Lightstream Dixion'> Leg / Lightstream Dixion (x1)",
+            "leg" :" <img src='data/leg-celestial.png' alt='Leg / Celestial Dixion '> Leg / Celestial Dixion (x1)"
+        },
+        {
+            "type" : "gs 1",
+            "lightstream":" <img src='data/lightstream-intenxion.png' alt='Lightstream Intenxionx'> Lightstream Intenxion +35 (x1) <span class='tooltiptext'><img src='data/lightstream-intenxion-info.png'></span>",
+            "celestial": "<img src='data/celestial-intenxion.png' alt='Celestial Intenxion'> Celestial Intenxion +35 (x1)",
+            "profound" : "<img src='data/profound-intenxion.png' alt='Profound Intenxion'>Profound Intenxion +35 (x1)",
+            "detonation" : "<img src='data/none.png' > 1 weap bất kì thuộc series Detonation +35: Detonation Rage (SW) / Detonation Fell (DS) / Detonation Huge (GS) / Detonation Slaughter (Launcher) / Detonation Gore (Wands) <span class='tooltiptext'><img src='data/series-detonation.png'></span>",
+            "clawdem" :"<img src='data/none.png' > 1 weap bất kì thuộc series Clawdem +35: Clawdem Sarissa (Parti) / Clawdem Gladio (Ktn) / Clawdem Elpida (GS) / Clawdem Cage (Talis) / Clawdem Cargis (JB)<span class='tooltiptext'><img src='data/series-clawdem.png'></span>",
+            "allure" :"<img src='data/none.png' > 1 weap bất kì thuộc series Allure +35: Allure Angs (TD) / Allure Raub (GS) / Allure Kilos (Rif) / Allure Grens (Bow) / Allure Venera (Takt) <span class='tooltiptext'><img src='data/series-allure.png'></span>",
+            "chalyra" :"<img src='data/none.png' >1 weap bất kì thuộc series Chalyra +35:  Chalyra Caprice (WL) / Chalyra Kasha (Knuck) / Chalyra Shulp (DB) / Chalyra Petira (GS) / Chalyra Paxte (Tmg) / Chalyra Lupie (Rod) <span class='tooltiptext'><img src='data/series-chalyra.png'></span>"
+        }
+    ]     
+}
