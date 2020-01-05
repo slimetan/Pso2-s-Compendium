@@ -187,21 +187,21 @@
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             myObj = JSON.parse(this.responseText);
+            document.getElementById("atlas_ex").innerHTML = myObj.data[0].atlas_ex;
+            document.getElementById("atlas").innerHTML = myObj.data[0].atlas;
+            document.getElementById("val").innerHTML = myObj.data[0].val;
+            document.getElementById("lumi").innerHTML = myObj.data[0].lumi;
+            document.getElementById("jutus").innerHTML = myObj.data[0].jutus;
+            document.getElementById("skull_up").innerHTML = myObj.data[0].skull_up;
+            document.getElementById("skull").innerHTML = myObj.data[0].skull;
+            document.getElementById("schvelle").innerHTML = myObj.data[0].schvelle;
+            document.getElementById("cleasis").innerHTML = myObj.data[0].cleasis;
+            document.getElementById("evleda").innerHTML = myObj.data[0].evleda;
         }
     };
     xmlhttp.open("GET", "atlas-ex.json", true);
     xmlhttp.send(); 
 
-    document.getElementById("atlas_ex").innerHTML = myObj.data[0].atlas_ex;
-    document.getElementById("atlas").innerHTML = myObj.data[0].atlas;
-    document.getElementById("val").innerHTML = myObj.data[0].val;
-    document.getElementById("lumi").innerHTML = myObj.data[0].lumi;
-    document.getElementById("jutus").innerHTML = myObj.data[0].jutus;
-    document.getElementById("skull_up").innerHTML = myObj.data[0].skull_up;
-    document.getElementById("skull").innerHTML = myObj.data[0].skull;
-    document.getElementById("schvelle").innerHTML = myObj.data[0].schvelle;
-    document.getElementById("cleasis").innerHTML = myObj.data[0].cleasis;
-    document.getElementById("evleda").innerHTML = myObj.data[0].evleda;
     $('#select-weap-id').change(function(){ 
         var select_weap = $( "#select-weap-id" ).val(); 
         switch (select_weap){
