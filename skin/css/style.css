@@ -91,6 +91,10 @@ ul {
 .unit{
     margin: 20px 0;
 } */
+#weap_icon img{
+    width:35px !important;
+}
+
 
 .custom-tooltip {
     position: relative;

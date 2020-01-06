@@ -25,12 +25,12 @@
                 <div class="menu">
                     <div class="menu-collapse"></div>
                 </div>
-
-                <section class="select-type"> 
+                <section class="select-type">  
                     <div class="col-md-6 select-weap"> 
+                        <!-- <div id="weap_icon"></div> -->
                         <select class="form-control" id="select-weap-id">
                             <option selected value="1" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/gs.png);"> Atlas Ars Ex (Gunslash)</option selected>
-                            <option value="2" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/sw.png);"> Atlas Farder Ex (Swords)</option> 
+                            <option value="2" data-class="icon" data-style="background-image: url(../../../../skin/img/weap_icon/sw.png);"> Atlas Farder Ex (Swords)</option> 
                             <option value="3" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wl.png);"> Atlas Weiss Ex (Wired Lances)  </option>
                             <option value="4" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/parti.png);"> Atlas Vict Ex (Partizan)  </option>
                             <option value="5" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/td.png);"> Atlas Roke Ex (Twin Daggers)  </option>
@@ -38,17 +38,17 @@
                             <option value="7" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/knuck.png);"> Atlas Body Ex (Knuckles)  </option>
                             <option value="8" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/ktn.png);"> Atlas Varua Ex (Katanas)  </option>
                             <option value="9" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/db.png);"> Atlas Slecht Ex (Dual Blades)  </option>
-                            <option value="10" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rif.png);">(Assault Rifles)  </option>
-                            <option value="11" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/launcher.png);">(Launchers)  </option>
-                            <option value="12" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/tmg.png);">(Twin Machine Guns)  </option>
-                            <option value="13" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/bow.png);">(Bullet Bow)  </option>
-                            <option value="14" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rod.png);">(Rods)  </option>
-                            <option value="15" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/talis.png);">(Talises)  </option>
-                            <option value="16" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wand.png);">(Wands)  </option>
-                            <option value="17" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/jb.png);">(Jet Boots)  </option>
-                            <option value="18" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/takt.png);">(Takts)  </option>  
+                            <option value="10" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rif.png);"> Atlas Drache Ex (Assault Rifles)  </option>
+                            <option value="11" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/launcher.png);"> Atlas Volare Ex (Launchers)  </option>
+                            <option value="12" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/tmg.png);"> Atlas Radda Ex (Twin Machine Guns)  </option>
+                            <option value="13" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/bow.png);"> Atlas Agria Ex (Bullet Bow)  </option>
+                            <option value="14" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/rod.png);"> Atlas Zemus Ex (Rods)  </option>
+                            <option value="15" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/talis.png);">  Atlas Retra Ex (Talises)  </option>
+                            <option value="16" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/wand.png);"> Atlas Eyth Ex (Wands)  </option>
+                            <option value="17" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/jb.png);"> Atlas Exocet Ex (Jet Boots)  </option>
+                            <option value="18" data-class="icon" data-style="background-image: url(../../../skin/img/weap_icon/takt.png);">  Atlas Tahat Ex (Takts)  </option>  
                         </select>   
-                    </div>  
+                    </div>    
                 </section> 
 
                 <section class="band band-a">
@@ -65,10 +65,10 @@
                                     </a>  
                                 </li> 
                                 <li>
-                                    <a id="atlas" data-toggle="tooltip" title="- Rarity: 14*<br> - Trade tại Zieg">
+                                    <a id="atlas" data-toggle="tooltip" title="- Rarity: 14*<br> - Trade tại Zieg (Trừ Takt)">
                                         
                                     </a>   
-                                    <ul>
+                                    <ul id="up_atlas_weap">
                                         <li>
                                             <a id="val" data-toggle="tooltip" title="- Rarity: 13* <br> - Có tỉ lệ rớt <br> - Nhanh nhất mua trên Visiphone">
                                                 
@@ -184,6 +184,7 @@
 </div>  
 <script>  
     function show_data(number){
+        // document.getElementById("weap_icon").innerHTML = myObj.data[number].weap_icon;
         document.getElementById("atlas_ex").innerHTML = myObj.data[number].atlas_ex;
         document.getElementById("atlas").innerHTML = myObj.data[number].atlas;
         document.getElementById("val").innerHTML = myObj.data[number].val;
@@ -200,20 +201,23 @@
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             myObj = JSON.parse(this.responseText);
-            show_data(1);
+            show_data(1); 
         }
     };
     xmlhttp.open("GET", "atlas-ex.json", true);
     xmlhttp.send(); 
 
     $('#select-weap-id').change(function(){ 
-        var select_weap = $( "#select-weap-id" ).val(); 
+        var select_weap = $( "#select-weap-id" ).val();  
+        $('#up_atlas_weap').show()
         switch (select_weap){ 
             case "1":      
                 show_data(1);
+                $("#weap_icon").innerHTML = '<img src="../../../../skin/img/weap_icon/gs.png" width="35px">'
                 break;
             case "2":  
                 show_data(2);
+                $("#weap_icon").innerHTML = '<img src="../../../../skin/img/weap_icon/sw.png" width="35px">'
                 break; 
             case "3": 
                 show_data(3);
@@ -257,10 +261,11 @@
             case "16":
                 show_data(16)
                 break; 
-            case "17":
+            case "17": 
                 show_data(17)
                 break; 
             case "18":
+                $('#up_atlas_weap').hide()
                 show_data(18)
                 break; 
         } 
