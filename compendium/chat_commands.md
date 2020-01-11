@@ -8,11 +8,14 @@
 6. [Symbol Art](chat_commands.html#6-symbol-art)
 7. [Voice](chat_commands.html#7-voice)
 8. [Fashion / Selfie](chat_commands.html#8-fashion--selfie)
-9. [Trạng Thái](chat_commands.html#9-trạng-thái)
+9. [Trạng Thái](chat_commands.html#9-tr%E1%BA%A1ng-th%C3%A1i)
 10. [Khác](chat_commands.html#10-khác)
 11. [Lưu ý](chat_commands.html#11-lưu-ý)
 
-## 1: Phím Tắt
+ 
+
+## 1: Shortcut key
+## ( Phím Tắt )
 - Ấn Enter để mở cửa sổ chat
 - Giữ `Ctrl và ấn phím mũi tên trái/phải` để thay đổi mục hiển thị tin nhắn.<br><br>
 ![](../data/chat_commands/phim-tat-1.gif)
@@ -27,7 +30,8 @@
 - Phím `Scroll Lock` để bật chat mode, gõ phím bất kì sẽ bắt đầu chat luôn, thích hợp dùng khi AFK tại Lobby.
 
 
-## 2: Màu Chữ
+## 2: Text Color
+## ( Màu Chữ )
 Thay đổi màu chữ bằng việc thêm `{màu}` vào trước đó
 `{màu}` có dạng `{3 chữ cái đầu tiên của màu đó trong t.anh}`. VD: `{red}` : màu đỏ, `{blu}` : xanh nước biển,...
 
@@ -49,7 +53,8 @@ Có thể dùng nhiều lệnh màu trong câu. <br>VD:  `chu binh thương {red
 
 ![](../data/chat_commands/color.png)
 
-## 3: Bong Bóng Thoại
+## 3: Chat Bubble
+## ( Bong Bóng Thoại ) 
 
 - `/toge` : biểu thị mấy thoại cần hét lớn 
 
@@ -158,7 +163,8 @@ Fashion / Selfie Command | Short Command | Nội Dung
 `/la <name> s#` | | Đóng băng LA. Yêu cầu Pre User. <br>`<name>` là LA, `#` là giây. <br> VD: `/la trance s3.9`
 `/uioff #` | | Ẩn UI game. `#` nếu bỏ trống thì mặc định là 10s, tối đa là 600s. Bật lại UI bằng cách ấn Esc
 
-## 9: Trạng Thái
+## 9: Status
+## ( Trạng Thái )
 Command | Short Command | Nội Dung
 -- | -- | --
 `<hp>` | | HP hiện tại / max HP
@@ -198,9 +204,11 @@ Thay đổi trang bị | Short Command | Nội Dung
 `/myset#` | `/ms#` | `#` là số từ 1~18. Sau khi lưu lại điềU chỉnh class, cách xếp PA/Techni của mÌnh tại Class counter > Myset thì chỉ việc gõ `/ms#` để dùng lại set đó. <br> ![](../data/chat_commands/myset.png)
 `/skillring <tên ring>` | `/sr <tên ring>` | Đổi ring nhanh. Lưu ý tên ring phải viết liền. VD: `L/Slow Fi Action` thì sẽ là `/sr L/SlowFiAction`
 
-## 10: Khác
+## 10: Other
+## ( Khác )
 
-## 11: Lưu ý
+## 11: Note
+## ( Lưu ý )
 - **Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands.html#6-symbol-art)) cũng vậy.**
 
 VD như này, thêm ng nữa cut-in là khỏi nhìn
