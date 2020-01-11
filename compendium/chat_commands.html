@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Atlas Ex</title>  
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../skin/css/style.css"> 
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script> 
+
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+</head>
+<body>   
+<div class="container-fluid"> 
+    <div class="row"> 
+        <div class="l-site">
+            <div class="l-nav">
+                
+            </div>
+            <div class="l-page">
+                <div class="menu">
+                    <div class="menu-collapse"></div>
+                </div>  
+
+                <section class="band band-a">
+                    <div class="band-container">
+                        <div class="weap band-inner"> 
+                            <zero-md src="chat_commands.md">
+                                <template> 
+                                    <style> 
+                                        h1 { font-size: 24px; border-bottom: 1px solid #eaecef; }
+                                        p, li, table tbody { color: #9DA5B4; }  
+                                        table th{
+                                            background-color: #000; 
+                                            padding: 10px 15px 10px 15px;
+                                        }
+                                        code { 
+                                            color: #AF6161; 
+                                            background-color: #1D1B23; 
+                                            } 
+                                        a {
+                                            color: #D6D8DA;
+                                            text-decoration: none;
+                                        }
+                                        a:hover{ 
+                                            text-decoration: underline;
+                                        }
+                                        td{
+                                            padding: 6px 13px;
+                                        }
+                                        
+                                        tr:nth-child(odd){
+                                            background-color:rgb(24, 26, 31);
+                                        }
+                                        tr:nth-child(even){
+                                            background-color: rgb(30, 31, 33);
+                                        }
+                                    </style>
+                                </template> 
+                            </zero-md> 
+                        </div>
+                    </div>
+                </section> 
+                <section>
+                    <div class="comment "> 
+                        <div id="disqus_thread"></div>
+                        <script> 
+                        var url = "http://vutrungtruc-slimetan.github.io/Pso2-s-Compendium/compendium/other/weap/atlas-ex";
+                        var inden = "chat-commands"; 
+                        var disqus_config = function () {
+                        this.page.url = url; 
+                        this.page.identifier = inden; 
+                        };
+                        
+                        (function() {
+                        var d = document, s = d.createElement('script');
+                        s.src = 'https://pso2jp-3ktan.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                        })();
+                        </script>
+                        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    </div>   
+                </section>
+            </div>
+        </div>
+    </div> 
+</div>   
+<script>
+$(document).ready(function(){   
+    $('.l-nav').load('../skin/layout/menu.html');  
+    var w = $(window).width(); 
+    $(".l-site").width(w); 
+    $('.menu').on('click', function(){
+        if ($('.l-site').hasClass('is-open')) {
+            $('.menu').removeClass('is-active');
+            $('.l-site').removeClass('is-open');
+        } else {
+            $('.menu').addClass('is-active');
+            $('.l-site').addClass('is-open');
+        }
+    });
+    
+    $('section').on('click', function(){
+        if ($('.l-site').hasClass('is-open')) {
+            $('.menu').removeClass('is-active');
+            $('.l-site').removeClass('is-open');
+        }
+    });
+});
+</script>
+</body>
+</html> 

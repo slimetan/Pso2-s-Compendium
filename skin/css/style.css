@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(34, 34, 34);
+    background-color: rgb(34, 34, 34); 
     /* background: #5d676c; */
     color: #fafafa;
     /* margin-top: 15px; */
@@ -187,6 +187,7 @@ ul {
 
 .band-a { 
     background-color:  rgb(34, 34, 34);
+    /* background-color: rgb(40, 44, 52); */
 }
 
 .nav { 
