@@ -1,16 +1,16 @@
 # PSO2_Chat Commands
 
-1. [Phím Tắt](chat_commands.md#1-phím-tắt)
-2. [Màu Chữ](chat_commands.md#2-màu-chữ)
-3. [Bong Bóng Thoại](chat_commands.md#3-bong-bóng-thoại)
-4. [Lobby Actions](chat_commands.md#4-lobby-actions)
-5. [Cut-in Display](chat_commands.md#5-cut-in-display)
-6. [Symbol Art](chat_commands.md#6-symbol-art)
-7. [Voice](chat_commands.md#7-voice)
-8. [Fashion / Selfie](chat_commands.md#8-fashion--selfie)
-9. [Trạng Thái](chat_commands.md#9-trạng-thái)
-10. [Khác](chat_commands.md#10-khác)
-11. [Lưu ý](chat_commands.md#11-lưu-ý)
+1. [Phím Tắt](chat_commands..html#1-phím-tắt)
+2. [Màu Chữ](chat_commands..html#2-màu-chữ)
+3. [Bong Bóng Thoại](chat_commands..html#3-bong-bóng-thoại)
+4. [Lobby Actions](chat_commands..html#4-lobby-actions)
+5. [Cut-in Display](chat_commands..html#5-cut-in-display)
+6. [Symbol Art](chat_commands..html#6-symbol-art)
+7. [Voice](chat_commands..html#7-voice)
+8. [Fashion / Selfie](chat_commands..html#8-fashion--selfie)
+9. [Trạng Thái](chat_commands..html#9-trạng-thái)
+10. [Khác](chat_commands..html#10-khác)
+11. [Lưu ý](chat_commands..html#11-lưu-ý)
 
 ## 1: Phím Tắt
 - Ấn Enter để mở cửa sổ chat
@@ -67,7 +67,7 @@ VD: `/mn1`, `/mn2`, ..., `/mn39`
 
 
 ## 4: Lobby Actions
-Mỗi [LA](thuat_ngu.md#la) đều có 2 dáng cho 2 giới tính. 
+Mỗi [LA](thuat_ngu..html#la) đều có 2 dáng cho 2 giới tính. 
 
 - `/fla <command>` để xem LA cho nữ
 - `/mla <command>` để xem LA cho nam
@@ -113,7 +113,7 @@ VD:
 
 ## 6: Symbol Art
 
-Sau khi lưu [SA](thuat_ngu.md#sa) thì bạn có thể dùng nó bằng cách gõ `/symbol<số SA>`
+Sau khi lưu [SA](thuat_ngu..html#sa) thì bạn có thể dùng nó bằng cách gõ `/symbol<số SA>`
 
 ![](../data/chat_commands/sa.png) 
 
@@ -150,7 +150,7 @@ Fashion / Selfie Command | Short Command | Nội Dung
 `/camouflage <camo>` | `/cmf <camo>` | Thay đổi camo có sẵn trong túi. <br>Lưu ý tên camo phải viết liền.  <br>  VD: costume `Off Shoulder Knit Mysterious [Ou]` thì dùng `/cs OffShoulderKnitMysterious[Ou]`
 `/myfashion#` | `/mf#` | `#` là số từ 1 ~ 10, nếu bạn là Pre User thi `#` chạy từ 1 ~ 30. <br>Sau khi lưu lại điều chỉnh về thời trang của char (cos, access,...) trong  *Esc > Fashion / Catalog > Fashion Editing > My Fashion* thì chỉ việc gõ `/ms#` để dùng lại fashion đó. <br> ![](../data/chat_commands/myfashion.png)
 `/ce on` <br> hoặc <br>  `/ce off` | | Lệnh char nhìn/không nhìn thẳng vào camera 
-`/ce# on` <br> hoặc <br> `/ce# off` | | Lệnh char nhìn thẳng vào camera với biểu cảm. <br> `#` là số từ 1~9, xem mục [Cut-in Display](chat_commands.md#5-cut-in-display)
+`/ce# on` <br> hoặc <br> `/ce# off` | | Lệnh char nhìn thẳng vào camera với biểu cảm. <br> `#` là số từ 1~9, xem mục [Cut-in Display](chat_commands..html#5-cut-in-display)
 `/ceall` | | Tất cả char sẽ nhìn vào camera trong 10s
 `/ce` | | Lệnh char nhìn thẳng vào camera trong 10s
 `/ce#` | | Lệnh char nhìn thẳng vào camera với biểu cảm trong 10s. `#` là số từ 1~9
@@ -179,7 +179,7 @@ Command | Short Command | Nội Dung
 `<pet>` | | Tên của Pet đang dùng
 `<darkblast>` | `<db>` | Darkblast đang dùng
 
-Có thể kết hợp với [Bong Bóng Thoại](chat_commands.md#3-bong-bóng-thoại) và [Cut-in Display](chat_commands.md#5-cut-in-display) để kêu gọi những người khác trong cùng area.
+Có thể kết hợp với [Bong Bóng Thoại](chat_commands..html#3-bong-bóng-thoại) và [Cut-in Display](chat_commands..html#5-cut-in-display) để kêu gọi những người khác trong cùng area.
 VD: 
 - `/a /toge /ci1 2 <et1> at <pos>` khi gặp EC
 
@@ -201,7 +201,7 @@ Thay đổi trang bị | Short Command | Nội Dung
 ## 10: Khác
 
 ## 11: Lưu ý
-- **Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands.md#6-symbol-art)) cũng vậy.**
+- **Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands..html#6-symbol-art)) cũng vậy.**
 
 VD như này, thêm ng nữa cut-in là khỏi nhìn
 

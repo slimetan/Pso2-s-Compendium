@@ -10,11 +10,11 @@ Ngoài ra một số tên khác có thể viết tắt bằng 3,4 chữ đầu n
 
 1 | 2 | 3 | 4 | 5 | 6
 -- | -- | -- | -- | -- | --
-[A](thuat_ngu.md#a) | [B](thuat_ngu.md#b) | [C](thuat_ngu.md#c) | [D](thuat_ngu.md#d) | [E](thuat_ngu.md#e) | [F](thuat_ngu.md#f)
-[G](thuat_ngu.md#g) | [H](thuat_ngu.md#h) | [I](thuat_ngu.md#i) | [J](thuat_ngu.md#j) | [K](thuat_ngu.md#k) | [L](thuat_ngu.md#l)
-[M](thuat_ngu.md#m) | [N](thuat_ngu.md#n) | [O](thuat_ngu.md#o) | [P](thuat_ngu.md#p) | [Q](thuat_ngu.md#q) | [R](thuat_ngu.md#r)
-[S](thuat_ngu.md#s) | [T](thuat_ngu.md#t) | [U](thuat_ngu.md#u) | [V](thuat_ngu.md#v) | [W](thuat_ngu.md#w) | [X](thuat_ngu.md#x)
-[Y](thuat_ngu.md#y) | [Z](thuat_ngu.md#z) | [#](thuat_ngu.md#-kh%C3%A1c) | -- | -- | --
+[A](thuat_ngu.html#a) | [B](thuat_ngu.html#b) | [C](thuat_ngu.html#c) | [D](thuat_ngu.html#d) | [E](thuat_ngu.html#e) | [F](thuat_ngu.html#f)
+[G](thuat_ngu.html#g) | [H](thuat_ngu.html#h) | [I](thuat_ngu.html#i) | [J](thuat_ngu.html#j) | [K](thuat_ngu.html#k) | [L](thuat_ngu.html#l)
+[M](thuat_ngu.html#m) | [N](thuat_ngu.html#n) | [O](thuat_ngu.html#o) | [P](thuat_ngu.html#p) | [Q](thuat_ngu.html#q) | [R](thuat_ngu.html#r)
+[S](thuat_ngu.html#s) | [T](thuat_ngu.html#t) | [U](thuat_ngu.html#u) | [V](thuat_ngu.html#v) | [W](thuat_ngu.html#w) | [X](thuat_ngu.html#x)
+[Y](thuat_ngu.html#y) | [Z](thuat_ngu.html#z) | [#](thuat_ngu.html#-kh%C3%A1c) | -- | -- | --
 
 ## A
 #### **ATM:** 
@@ -32,7 +32,7 @@ Automate: skill bị động trong Skill Tree của HU, tự động xài mate k
 
 
 #### **Affix:** 
-~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các [Ability](thuat_ngu.md#abi)
+~~(bên SEA gọi là aug)~~ tự mình cộng thêm chỉ số cho weap/unit bằng các [Ability](thuat_ngu.html#abi)
 
 #### **Abi:** 
 Ability, các soul, atk đặc biệt để affix vô weap/unit
@@ -49,7 +49,7 @@ AIS: Arks Interception Silhouette. Nguyên con robot mà mình có thể xài. C
 
 #### **Successor Class**
 ~~Advence Classes~~
-Class nâng cao, bá từ khả năng sống sót tới dealt dmg (ep5 đổ đi): [HR](thuat_ngu.md#hr), [PH](thuat_ngu.md#ph)
+Class nâng cao, bá từ khả năng sống sót tới dealt dmg (ep5 đổ đi): [HR](thuat_ngu.html#hr), [PH](thuat_ngu.html#ph)
 
 Segay sẽ còn update thêm class dạng này trong tương lai. Broken game af
 
@@ -133,7 +133,7 @@ Challenge Mile, đơn vị tiền kiếm được khi đi **CQ: Challenge Quest*
 #### **Cap:** 
 [Capsule a/b/c/d/e/f](https://3ktan.wordpress.com/2016/07/10/pso2-red-blue-weap/#1) ![](../data/thuat_ngu/cap.png)
 
-Vé vào cửa để đi [AQ](thuat_ngu.md#aq)
+Vé vào cửa để đi [AQ](thuat_ngu.html#aq)
 
 #### **Cos:**
 costum, trang phục (tốn slot bag)
@@ -152,19 +152,19 @@ Compound Technique. Techni đặc biệt của FO và TE, kết hợp giữa 2 e
 ![](../data/thuat_ngu/compound.jpg)
 
 #### **CPA:**
-Complex Photon Arts: cũng là PA cơ mà hơi khác 1 tẹo, chỉ có thể dùng với main class. Cách dùng tương tự [PB](thuat_ngu.md#pb). Gây [dmg](thuat_ngu.md#dmg) lên quái để tích gause, không tiêu tốn PP khi dùng.
+Complex Photon Arts: cũng là PA cơ mà hơi khác 1 tẹo, chỉ có thể dùng với main class. Cách dùng tương tự [PB](thuat_ngu.html#pb). Gây [dmg](thuat_ngu.html#dmg) lên quái để tích gause, không tiêu tốn PP khi dùng.
 
 ![](../data/thuat_ngu/CPA.png)
 
-Clear [CO](thuat_ngu.md#cos) của Koffie để unlock CPA.  ![](../data/thuat_ngu/CPA_CO.png) 
+Clear [CO](thuat_ngu.html#cos) của Koffie để unlock CPA.  ![](../data/thuat_ngu/CPA_CO.png) 
 
-Có thể đặt vô weapon pallet hoặc sub pallet. Gause cơ bản có 3 vạch, mỗi lần tiêu hao 2,3 vạch tùy CPA. Có thể nâng max vạch này lên 4,5 vạch bằng cách làm thêm các [CO](thuat_ngu.md#cos) của Koffie.
+Có thể đặt vô weapon pallet hoặc sub pallet. Gause cơ bản có 3 vạch, mỗi lần tiêu hao 2,3 vạch tùy CPA. Có thể nâng max vạch này lên 4,5 vạch bằng cách làm thêm các [CO](thuat_ngu.html#cos) của Koffie.
 
 #### **crit:**
 Critical: trí mạng, có 3 mục
 
 * Critical Hit - crit hit: Các đòn đánh gây sát thương trí mạng 
-* Critical Rate - crit rate: Tỉ lệ gây sát thương trí mạng. Dựa vào từng class, có thể tăng tỉ lệ bằng việc dùng [SSA](thuat_ngu.md#ssa) hay ring
+* Critical Rate - crit rate: Tỉ lệ gây sát thương trí mạng. Dựa vào từng class, có thể tăng tỉ lệ bằng việc dùng [SSA](thuat_ngu.html#ssa) hay ring
 * Critical Damage - crit dmg: Sát thương trí mạng (Trong game crit dmg sẽ có màu xanh, dmg thường sẽ là màu trắng)
 
 Lưu ý là không gọi chung crit, sẽ dễ hiểu nhầm.
@@ -222,7 +222,7 @@ Class [Force](https://3ktan.wordpress.com/2017/01/20/pso2_class-fo/) ![](../data
 Class Fighter ![](../data/thuat_ngu/fi.png)
 
 #### **FQ:**
-[Featured Quest](https://pso2.jp.3ktan.site/post/8-co-ban-cho-nguoi-moi#1.3), Quest để kiếm Key đi [Bonus Quest](thuat_ngu.md#bq). Reset vào 22h hàng ngày (là 0h theo giờ Nhật)
+[Featured Quest](https://pso2.jp.3ktan.site/post/8-co-ban-cho-nguoi-moi#1.3), Quest để kiếm Key đi [Bonus Quest](thuat_ngu.html#bq). Reset vào 22h hàng ngày (là 0h theo giờ Nhật)
 
 ![](../data/thuat_ngu/FQ.png)
 
@@ -252,7 +252,7 @@ Class Hunter ![](../data/thuat_ngu/hu.png)
 Hard Mode: chế độ khó, mob/boss lvl 21+
 
 #### **Hidden Pot / pot 2:**
-[Potential](thuat_ngu.md#pot) ẩn của 1 số weap, cần items đặc biệt để unlock như Photon Booster, Battle Booster… chứ không phải Photon Sphere như bình thường. Pot cũng khá ngon, cơ mà không phải weap nào cũng có
+[Potential](thuat_ngu.html#pot) ẩn của 1 số weap, cần items đặc biệt để unlock như Photon Booster, Battle Booster… chứ không phải Photon Sphere như bình thường. Pot cũng khá ngon, cơ mà không phải weap nào cũng có
 
 Hidden Pot | Hidden Pot
 -- | --
@@ -261,7 +261,7 @@ Hidden Pot | Hidden Pot
 #### **HR**
 Class Hero ![](../data/thuat_ngu/hr.png)
 
-[Successor Class](thuat_ngu.md#successor-class) đầu tiên, chỉ có thể đặt làm Main class, không thể làm sub class hoặc để class khác làm sub class cho HR
+[Successor Class](thuat_ngu.html#successor-class) đầu tiên, chỉ có thể đặt làm Main class, không thể làm sub class hoặc để class khác làm sub class cho HR
 
 ## I
 #### **IW:**
@@ -274,7 +274,7 @@ Iron Will, skill tree của HU, có tỉ lệ sống sót với 1HP nếu dmg t�
 Just Attack, khi xài nor atk hay PA/Technique, sẽ xuất hiện vòng màu xanh rồi nhỏ lại thành màu đỏ, nếu nor atk hay PA/Techni đúng vòng màu đỏ sẽ được buff thêm dmg
 
 #### **JG:**
-Just Guard: (cách gọi cho mấy weap của HU) khi chặn đòn thành công từ mob/boss,miss JA thì nó thành [Guard](thuat_ngu.md#guard)
+Just Guard: (cách gọi cho mấy weap của HU) khi chặn đòn thành công từ mob/boss,miss JA thì nó thành [Guard](thuat_ngu.html#guard)
 
 ## K
 #### **KC:**
@@ -301,7 +301,7 @@ Lobby Action, các hành động có thể làm trong game, Tăng thêm nhiều 
 
 
 #### **LB:**
-Limit Break, con hàng ngon nhất của [FI](thuat_ngu.md#fi), giảm max HP nhưng buff dmg
+Limit Break, con hàng ngon nhất của [FI](thuat_ngu.html#fi), giảm max HP nhưng buff dmg
 
 #### **LQ:**
 Limited Quest: Quest giới hạn, cái này tùy event sẽ có
@@ -312,7 +312,7 @@ Limited Quest: Quest giới hạn, cái này tùy event sẽ có
 Lên ep4 segay update layer wear. Tưởng tượng trang phục của char có 3 lớp. Tính từ ngoài vào trong Cos và [Ou] > [Ba] > [In]
 
 * [Ou] Outer layer: [Ou] cơ bản giống cos, không có gì đặc biệt
-* [Ba] Base layer: [Ba] giống với accessory, nó nằm bên dưới [cos](thuat_ngu.md#cos) với [Ou]
+* [Ba] Base layer: [Ba] giống với accessory, nó nằm bên dưới [cos](thuat_ngu.html#cos) với [Ou]
 * [In] Inter layer: [In]: giống [Ba] nhưng nó là đồ lót, nằm bên dưới [Ba]
 
 Nếu xài cos thì không xài được [Ou], 2 cái này không xài chung được với nhau vì cùng 1 lớp. [In] với [Ba] thì thoải mái xài.
@@ -340,13 +340,13 @@ Meseta, loại tiền cơ bản trong game. Drop khi đi Quest, có thể chọn
 Gọi chung cho mob/boss ở Planet Lilipar (map Desert / Tunnel / Quarry )
 
 #### ~~**MB:**~~
-~~Matter Board: [story](other/story.md#ep1--ep3) ep 1-3~~
-Đã bị loại bỏ khi game lên Ep5, thay vào đó là [Story Quest](thuat_ngu.md#story-quest)
+~~Matter Board: [story](other/story.html#ep1--ep3) ep 1-3~~
+Đã bị loại bỏ khi game lên Ep5, thay vào đó là [Story Quest](thuat_ngu.html#story-quest)
 
 ## N
 #### **NT:**
 New Type weap. Xem thêm [Pso2- New Type Weapon – NT weapon](https://3ktan.wordpress.com/2016/06/27/pso2-new-type-weapon-nt-weapon-2/)
-Có thêm thanh Grind EXP, cách thức grind cũng khác so với [OT](thuat-ngu.md#ot)
+Có thêm thanh Grind EXP, cách thức grind cũng khác so với [OT](thuat-ngu.html#ot)
 
 ![](../data/thuat_ngu/weap_nt.png)
 
@@ -367,7 +367,7 @@ Never Give Up: skill trong tree của Hunter. khi IW được kích hoạt sẽ 
 
 ## O
 #### **OT:**
-Old Type, weap loại vũ, không có thanh exp, ngược với [NT](thuat-ngu.md#nt)
+Old Type, weap loại vũ, không có thanh exp, ngược với [NT](thuat-ngu.html#nt)
 
 ![](../data/thuat_ngu/weap_nt.png)
 
@@ -398,7 +398,7 @@ point, nhiều Q sẽ có pts, Kiếm pts để clear Q hoặc boost cho char
 #### **PH**
 Class Phantom ![](../data/thuat_ngu/ph.png)
 
-[Successor Class](thuat_ngu.md#successor-class) thứ 2, chỉ có thể đặt làm Main class và không được để class khác làm sub cho PH, nhưng PH có thể làm sub cho class khác
+[Successor Class](thuat_ngu.html#successor-class) thứ 2, chỉ có thể đặt làm Main class và không được để class khác làm sub cho PH, nhưng PH có thể làm sub cho class khác
 
 #### **Phantom:**
 Gọi chung cho mob/boss ở Planet Earth (map Tokyo / Las Vegas)
@@ -431,7 +431,7 @@ những con quái hiếm, khác so với những con cùng loại. Drop disc hi�
 item để reset lại toàn bộ tree của mọi class. Có thể mua bằng 500AC. Hoặc lâu lâu segay cho. 1 char sẽ có 1 pass, vậy nên mới chơi cứ tạo 3 char để đó, segay sẽ cho 3 reset pass về xài.
 
 #### **Regular Classes:**
-Class thường: [FI](thuat_ngu.md#fi), [FO](thuat_ngu.md#fo), [TE](thuat_ngu.md#te), [BO](thuat_ngu.md#bo), [BR](thuat_ngu.md#br), [GU](thuat_ngu.md#gu), [RA](thuat_ngu.md#ra), [HU](thuat_ngu.md#hu), [SU](thuat_ngu.md#su) (mấy class từ ep 4 đổ lại)
+Class thường: [FI](thuat_ngu.html#fi), [FO](thuat_ngu.html#fo), [TE](thuat_ngu.html#te), [BO](thuat_ngu.html#bo), [BR](thuat_ngu.html#br), [GU](thuat_ngu.html#gu), [RA](thuat_ngu.html#ra), [HU](thuat_ngu.html#hu), [SU](thuat_ngu.html#su) (mấy class từ ep 4 đổ lại)
 
 ## S
 #### **Su:**
@@ -479,7 +479,7 @@ Technique: nói nôm na là phép thuật ấy, chia thành 6 nhóm, mỗi nhóm
 ![](../data/thuat_ngu/techni.jpg)
 
 #### **TAJAB:**
-Techs Arts Just Attack Bonus: skill tree của [FI](thuat_ngu.md#fi), tăng dmg khi JA liên tục bằng những technique/PA khác nhau
+Techs Arts Just Attack Bonus: skill tree của [FI](thuat_ngu.html#fi), tăng dmg khi JA liên tục bằng những technique/PA khác nhau
 
 ![](../data/thuat_ngu/TAJAB.png)
 
@@ -495,7 +495,7 @@ xem thêm [Pso2 – Craft Items + NPC Zieg](https://3ktan.wordpress.com/2016/07/
 #### ~~**TAXQ:**~~
 ~~Time Attack Extreme Quest, ám chỉ COs của Klotho (F2 Lobby)~~.
 
-Khi lên Ep6 Sega đã sửa lại TAXQ, thêm vào đó là [Arks Missions](thuat_ngu.md#arks-missions). 
+Khi lên Ep6 Sega đã sửa lại TAXQ, thêm vào đó là [Arks Missions](thuat_ngu.html#arks-missions). 
 
 [Các COs của Klotho bị thay thế và giảm reward](http://www.bumped.org/psublog/countdown-to-pso2-starsepisode-6/).
 
@@ -519,20 +519,20 @@ Very Hard Mode: mob/boss lvl 41+
 
 ## W
 #### **Weap:**
-Weapon: vũ khí, trong game vũ khí khá đang dạng. Không gọi là wp tránh nhầm lẫn với [Weak Point](thuat_ngu.md#wp)
+Weapon: vũ khí, trong game vũ khí khá đang dạng. Không gọi là wp tránh nhầm lẫn với [Weak Point](thuat_ngu.html#wp)
 
 #### **WP:**
 Weak Point: điểm yếu, mỗi boss/mob đều có những điểm yếu riêng. Đánh trúng chỗ thì dmg sẽ tăng thêm
 
 #### **Weak Ele:**
-Weak Element: nguyên tố yếu nhất, xài [Technique](thuat_ngu.md#techni) trùng với weak ele sẽ được tính thêm dmg. 
+Weak Element: nguyên tố yếu nhất, xài [Technique](thuat_ngu.html#techni) trùng với weak ele sẽ được tính thêm dmg. 
 
 VD quái weak Fire/Wind thì xài techni Fire như: Foie, Safoie… hoặc techni Wind: Razan, Zan,...
 
 ![](../data/thuat_ngu/weak_ele.png)
 
 #### **WB:**
-Weak Buillet: skill kich hoạt trong tree của [RA](thuat_ngu.md#ra) ![](../data/thuat_ngu/wb_tree.png)
+Weak Buillet: skill kich hoạt trong tree của [RA](thuat_ngu.html#ra) ![](../data/thuat_ngu/wb_tree.png)
 
 Bắn ra đạn trúng chỗ nào của mob/boss thì khi gây dmg vào chỗ đó dmg sẽ được tăng thêm.
 
