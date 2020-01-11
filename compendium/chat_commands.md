@@ -1,20 +1,20 @@
 # PSO2_Chat Commands
 
-1. [Phím Tắt](chat_commands.html#1-phím-tắt)
-2. [Màu Chữ](chat_commands.html#2-màu-chữ)
-3. [Bong Bóng Thoại](chat_commands.html#3-bong-bóng-thoại)
+1. [Phím Tắt](chat_commands.html#1-shortcut-key)
+2. [Màu Chữ](chat_commands.html#2-text-color)
+3. [Bong Bóng Thoại](chat_commands.html#3-chat-bubble)
 4. [Lobby Actions](chat_commands.html#4-lobby-actions)
 5. [Cut-in Display](chat_commands.html#5-cut-in-display)
 6. [Symbol Art](chat_commands.html#6-symbol-art)
 7. [Voice](chat_commands.html#7-voice)
 8. [Fashion / Selfie](chat_commands.html#8-fashion--selfie)
-9. [Trạng Thái](chat_commands.html#9-tr%E1%BA%A1ng-th%C3%A1i)
-10. [Khác](chat_commands.html#10-khác)
-11. [Lưu ý](chat_commands.html#11-lưu-ý)
+9. [Trạng Thái](chat_commands.html#9-status)
+10. [Khác](chat_commands.html#10-other)
+11. [Lưu ý](chat_commands.html#11-note)
 
  
 
-## 1: Shortcut key
+## 1: Shortcut Key
 ## ( Phím Tắt )
 - Ấn Enter để mở cửa sổ chat
 - Giữ `Ctrl và ấn phím mũi tên trái/phải` để thay đổi mục hiển thị tin nhắn.<br><br>
@@ -211,7 +211,7 @@ Thay đổi trang bị | Short Command | Nội Dung
 ## ( Lưu ý )
 - **Tránh việc spam `/ci` khi đi map, vì cut-in sẽ choáng nhiều không gian hiển thị. `/symbol` ([SA](chat_commands.html#6-symbol-art)) cũng vậy.**
 
-VD như này, thêm ng nữa cut-in là khỏi nhìn
+VD như này, thêm người nữa cut-in là khỏi nhìn
 
 ![](../data/chat_commands/spam_ci.jpg)
 

@@ -1,20 +1,15 @@
 
 <nav class="nav">
     <ul id="main_menu"> 
-        <li class="nav-item" data-toggle="collapse" data-target="#bot"><a href="#" >Tantanyan Discord Bot</a> </li>
-        <ul id="bot" class="collapse">
-            <li><a href="https://tantanyan.3ktan.site/">- Official Web</a></li> 
-            <li><a href="https://discordapp.com/oauth2/authorize?client_id=409256908684263426&scope=bot&permissions=305523830">- Invite Link</a> </li> 
-            <li><a href="https://discord.gg/76HeWzE">- Support Server</a></li> 
-        </ul> 
+        
     </ul> 
     <br>
 </nav>  
 
 <script>
 $(document).ready(function(){     
-    var base = "http://127.0.0.1:5500/";
-    // var base = "https://vutrungtruc-slimetan.github.io/Pso2-s-Compendium/";
+    // var base = "http://127.0.0.1:5500/";
+    var base = "https://vutrungtruc-slimetan.github.io/Pso2-s-Compendium/";
     document.getElementById("main_menu").innerHTML = "\
         <li class='nav-item'><a href='"+base+"compendium/thuat_ngu.html'>Thuật ngữ / Viết tắt</a></li> \
         <li class='nav-item'><a href='"+base+"compendium/chat_commands.html'>Chat Commands</a></li>\
@@ -23,6 +18,12 @@ $(document).ready(function(){
             <li><a href='"+base+"compendium/other/weap/liberate/'>- <img src='"+base+"compendium/other/weap/liberate/data/liberate-unlocker.png'> Liberate</a></li> \
             <li><a href='"+base+"compendium/other/weap/lightstream/'>- <img src='"+base+"compendium/other/weap/lightstream/data/circular-amphitrite-stone.png'> Lightstream </a></li> \
             <li><a href='"+base+"compendium/other/weap/atlas-ex/'>- <img src='"+base+"compendium/other/weap/atlas-ex/data/time-stone.png'> Atlas EX</a></li> \
+        </ul>\
+        <li class='nav-item' data-toggle='collapse' data-target='#bot'><a href='#' >Tantanyan Discord Bot</a> </li>\
+        <ul id='bot' class='collapse'>\
+            <li><a href='https://tantanyan.3ktan.site/'>- Official Web</a></li> \
+            <li><a href='https://discordapp.com/oauth2/authorize?client_id=409256908684263426&scope=bot&permissions=305523830'>- Invite Link</a> </li> \
+            <li><a href='https://discord.gg/76HeWzE'>- Support Server</a></li> \
         </ul>"; 
 });       
 </script>
