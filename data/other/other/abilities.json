@@ -1916,6 +1916,14 @@
             ],
             "ref": "TJ01",
             "success": 10
+        },
+        {
+            "base": [
+                "VJ*",
+				"XH01"
+            ],
+            "ref": "$$",
+            "success": 100
         }
     ],
     "extraSlot": [
