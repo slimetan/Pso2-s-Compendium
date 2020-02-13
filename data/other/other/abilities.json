@@ -351,7 +351,7 @@
             {
                 "id": "Add Ability (Mark Couragena)",
                 "name": "Mark Couragena",
-                "value": "UC01",
+                "value": "UC11",
                 "extend": 100,
                 "effect": "S-ATK(+40),<br>R-ATK(+40),<br>T-ATK(+40),<br>PP(+5)"
             },
@@ -2449,6 +2449,8 @@
             "Slayer/Kuronite Type",
             "Slayer/Phantoms Type",
             "Slayer/Darkers",
+            "Slayer/Dragonkin",
+            "Slayer/Luminmech",
             "Ripper/Fire Weak",
             "Ripper/Ice Weak",
             "Ripper/Wind Weak",
@@ -9411,6 +9413,28 @@
             "effect": "Boost damage against Darkers.<br>Effect is reduced<br>as the Weapon<br>Rarity increases."
         },
         {
+            "code": "PN17",
+            "gid": "EC",
+            "name": "Slayer/Dragonkin",
+            "extend": [
+                0,
+                10,
+                20
+            ],
+            "effect": "Boost damage against Dragonkin.<br>Effect is reduced<br>as the Weapon<br>Rarity increases."
+        },
+        {
+            "code": "PO18",
+            "gid": "EC",
+            "name": "Slayer/Luminmech",
+            "extend": [
+                0,
+                10,
+                20
+            ],
+            "effect": "Boost damage against Luminmech.<br>Effect is reduced<br>as the Weapon<br>Rarity increases."
+        },
+        {
             "code": "VJ01",
             "gid": "YA",
             "name": "Soul Catalyst",
@@ -9664,4 +9688,4 @@
             "effect": "100% affix junk"
         }
     ]
-} 
+}
