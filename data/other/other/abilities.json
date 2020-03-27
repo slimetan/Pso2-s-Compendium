@@ -1,4 +1,5 @@
 {
+    "lastModified": "2019-01-20",
     "optionList": {
         "support": [
             {
@@ -2272,7 +2273,7 @@
             "Shoot V",
             "Shoot VI",
             "Sentence Tiro",
-			"Apprezina Reverie",
+			"Appregina Reverie",
 			"Lesser Shoot I",
             "Lesser Shoot II",
             "Lesser Shoot III",
@@ -8063,7 +8064,7 @@
         {
             "code": "TK04",
             "gid": "AC",
-            "name": "Apprezina Reverie",
+            "name": "Appregina Reverie",
             "extend": [
                 0,
                 30,
@@ -8242,6 +8243,39 @@
             ],
             "status": 1,
             "effect": "S-DEF(+35)<br>R-DEF(+35)<br>T-DEF(+35)<br>HP(+40)<br>PP(+4)"
+        },
+        {
+            "code": "TN05",
+            "gid": "AC",
+            "name": "Execour Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+20)<br>R-ATK(+20)<br>T-ATK(+20)<br>S-DEF(+50)<br>R-DEF(+50)<br>T-DEF(+50)"
+        },
+        {
+            "code": "TN06",
+            "gid": "AC",
+            "name": "Mitra Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+20)<br>R-ATK(+20)<br>R-DEF(+20)<br>T-DEF(+20)<br>HP(+20)<br>PP(+2)"
+        },
+        {
+            "code": "TN07",
+            "gid": "AC",
+            "name": "Varuna Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+30)<br>T-ATK(+30)<br>S-DEF(+20)<br>R-DEF(+20)<br>HP(+20)<br>PP(+2)"
         },
         {
             "code": "TH01",
@@ -9467,7 +9501,7 @@
                 30
             ],
             "effect": "HP(+10),<br>PP(+1)",
-			"tooltip": "Made from: Elder Reverie, Loser Reverie, Apprezina Reverie, Double Reverie, Persona Reverie<br>Used for: Mana Reverie"
+			"tooltip": "Made from: Elder Reverie, Loser Reverie, Appregina Reverie, Double Reverie, Persona Reverie<br>Used for: Mana Reverie"
         },
         {
             "code": "VL01",
