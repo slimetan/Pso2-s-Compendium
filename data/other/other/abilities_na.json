@@ -1924,6 +1924,30 @@
             ],
             "ref": "$$",
             "success": 100
+        },
+        {
+            "base": [
+                "UC*",
+                "XG01"
+            ],
+            "ref": "$$",
+            "success": 100
+        },
+        {
+            "base": [
+                "ID*",
+                "XJ01"
+            ],
+            "ref": "$$",
+            "success": 100
+        },
+        {
+            "base": [
+                "IE*",
+                "XK01"
+            ],
+            "ref": "$$",
+            "success": 100
         }
     ],
     "extraSlot": [
@@ -8953,50 +8977,30 @@
             "code": "UC01",
             "gid": "AC",
             "name": "Mark Joy",
-            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>HP(+50)",
-            "extend": [
-                100
-            ],
-            "require": "XG01"
+            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>HP(+50)"
         },
         {
             "code": "UC11",
             "gid": "AC",
             "name": "Mark Courage",
-            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>PP(+5)",
-            "extend": [
-                100
-            ],
-            "require": "XG01"
+            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>PP(+5)"
         },
         {
             "code": "UC21",
             "gid": "AC",
             "name": "Mark Anger",
-            "effect": "MEL Pwr(+50),<br>RNG Pwr(+50),<br>TEC Pwr(+50),<br>DEX(+40)",
-            "extend": [
-                100
-            ],
-            "require": "XG01"
+            "effect": "MEL Pwr(+50),<br>RNG Pwr(+50),<br>TEC Pwr(+50),<br>DEX(+40)"
         },
         {
             "code": "UC31",
             "gid": "AC",
             "name": "Mark Grief",
-            "effect": "MEL Def(+50),<br>RNG Def(+50),<br>TEC Def(+50),<br>HP(+80)",
-            "extend": [
-                100
-            ],
-            "require": "XG01"
+            "effect": "MEL Def(+50),<br>RNG Def(+50),<br>TEC Def(+50),<br>HP(+80)"
         },
         {
             "code": "ID01",
             "gid": "AC",
             "name": "Divine Will",
-            "extend": [
-                100
-            ],
-            "require": "XJ01",
             "extup": [
                 "TN0"
             ],
@@ -9007,10 +9011,6 @@
             "code": "ID02",
             "gid": "AC",
             "name": "Divine Order",
-            "extend": [
-                100
-            ],
-            "require": "XJ01",
             "extup": [
                 "TN0"
             ],
@@ -9021,10 +9021,6 @@
             "code": "IE01",
             "gid": "AC",
             "name": "Exceed Energy",
-            "extend": [
-                100
-            ],
-            "require": "XK01",
             "effect": "MEL Pwr(+50),<br>RNG Pwr(+50),<br>TEC Pwr(+50),<br>DEX(+20),<br>MEL Def(+20),<br>RNG Def(+20),<br>TEC Def(+20),<br>HP(+20),<br>PP(+5)"
         },
         {
