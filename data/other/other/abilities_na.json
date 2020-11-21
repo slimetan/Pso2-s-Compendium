@@ -1551,361 +1551,74 @@
         {
             "base": [
                 "XI30",
-                "AA01"
+                "AA*"
             ],
-            "ref": "AA01",
+            "ref": "$$",
             "success": 100
         },
         {
             "base": [
                 "XI30",
-                "AA02"
+                "AB*"
             ],
-            "ref": "AA02",
+            "ref": "$$",
+            "success": 100
+        },,
+        {
+            "base": [
+                "XI30",
+                "AC*"
+            ],
+            "ref": "$$",
             "success": 100
         },
         {
             "base": [
                 "XI30",
-                "AA03"
+                "AD*"
             ],
-            "ref": "AA03",
+            "ref": "$$",
             "success": 100
         },
+
         {
             "base": [
-                "XI30",
-                "AA04"
+                "XI31",
+                "BA*"
             ],
-            "ref": "AA04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AA05"
-            ],
-            "ref": "AA05",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AB01"
-            ],
-            "ref": "AB01",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AB02"
-            ],
-            "ref": "AB02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AB03"
-            ],
-            "ref": "AB03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AB04"
-            ],
-            "ref": "AB04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AB05"
-            ],
-            "ref": "AB05",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AC01"
-            ],
-            "ref": "AC01",
-            "success": 100
-        },
-         {
-            "base": [
-                "XI30",
-                "AC02"
-            ],
-            "ref": "AC02",
-            "success": 100
-        },
-         {
-            "base": [
-                "XI30",
-                "AC03"
-            ],
-            "ref": "AC03",
-            "success": 100
-        },
-         {
-            "base": [
-                "XI30",
-                "AC04"
-            ],
-            "ref": "AC04",
-            "success": 100
-        },
-         {
-            "base": [
-                "XI30",
-                "AC05"
-            ],
-            "ref": "AC05",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AD01"
-            ],
-            "ref": "AD01",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AD02"
-            ],
-            "ref": "AD02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AD03"
-            ],
-            "ref": "AD03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AD04"
-            ],
-            "ref": "AD04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI30",
-                "AD05"
-            ],
-            "ref": "AD05",
+            "ref": "$$",
             "success": 100
         },
         {
             "base": [
                 "XI31",
-                "BA01"
+                "BB*"
             ],
-            "ref": "BA01",
+            "ref": "$$",
             "success": 100
         },
         {
             "base": [
                 "XI31",
-                "BA02"
+                "BC*"
             ],
-            "ref": "BA02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BA03"
-            ],
-            "ref": "BA03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BA04"
-            ],
-            "ref": "BA04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BA05"
-            ],
-            "ref": "BA05",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BB01"
-            ],
-            "ref": "BB01",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BB02"
-            ],
-            "ref": "BB02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BB03"
-            ],
-            "ref": "BB03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BB04"
-            ],
-            "ref": "BB04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BB05"
-            ],
-            "ref": "BB05",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BC01"
-            ],
-            "ref": "BC01",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BC02"
-            ],
-            "ref": "BC02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BC03"
-            ],
-            "ref": "BC03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BC04"
-            ],
-            "ref": "BC04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI31",
-                "BC05"
-            ],
-            "ref": "BC05",
+            "ref": "$$",
             "success": 100
         },
         {
             "base": [
                 "XI32",
-                "EA01"
+                "EA*"
             ],
-            "ref": "EA01",
+            "ref": "$$",
             "success": 100
         },
         {
             "base": [
                 "XI32",
-                "EA02"
+                "EB*"
             ],
-            "ref": "EA02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EA03"
-            ],
-            "ref": "EA03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EA04"
-            ],
-            "ref": "EA04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EA05"
-            ],
-            "ref": "EA05",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EB01"
-            ],
-            "ref": "EB01",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EB02"
-            ],
-            "ref": "EB02",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EB03"
-            ],
-            "ref": "EB03",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EB04"
-            ],
-            "ref": "EB04",
-            "success": 100
-        },
-        {
-            "base": [
-                "XI32",
-                "EB05"
-            ],
-            "ref": "EB05",
+            "ref": "$$",
             "success": 100
         },
         {
@@ -1997,7 +1710,8 @@
                     0,
                     100,
                     70,
-                    50
+                    50,
+                    0
                 ],
                 "3": [
                     0,
@@ -2005,7 +1719,8 @@
                     0,
                     100,
                     70,
-                    50
+                    50,
+                    0
                 ]
             }
         },
@@ -2017,6 +1732,7 @@
                     0,
                     30,
                     0,
+                    0,
                     0
                 ],
                 "2": [
@@ -2025,6 +1741,7 @@
                     0,
                     30,
                     0,
+                    0,
                     0
                 ],
                 "3": [
@@ -2032,6 +1749,7 @@
                     0,
                     0,
                     40,
+                    0,
                     0,
                     0
                 ]
@@ -2045,6 +1763,7 @@
                     0,
                     40,
                     30,
+                    0,
                     0
                 ],
                 "2": [
@@ -2053,6 +1772,7 @@
                     0,
                     40,
                     30,
+                    0,
                     0
                 ],
                 "3": [
@@ -2061,6 +1781,7 @@
                     0,
                     50,
                     30,
+                    0,
                     0
                 ]
             }
@@ -2073,6 +1794,7 @@
                     0,
                     20,
                     20,
+                    0,
                     0
                 ],
                 "2": [
@@ -2081,6 +1803,7 @@
                     0,
                     20,
                     20,
+                    0,
                     0
                 ],
                 "3": [
@@ -2089,6 +1812,7 @@
                     0,
                     30,
                     20,
+                    0,
                     0
                 ],
                 "4": [
@@ -2097,6 +1821,7 @@
                     0,
                     10,
                     10,
+                    0,
                     0
                 ]
             },
@@ -2107,6 +1832,7 @@
                     0,
                     20,
                     0,
+                    0,
                     0
                 ],
                 "2": [
@@ -2114,6 +1840,7 @@
                     0,
                     0,
                     20,
+                    0,
                     0,
                     0
                 ],
@@ -2123,6 +1850,7 @@
                     0,
                     60,
                     0,
+                    0,
                     0
                 ],
                 "4": [
@@ -2131,6 +1859,7 @@
                     0,
                     10,
                     10,
+                    0,
                     0
                 ],
                 "6": [
@@ -2186,6 +1915,10 @@
                     0,
                     {
                         "max": 80,
+                        "boost": 20
+                    },
+                    {
+                        "max": 60,
                         "boost": 20
                     },
                     {
@@ -2438,6 +2171,7 @@
             "Soul Catalyst",
             "Factor Catalyst",
             "Reverie Catalyst",
+            "Glare Catalyst",
             "Necky Smile",
             "Polytan's Smile",
 			"Arkuma's Smile",
@@ -2549,6 +2283,7 @@
             "code": "AA05",
             "gid": "AA",
             "name": "Might V",
+            "lvup": "AA06",
             "extend": [
                 20,
                 40,
@@ -2563,8 +2298,17 @@
         },
         {
             "code": "AA06",
-            "gid": "CB",
+            "gid": "AA",
             "name": "Might VI",
+            "extend": [
+                20,
+                40,
+                60
+            ],
+            "generate": [
+                10,
+                30
+            ],
             "status": 1,
             "effect": "MEL Pwr(+45)"
         },
@@ -2634,6 +2378,7 @@
             "code": "AB05",
             "gid": "AA",
             "name": "Precision V",
+            "lvup": "AB06",
             "extend": [
                 20,
                 40,
@@ -2648,8 +2393,17 @@
         },
         {
             "code": "AB06",
-            "gid": "CB",
+            "gid": "AA",
             "name": "Precision VI",
+            "extend": [
+                20,
+                40,
+                60
+            ],
+            "generate": [
+                10,
+                30
+            ],
             "status": 1,
             "effect": "RNG Pwr(+45)"
         },
@@ -2719,6 +2473,7 @@
             "code": "AC05",
             "gid": "AA",
             "name": "Casting V",
+            "lvup": "AC06",
             "extend": [
                 20,
                 40,
@@ -2733,8 +2488,17 @@
         },
         {
             "code": "AC06",
-            "gid": "CB",
+            "gid": "AA",
             "name": "Casting VI",
+            "extend": [
+                20,
+                40,
+                60
+            ],
+            "generate": [
+                10,
+                30
+            ],
             "status": 1,
             "effect": "TEC Pwr(+45)"
         },
@@ -3116,6 +2880,7 @@
             "code": "EA05",
             "gid": "AA",
             "name": "Stamina V",
+            "lvup": "EA06",
             "extend": [
                 20,
                 40,
@@ -3130,8 +2895,17 @@
         },
         {
             "code": "EA06",
-            "gid": "CB",
+            "gid": "AA",
             "name": "Stamina VI",
+            "extend": [
+                20,
+                40,
+                60
+            ],
+            "generate": [
+                10,
+                30
+            ],
             "status": 1,
             "effect": "HP(+80)"
         },
@@ -3201,6 +2975,7 @@
             "code": "EB05",
             "gid": "AA",
             "name": "Spirit V",
+            "lvup": "EB06",
             "extend": [
                 20,
                 40,
@@ -3215,8 +2990,17 @@
         },
         {
             "code": "EB06",
-            "gid": "CB",
+            "gid": "AA",
             "name": "Spirit VI",
+            "extend": [
+                20,
+                40,
+                60
+            ],
+            "generate": [
+                10,
+                30
+            ],
             "status": 1,
             "effect": "PP(+7)"
         },
@@ -3256,7 +3040,7 @@
         },
         {
             "code": "FA04",
-            "gid": "CB",
+            "gid": "AD",
             "name": "Mastery IV",
             "effect": "ALL(+20)"
         },
@@ -4695,7 +4479,7 @@
 		{
 			"code": "LA27",
 			"gid": "L1",
-			"name":"S1: Goliathslayer's Resolve",
+			"name":"S1: Goliathslayer's Will",
 			"extend": [
 				100
 			],
@@ -4715,7 +4499,7 @@
 		{
 			"code": "LA29",
 			"gid": "L1",
-			"name":"S1: Partbreaker's Boon",
+			"name":"S1: Lustrous Partbreaker",
 			"extend": [
 				100
 			],
@@ -4725,7 +4509,7 @@
 		{
 			"code": "LA2A",
 			"gid": "L1",
-			"name":"S1: Revenant's Resolve",
+			"name":"S1: Spectre's Will",
 			"extend": [
 				100
 			],
@@ -4735,7 +4519,7 @@
 		{
 			"code": "LA2B",
 			"gid": "L1",
-			"name":"S1: Elementalist's Resolve",
+			"name":"S1: Elementalist's Will",
 			"extend": [
 				100
 			],
@@ -4755,7 +4539,7 @@
 		{
 			"code": "LA2D",
 			"gid": "L1",
-			"name":"S1: Boon of Madness",
+			"name":"S1: Favor of Madness",
 			"extend": [
 				100
 			],
@@ -4765,7 +4549,7 @@
 		{
 			"code": "LA2E",
 			"gid": "L1",
-			"name":"S1: Photon Reduction 2",
+			"name":"S1: Photon Descent 2",
 			"extend": [
 				100
 			],
@@ -4775,7 +4559,7 @@
 		{
 			"code": "LA2G",
 			"gid": "L1",
-			"name":"S1: Wake of Destruction Photon 2",
+			"name":"S1: Lucent Domain 2",
 			"extend": [
 				100
 			],
@@ -4785,7 +4569,7 @@
 		{
 			"code": "LA2H",
 			"gid": "L1",
-			"name":"S1: Resolve of the Dying",
+			"name":"S1: Will of the Dying",
 			"extend": [
 				100
 			],
@@ -4795,7 +4579,7 @@
 		{
 			"code": "LA2I",
 			"gid": "L1",
-			"name":"S1: Resolveflow",
+			"name":"S1: Timeflow Will",
 			"extend": [
 				100
 			],
@@ -4845,7 +4629,7 @@
         {
 			"code": "LA2N",
 			"gid": "L1",
-			"name":"S1: Augment Resolve",
+			"name":"S1: Augment Will",
 			"extend": [
 				100
 			],
@@ -4855,7 +4639,7 @@
         {
 			"code": "LA2O",
 			"gid": "L1",
-			"name":"S1: Crippling Scourge",
+			"name":"S1: Crippling Erode",
 			"extend": [
 				100
 			],
@@ -4885,7 +4669,7 @@
         {
 			"code": "LA2R",
 			"gid": "L1",
-			"name":"S1: Lucent Grace 2",
+			"name":"S1: Luminous Grace 2",
 			"extend": [
 				100
 			],
@@ -4895,7 +4679,7 @@
         {
 			"code": "LA2S",
 			"gid": "L1",
-			"name":"S1: Superior Prowess 2",
+			"name":"S1: Skillful Adept 2",
 			"extend": [
 				100
 			],
@@ -5115,7 +4899,7 @@
 		{
 			"code": "LB1C",
 			"gid": "L2",
-			"name":"S2: Partbreaker's Boon",
+			"name":"S2: Lustrous Partbreaker",
 			"extend": [
                 100
             ],
@@ -5125,7 +4909,7 @@
 		{
 			"code": "LB1D",
 			"gid": "L2",
-			"name":"S2: Double-Edged Sword",
+			"name":"S2: Two-edged Strike",
 			"extend": [
                 100
             ],
@@ -5135,7 +4919,7 @@
 		{
 			"code": "LB1E",
 			"gid": "L2",
-			"name":"S2: Goliathslayer's Resolve",
+			"name":"S2: Goliathslayer's Will",
 			"extend": [
                 100
             ],
@@ -5145,7 +4929,7 @@
 		{
 			"code": "LB1F",
 			"gid": "L2",
-			"name":"S2: Revenant's Lucentboon",
+			"name":"S2: Lustrous Spectre",
 			"extend": [
                 100
             ],
@@ -5155,7 +4939,7 @@
 		{
 			"code": "LB1G",
 			"gid": "L2",
-			"name":"S2: Revenant's Lucentrush",
+			"name":"S2: Spectre Apparition",
 			"extend": [
 				100
 			],
@@ -5165,7 +4949,7 @@
 		{
 			"code": "LB1H",
 			"gid": "L2",
-			"name":"S2: Shield of the Revenant",
+			"name":"S2: Spectre Shield",
 			"extend": [
 				100
 			],
@@ -5175,7 +4959,7 @@
 		{
 			"code": "LB1I",
 			"gid": "L2",
-			"name":"S2: Boon of Madness",
+			"name":"S2: Favor of Madness",
 			"extend": [
 				100
 			],
@@ -5195,7 +4979,7 @@
 		{
 			"code": "LB1K",
 			"gid": "L2",
-			"name":"S2: Moonlit Shadowforest Song",
+			"name":"S2: Moonleaf Song",
 			"extend": [
 				100
 			],
@@ -5205,7 +4989,7 @@
 		{
 			"code": "LB1L",
 			"gid": "L2",
-			"name":"S2: Descent of the Petalsea 2",
+			"name":"S2: Petalsea Descent 2",
 			"extend": [
 				100
 			],
@@ -5215,7 +4999,7 @@
 		{
 			"code": "LB1M",
 			"gid": "L2",
-			"name":"S2: Moonlit Shadowforest Active 2",
+			"name":"S2: Lustrous Moonleaf 2",
 			"extend": [
 				100
 			],
@@ -5235,7 +5019,7 @@
 		{
 			"code": "LB1O",
 			"gid": "L2",
-			"name":"S2: Precision Will 2",
+			"name":"S3: Precision Will 2",
 			"extend": [
 				100
 			],
@@ -5245,7 +5029,7 @@
 		{
 			"code": "LB1P",
 			"gid": "L2",
-			"name":"S2: Lucent Strike 2",
+			"name":"S2: Lustrous Strike 2",
 			"extend": [
 				100
 			],
@@ -5265,7 +5049,7 @@
 		{
 			"code": "LB1R",
 			"gid": "L2",
-			"name":"S2: Moonlit Shadowforest Active",
+			"name":"S2: Lustrous Moonleaf",
 			"extend": [
 				100
 			],
@@ -5555,7 +5339,7 @@
 		{
 			"code": "LC18",
 			"gid": "L3",
-			"name":"S3: Shield of the Petalsea",
+			"name":"S3: Petalsea Shield",
 			"extend": [
 				100
 			],
@@ -5565,7 +5349,7 @@
 		{
 			"code": "LC19",
 			"gid": "L3",
-			"name":"S3: Moonlit Shadowforest Adept",
+			"name":"S3: Moonleaf Adept",
 			"extend": [
 				100
 			],
@@ -5575,7 +5359,7 @@
 		{
 			"code": "LC1A",
 			"gid": "L3",
-			"name":"S3: Wake of Destruction Photon",
+			"name":"S3: Lucent Domain",
 			"extend": [
 				100
 			],
@@ -5585,7 +5369,7 @@
 		{
 			"code": "LC1B",
 			"gid": "L3",
-			"name":"S3: Catastrophic Photon",
+			"name":"S3: Lucent Adversity",
 			"extend": [
 				100
 			],
@@ -5605,7 +5389,7 @@
 		{
 			"code": "LC1D",
 			"gid": "L3",
-			"name":"S3: Revenant's Descent",
+			"name":"S3: Spectre's Descent",
 			"extend": [
 				100
 			],
@@ -5615,7 +5399,7 @@
 		{
 			"code": "LC1E",
 			"gid": "L3",
-			"name":"S3: Boon of Madness",
+			"name":"S3: Favor of Madness",
 			"extend": [
 				100
 			],
@@ -5635,7 +5419,7 @@
 		{
 			"code": "LC1G",
 			"gid": "L3",
-			"name":"S3: Song of the Petalsea",
+			"name":"S3: Petalsea Song",
 			"extend": [
 				100
 			],
@@ -5645,7 +5429,7 @@
 		{
 			"code": "LC1H",
 			"gid": "L3",
-			"name":"S3: Lucentrush of the Petalsea 2",
+			"name":"S3: Luminous Petalsea 2",
 			"extend": [
 				100
 			],
@@ -5655,7 +5439,7 @@
 		{
 			"code": "LC1I",
 			"gid": "L3",
-			"name":"S3: Graceflow",
+			"name":"S3: Timeflow Grace",
 			"extend": [
 				100
 			],
@@ -5665,7 +5449,7 @@
 		{
 			"code": "LC1J",
 			"gid": "L3",
-			"name":"S3: Timeflow Vitality 2",
+			"name":"S2: Timeflow Vitality 2",
 			"extend": [
 				100
 			],
@@ -5675,7 +5459,7 @@
 		{
 			"code": "LC1K",
 			"gid": "L3",
-			"name":"S3: Lucent Grace 2",
+			"name":"S3: Luminous Grace 2",
 			"extend": [
 				100
 			],
@@ -5685,7 +5469,7 @@
 		{
 			"code": "LC1H",
 			"gid": "L3",
-			"name":"S3: Lucentrush of the Petalsea",
+			"name":"S3: Luminous Petalsea",
 			"extend": [
 				100
 			],
@@ -5945,7 +5729,7 @@
 		{
 			"code": "LD0O",
 			"gid": "L4",
-			"name":"S4: Divine Lucent Protection",
+			"name":"S4: Luminous Protection",
 			"extend": [
 				100
 			],
@@ -5955,7 +5739,7 @@
 		{
 			"code": "LD0P",
 			"gid": "L4",
-			"name":"S4: Steadfast Resolve",
+			"name":"S4: Steadfast Will",
 			"extend": [
 				100
 			],
@@ -5985,7 +5769,7 @@
         {
 			"code": "LD0S",
 			"gid": "L4",
-			"name":"S4: Rainbow Lucentbalance",
+			"name":"S4: Rainbow Balance",
 			"extend": [
 				100
 			],
@@ -6235,7 +6019,7 @@
         {
 			"code": "LF0C",
 			"gid": "L6",
-			"name":"S6: Guardian of the Machinasoul",
+			"name":"S6: Soul Protection",
 			"extend": [
 				100
 			],
@@ -6255,7 +6039,7 @@
         {
 			"code": "LF0E",
 			"gid": "L6",
-			"name":"S6: Superior Prowess",
+			"name":"S6: Skillful Adept",
 			"extend": [
 				100
 			],
@@ -6265,7 +6049,7 @@
         {
 			"code": "LF0F",
 			"gid": "L6",
-			"name":"S1: Shield of the Guardian",
+			"name":"S1: Guardian Shield",
 			"extend": [
 				100
 			],
@@ -6305,7 +6089,7 @@
         {
 			"code": "LF0J",
 			"gid": "L6",
-			"name":"S6: Reinforced Life Vessel",
+			"name":"S6: Fortified Life Vessel",
 			"extend": [
 				100
 			],
@@ -6315,7 +6099,7 @@
         {
 			"code": "LF0K",
 			"gid": "L6",
-			"name":"S6: Reinforced Lucent Vessel",
+			"name":"S6: Fortified Photon Vessel",
 			"extend": [
 				100
 			],
@@ -6325,7 +6109,7 @@
         {
 			"code": "LF0L",
 			"gid": "L6",
-			"name":"S6: Wake of Destruction Photon",
+			"name":"S6: Lucent Domain",
 			"extend": [
 				100
 			],
@@ -6355,7 +6139,7 @@
         {
 			"code": "LF0P",
 			"gid": "L6",
-			"name":"S6: Evasion Whistle",
+			"name":"S6: Dodging Whistle",
 			"extend": [
 				100
 			],
@@ -6385,7 +6169,7 @@
         {
 			"code": "LG0A",
 			"gid": "L7",
-			"name":"S7: Lucent Grace",
+			"name":"S7: Still Grace",
 			"extend": [
 				100
 			],
@@ -6425,7 +6209,7 @@
         {
 			"code": "LG0E",
 			"gid": "L7",
-			"name":"S7: Reinforced Life Vessel",
+			"name":"S7: Fortified Life Vessel",
 			"extend": [
 				100
 			],
@@ -6435,7 +6219,7 @@
         {
 			"code": "LG0F",
 			"gid": "L7",
-			"name":"S7: Reinforced Lucent Vessel",
+			"name":"S7: Fortified Photon Vessel",
 			"extend": [
 				100
 			],
@@ -6475,7 +6259,7 @@
         {
 			"code": "LG0J",
 			"gid": "L7",
-			"name":"S7: Attack Extension",
+			"name":"S7: Fortified Attack",
 			"extend": [
 				100
 			],
@@ -6485,7 +6269,7 @@
         {
 			"code": "LG0K",
 			"gid": "L7",
-			"name":"S7: Attack Extension 2",
+			"name":"S7: Fortified Attack 2",
 			"extend": [
 				100
 			],
@@ -6535,7 +6319,7 @@
         {
 			"code": "LH0B",
 			"gid": "L8",
-			"name":"S8: Medicated Fortification",
+			"name":"S8: Mighty Medication",
 			"extend": [
 				100
 			],
@@ -6575,7 +6359,7 @@
         {
 			"code": "LH0F",
 			"gid": "L8",
-			"name":"S8: Reinforced Life Vessel",
+			"name":"S8: Fortified Life Vessel",
 			"extend": [
 				100
 			],
@@ -6585,7 +6369,7 @@
         {
 			"code": "LH0G",
 			"gid": "L8",
-			"name":"S8: Reinforced Lucent Vessel",
+			"name":"S8: Fortified Photon Vessel",
 			"extend": [
 				100
 			],
@@ -6595,7 +6379,7 @@
         {
 			"code": "LH0H",
 			"gid": "L8",
-			"name":"S8: Reinforced Life Vessel 2",
+			"name":"S8: Fortified Life Vessel 2",
 			"extend": [
 				100
 			],
@@ -6605,7 +6389,7 @@
         {
 			"code": "LH0I",
 			"gid": "L8",
-			"name":"S8: Reinforced Lucent Vessel 2",
+			"name":"S8: Fortified Photon Vessel 2",
 			"extend": [
 				100
 			],
@@ -8269,6 +8053,86 @@
             "effect": "MEL Def(+35)<br>RNG Def(+35)<br>TEC Def(+35)<br>HP(+40)<br>PP(+4)"
         },
         {
+            "code": "TN05",
+            "gid": "AC",
+            "name": "Execour Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+20)<br>R-ATK(+20)<br>T-ATK(+20)<br>S-DEF(+50)<br>R-DEF(+50)<br>T-DEF(+50)",
+            "tooltip": "Used for: Glare Catalyst"
+        },
+        {
+            "code": "TN06",
+            "gid": "AC",
+            "name": "Mitra Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+30)<br>R-ATK(+30)<br>S-DEF(+20)<br>R-DEF(+20)<br>T-DEF(+20)<br>HP(+20)<br>PP(+2)",
+            "tooltip": "Used for: Photoner Glare"
+        },
+        {
+            "code": "TN07",
+            "gid": "AC",
+            "name": "Varuna Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+30)<br>T-ATK(+30)<br>S-DEF(+20)<br>R-DEF(+20)<br>T-DEF(+20)<br>HP(+20)<br>PP(+2)",
+            "tooltip": "Used for: Photoner Glare"
+        },
+        {
+            "code": "TN08",
+            "gid": "AC",
+            "name": "Shiva Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "R-ATK(+30)<br>T-ATK(+30)<br>S-DEF(+20)<br>R-DEF(+20)<br>T-DEF(+20)<br>HP(+20)<br>PP(+2)",
+            "tooltip": "Used for: Photoner Glare"
+        },
+        {
+            "code": "TN09",
+            "gid": "AC",
+            "name": "Origin Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "S-ATK(+30)<br>R-ATK(+30)<br>T-ATK(+30)<br>S-DEF(+10)<br>R-DEF(+10)<br>T-DEF(+10)<br>HP(+20)<br>PP(+2)",
+            "tooltip": "Used for: Photoner Glare"
+        },
+        {
+            "code": "TN0A",
+            "gid": "AC",
+            "name": "Photoner Glare",
+            "extend": [
+                30,
+                50
+            ],
+            "status": 1,
+            "effect": "ALL(+15)<br>HP(+15)<br>PP(+2)",
+            "tooltip": "Made from: Mitra Glare, Varuna Glare, Shiva Glare, Origin Glare<br>Used for: Absolute Glare"
+        },
+        {
+            "code": "TN11",
+            "gid": "AC",
+            "name": "Absolute Glare",
+            "status": 1,
+            "effect": "ALL(+40)<br>HP(+30)<br>PP(+3)",
+			"tooltip": "Made from: 4x Glare Catalyst + Photoner Glare<br>Used for: Guardian Soul"
+        },
+        {
             "code": "TH01",
             "gid": "AD",
             "name": "Doom Break I",
@@ -8977,25 +8841,25 @@
             "code": "UC01",
             "gid": "AC",
             "name": "Mark Joy",
-            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>HP(+50)"
+            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>HP(+50)",
         },
         {
             "code": "UC11",
             "gid": "AC",
             "name": "Mark Courage",
-            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>PP(+5)"
+            "effect": "MEL Pwr(+40),<br>RNG Pwr(+40),<br>TEC Pwr(+40),<br>PP(+5)",
         },
         {
             "code": "UC21",
             "gid": "AC",
             "name": "Mark Anger",
-            "effect": "MEL Pwr(+50),<br>RNG Pwr(+50),<br>TEC Pwr(+50),<br>DEX(+40)"
+            "effect": "MEL Pwr(+50),<br>RNG Pwr(+50),<br>TEC Pwr(+50),<br>DEX(+40)",
         },
         {
             "code": "UC31",
             "gid": "AC",
             "name": "Mark Grief",
-            "effect": "MEL Def(+50),<br>RNG Def(+50),<br>TEC Def(+50),<br>HP(+80)"
+            "effect": "MEL Def(+50),<br>RNG Def(+50),<br>TEC Def(+50),<br>HP(+80)",
         },
         {
             "code": "ID01",
@@ -9031,7 +8895,7 @@
         },
         {
             "code": "YA05",
-            "gid": "CB",
+            "gid": "AC",
             "name": "Sentence Arma",
             "effect": "MEL Pwr(+20),<br>HP(+20),<br>PP(+3)"
         },
@@ -9043,7 +8907,7 @@
         },
         {
             "code": "YA15",
-            "gid": "CB",
+            "gid": "AC",
             "name": "Sentence Tyro",
             "effect": "RNG Pwr(+20),<br>HP(+20),<br>PP(+3)"
         },
@@ -9055,55 +8919,55 @@
         },
         {
             "code": "YA25",
-            "gid": "CB",
+            "gid": "AC",
             "name": "Sentence Magia",
             "effect": "TEC Pwr(+20),<br>HP(+20),<br>PP(+3)"
         },
         {
             "code": "YA31",
-            "gid": "CB",
+            "gid": "AC",
             "name": "Sentence Triple",
             "effect": "MEL Pwr(+30),RNG Pwr(+30),TEC Pwr(+30)"
         },
         {
             "code": "YB41",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Phrase Reduce",
             "effect": "PP consumption decreases by 4%."
         },
         {
             "code": "YB51",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Phrase Decay",
             "effect": "Boosts damage inflicted to enemies<br>affected by Jellen by 5%."
         },
         {
             "code": "YB01",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Phrase Recovery",
             "effect": "+5% PP Recovery Rate"
         },
         {
             "code": "YB11",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Phrase Weak",
             "effect": "+2% Elemental Weakness damage"
         },
         {
             "code": "YB21",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Phrase Response",
             "effect": "+5% ATK PP Recovery"
         },
         {
             "code": "YB31",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Phrase Chase",
             "effect": "+5% damage against enemies<BR>with Status Effects"
         },
         {
             "code": "VA01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Lucky Charm I",
             "lvup": "VA02",
             "extend": [
@@ -9116,7 +8980,7 @@
         },
         {
             "code": "VA02",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Lucky Charm II",
             "lvup": "VA03",
             "extend": [
@@ -9133,7 +8997,7 @@
         },
         {
             "code": "VA03",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Lucky Charm III",
             "extend": [
                 0,
@@ -9149,7 +9013,7 @@
         },
         {
             "code": "VB01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Meseta Fever I",
             "lvup": "VZ02",
             "extend": [
@@ -9162,7 +9026,7 @@
         },
         {
             "code": "VZ02",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Meseta Fever II",
             "lvup": "VB03",
             "extend": [
@@ -9179,7 +9043,7 @@
         },
         {
             "code": "VB03",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Meseta Fever III",
             "extend": [
                 0,
@@ -9195,7 +9059,7 @@
         },
         {
             "code": "VC01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Increased EXP I",
             "lvup": "VC02",
             "extend": [
@@ -9208,7 +9072,7 @@
         },
         {
             "code": "VC02",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Increased EXP II",
             "lvup": "VC03",
             "extend": [
@@ -9225,7 +9089,7 @@
         },
         {
             "code": "VC03",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Increased EXP III",
             "extend": [
                 0,
@@ -9241,25 +9105,25 @@
         },
         {
             "code": "VD01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Temptation",
             "effect": "Item Drop Rate +10%"
         },
         {
             "code": "VE01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Alternate History",
             "effect": "Experience Gain +10%"
         },
         {
             "code": "VF01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Fresh Sign",
             "effect": "Boost EXP by 30% until Lv.30"
         },
         {
             "code": "VH01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Ultimate Buster",
             "extend": [
                 0,
@@ -9272,7 +9136,7 @@
         },
         {
             "code": "VH02",
-            "gid": "CB",
+            "gid": "CC",
             "name": "Omega Buster",
             "effect": "Boosts damage against Demons by 3%."
         },
@@ -9432,7 +9296,7 @@
         },
         {
             "code": "VJ01",
-            "gid": "YA",
+            "gid": "CA",
             "name": "Soul Catalyst",
             "extend": [
                 0,
@@ -9444,7 +9308,7 @@
         },
         {
             "code": "VJ02",
-            "gid": "YA",
+            "gid": "CA",
             "name": "Factor Catalyst",
             "extend": [
                 0,
@@ -9456,7 +9320,7 @@
         },
 		{
             "code": "VJ03",
-            "gid": "YA",
+            "gid": "CA",
             "name": "Reverie Catalyst",
             "extend": [
                 0,
@@ -9466,9 +9330,16 @@
             "effect": "HP(+10),<br>PP(+1)",
 			"tooltip": "Made from: Elder Reverie, Luther Reverie, Appregina Reverie, Gemini Reverie, Persona Reverie<br>Used for: Mana Reverie"
         },
+		{
+            "code": "VJ04",
+            "gid": "CA",
+            "name": "Glare Catalyst",
+            "effect": "HP(+10),<br>PP(+1)",
+			"tooltip": "Made from: Berouge Glare, Fodrus Glare, Execour Glare and (Angele Glare or Duminus Glare)<br>Used for: Absolute Glare"
+        },
         {
             "code": "VL01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Polytan's Smile",
             "extend": [
                 100
@@ -9477,7 +9348,7 @@
         },
         {
             "code": "VM01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Arkuma's Smile",
             "extend": [
                 100
@@ -9486,7 +9357,7 @@
         },
         {
             "code": "VN01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Empy Embrace",
             "extend": [
                 100
@@ -9495,7 +9366,7 @@
         },
         {
             "code": "VO01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Augment Guidance",
             "extend": [
                 0,
@@ -9506,7 +9377,7 @@
         },
         {
             "code": "VP01",
-            "gid": "YA",
+            "gid": "CC",
             "name": "Weapon Booster",
             "extend": [
                 100
